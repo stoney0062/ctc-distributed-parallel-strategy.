@@ -1,0 +1,3327 @@
+Sequence	0
+	Epcho 55 Origin:	[ 88 125   0   0   0] 	*e*r*h* 	er	hao	
+	Epcho 55 Decoded: 			Top 0 	er 	hao 	
+			Top 1 	er 	huo 	
+			Top 2 	er 	ha 	
+			Top 3 	er 	huan 	
+			Top 4 	e 	er 	hao 	
+			Top 5 	e 	er 	huo 	
+			Top 6 	er 	hu 	
+			Top 7 	e 	er 	ha 	
+			Top 8 	e 	er 	huan 	
+			Top 9 	er 	hao 	
+
+Sequence	1
+	Epcho 55 Origin:	[80  0  0  0  0] 	*d*u*a*n* 	duan	
+	Epcho 55 Decoded: 			Top 0 	da 	
+			Top 1 	dou 	
+			Top 2 	di 	
+			Top 3 	dian 	
+			Top 4 	deng 	
+			Top 5 	duo 	
+			Top 6 	dao 	
+			Top 7 	dai 	
+			Top 8 	dui 	
+			Top 9 	dong 	
+
+Sequence	2
+	Epcho 55 Origin:	[265 119   0   0   0] 	*p*i*n*g*g*u*o* 	ping	guo	
+	Epcho 55 Decoded: 			Top 0 	ping 	guo 	
+			Top 1 	pei 	guo 	
+			Top 2 	pi 	guo 	
+			Top 3 	pai 	guo 	
+			Top 4 	pao 	guo 	
+			Top 5 	pian 	guo 	
+			Top 6 	pa 	guo 	
+			Top 7 	peng 	guo 	
+			Top 8 	pu 	guo 	
+			Top 9 	pang 	guo 	
+
+Sequence	3
+	Epcho 55 Origin:	[313 143   0   0   0] 	*s*h*a*n*g*j*i*a* 	shang	jia	
+	Epcho 55 Decoded: 			Top 0 	shi 	jia 	
+			Top 1 	shi 	jie 	
+			Top 2 	shi 	ju 	
+			Top 3 	shi 	jin 	
+			Top 4 	shen 	jia 	
+			Top 5 	shang 	jia 	
+			Top 6 	shen 	jie 	
+			Top 7 	shang 	jie 	
+			Top 8 	shou 	jia 	
+			Top 9 	shui 	jia 	
+
+Sequence	4
+	Epcho 55 Origin:	[125 374   0   0   0] 	*h*s*o*x* 	hao	xiang	
+	Epcho 55 Decoded: 			Top 0 	hao 	shi 	xiang 	
+			Top 1 	hai 	shi 	xiang 	
+			Top 2 	hao 	se 	xiang 	
+			Top 3 	hao 	xiang 	
+			Top 4 	hai 	se 	xiang 	
+			Top 5 	hui 	shi 	xiang 	
+			Top 6 	hai 	xiang 	
+			Top 7 	he 	shi 	xiang 	
+			Top 8 	hen 	shi 	xiang 	
+			Top 9 	hui 	se 	xiang 	
+
+Sequence	5
+	Epcho 55 Origin:	[365 182   0   0   0] 	*w*l* 	wei	le	
+	Epcho 55 Decoded: 			Top 0 	wo 	le 	
+			Top 1 	wo 	lai 	
+			Top 2 	wo 	li 	
+			Top 3 	wo 	liao 	
+			Top 4 	wo 	luo 	
+			Top 5 	wu 	le 	
+			Top 6 	wan 	le 	
+			Top 7 	wo 	lao 	
+			Top 8 	wei 	le 	
+			Top 9 	wo 	lia 	
+
+Sequence	6
+	Epcho 55 Origin:	[224 389   0   0   0] 	*n*a*y*a*o* 	na	yao	
+	Epcho 55 Decoded: 			Top 0 	ni 	yi 	
+			Top 1 	ni 	yang 	
+			Top 2 	ni 	you 	
+			Top 3 	ni 	ye 	
+			Top 4 	na 	yi 	
+			Top 5 	yi 	
+			Top 6 	na 	yang 	
+			Top 7 	na 	you 	
+			Top 8 	na 	ye 	
+			Top 9 	ni 	yao 	
+
+Sequence	7
+	Epcho 55 Origin:	[162 391   0   0   0] 	*j*e*y* 	ke	yi	
+	Epcho 55 Decoded: 			Top 0 	jiu 	yi 	
+			Top 1 	ji 	yi 	
+			Top 2 	jie 	yi 	
+			Top 3 	jin 	yi 	
+			Top 4 	jia 	yi 	
+			Top 5 	jian 	yi 	
+			Top 6 	jiao 	yi 	
+			Top 7 	jing 	yi 	
+			Top 8 	ju 	yi 	
+			Top 9 	jiang 	yi 	
+
+Sequence	8
+	Epcho 55 Origin:	[86 81  0  0  0] 	*e*n*d*u*i* 	en	dui	
+	Epcho 55 Decoded: 			Top 0 	en 	da 	
+			Top 1 	en 	de 	
+			Top 2 	en 	dui 	
+			Top 3 	e 	en 	da 	
+			Top 4 	e 	en 	de 	
+			Top 5 	e 	en 	dui 	
+			Top 6 	er 	en 	da 	
+			Top 7 	wo 	en 	da 	
+			Top 8 	en 	da 	
+			Top 9 	ei 	en 	da 	
+
+Sequence	9
+	Epcho 55 Origin:	[102 182   0   0   0] 	*g*a*i*l*e* 	gai	le	
+	Epcho 55 Decoded: 			Top 0 	gan 	le 	
+			Top 1 	gao 	le 	
+			Top 2 	guo 	le 	
+			Top 3 	gong 	le 	
+			Top 4 	le 	
+			Top 5 	gan 	lv 	
+			Top 6 	gao 	lv 	
+			Top 7 	guo 	lv 	
+			Top 8 	gong 	lv 	
+			Top 9 	lv 	
+
+Sequence	10
+	Epcho 55 Origin:	[417   0   0   0   0] 	*z*h*e* 	zhe	
+	Epcho 55 Decoded: 			Top 0 	zhe 	
+			Top 1 	zai 	
+			Top 2 	zhi 	
+			Top 3 	zuo 	
+			Top 4 	zhen 	
+			Top 5 	zhao 	
+			Top 6 	zhu 	
+			Top 7 	zhong 	
+			Top 8 	zi 	
+			Top 9 	zao 	
+
+Sequence	11
+	Epcho 55 Origin:	[104 104   0   0   0] 	*g*a*n*g*g*a*n*g* 	gang	gang	
+	Epcho 55 Decoded: 			Top 0 	gan 	gang 	
+			Top 1 	gao 	gang 	
+			Top 2 	guo 	gang 	
+			Top 3 	gong 	gang 	
+			Top 4 	gang 	
+			Top 5 	gei 	gang 	
+			Top 6 	guan 	gang 	
+			Top 7 	ge 	gang 	
+			Top 8 	gu 	gang 	
+			Top 9 	gen 	gang 	
+
+Sequence	12
+	Epcho 55 Origin:	[428 380   0   0   0] 	*z*x* 	zhuang	xiu	
+	Epcho 55 Decoded: 			Top 0 	zhe 	xin 	
+			Top 1 	zhe 	xi 	
+			Top 2 	zai 	xin 	
+			Top 3 	zhe 	xie 	
+			Top 4 	zhi 	xin 	
+			Top 5 	zai 	xi 	
+			Top 6 	zhi 	xi 	
+			Top 7 	zhe 	xue 	
+			Top 8 	zai 	xie 	
+			Top 9 	zhi 	xie 	
+
+Sequence	13
+	Epcho 55 Origin:	[193 417   0   0   0] 	*l*i*u*z*h*e* 	liu	zhe	
+	Epcho 55 Decoded: 			Top 0 	li 	zhe 	
+			Top 1 	lao 	zhe 	
+			Top 2 	lai 	zhe 	
+			Top 3 	liang 	zhe 	
+			Top 4 	liu 	zhe 	
+			Top 5 	li 	zai 	
+			Top 6 	lao 	zai 	
+			Top 7 	lian 	zhe 	
+			Top 8 	la 	zhe 	
+			Top 9 	lai 	zai 	
+
+Sequence	14
+	Epcho 55 Origin:	[321 313   0   0   0] 	*s*h*u*s* 	shu	shang	
+	Epcho 55 Decoded: 			Top 0 	shi 	
+			Top 1 	shi 	shang 	
+			Top 2 	shi 	she 	
+			Top 3 	shen 	
+			Top 4 	shang 	
+			Top 5 	shi 	
+			Top 6 	shou 	
+			Top 7 	shui 	
+			Top 8 	shuo 	
+			Top 9 	si 	
+
+Sequence	15
+	Epcho 55 Origin:	[205 432   0   0   0] 	*m*a*i*z*i* 	mai	zi	
+	Epcho 55 Decoded: 			Top 0 	mei 	zhe 	
+			Top 1 	ma 	zhe 	
+			Top 2 	mei 	zai 	
+			Top 3 	mai 	zhe 	
+			Top 4 	ming 	zhe 	
+			Top 5 	mo 	zhe 	
+			Top 6 	mei 	zhi 	
+			Top 7 	mei 	zi 	
+			Top 8 	man 	zhe 	
+			Top 9 	mu 	zhe 	
+
+Sequence	16
+	Epcho 55 Origin:	[371  26   0   0   0] 	*x*i*c* 	xi	can	
+	Epcho 55 Decoded: 			Top 0 	xiao 	cai 	
+			Top 1 	xiao 	che 	
+			Top 2 	xiang 	cai 	
+			Top 3 	xi 	cai 	
+			Top 4 	xin 	cai 	
+			Top 5 	xia 	cai 	
+			Top 6 	xiang 	che 	
+			Top 7 	xi 	che 	
+			Top 8 	xin 	che 	
+			Top 9 	xian 	cai 	
+
+Sequence	17
+	Epcho 55 Origin:	[368  22 319   0   0] 	*w*o*b*u*s* 	wo	bu	shi	
+	Epcho 55 Decoded: 			Top 0 	wo 	bu 	shi 	
+			Top 1 	wo 	bu 	shuo 	
+			Top 2 	wo 	ba 	shi 	
+			Top 3 	wu 	bu 	shi 	
+			Top 4 	wan 	bu 	shi 	
+			Top 5 	wei 	bu 	shi 	
+			Top 6 	wo 	ba 	shuo 	
+			Top 7 	wo 	bu 	sha 	
+			Top 8 	wang 	bu 	shi 	
+			Top 9 	wen 	bu 	shi 	
+
+Sequence	18
+	Epcho 55 Origin:	[383 147   0   0   0] 	*x*u*e*j*i*e* 	xue	jie	
+	Epcho 55 Decoded: 			Top 0 	xiao 	jie 	
+			Top 1 	xiang 	jie 	
+			Top 2 	xi 	jie 	
+			Top 3 	xin 	jie 	
+			Top 4 	xia 	jie 	
+			Top 5 	xian 	jie 	
+			Top 6 	xing 	jie 	
+			Top 7 	xie 	jie 	
+			Top 8 	xue 	jie 	
+			Top 9 	xiu 	jie 	
+
+Sequence	19
+	Epcho 55 Origin:	[328 229   0   0   0] 	*s*h*u*o*n*e* 	shuo	ne	
+	Epcho 55 Decoded: 			Top 0 	shi 	ni 	
+			Top 1 	shen 	ni 	
+			Top 2 	shang 	ni 	
+			Top 3 	shou 	ni 	
+			Top 4 	shui 	ni 	
+			Top 5 	shuo 	ni 	
+			Top 6 	si 	ni 	
+			Top 7 	sha 	ni 	
+			Top 8 	sheng 	ni 	
+			Top 9 	san 	ni 	
+
+Sequence	20
+	Epcho 55 Origin:	[143 182   0   0   0] 	*j*i*a*l* 	jia	le	
+	Epcho 55 Decoded: 			Top 0 	jiu 	li 	
+			Top 1 	ji 	li 	
+			Top 2 	jiu 	le 	
+			Top 3 	jie 	li 	
+			Top 4 	ji 	le 	
+			Top 5 	jin 	li 	
+			Top 6 	jia 	li 	
+			Top 7 	jian 	li 	
+			Top 8 	jiao 	li 	
+			Top 9 	jie 	le 	
+
+Sequence	21
+	Epcho 55 Origin:	[368 125 374   0   0] 	*w*h*x* 	wo	hao	xiang	
+	Epcho 55 Decoded: 			Top 0 	wo 	hai 	xiang 	
+			Top 1 	wo 	hui 	xiang 	
+			Top 2 	wo 	hao 	xiang 	
+			Top 3 	wo 	he 	xiang 	
+			Top 4 	wu 	hai 	xiang 	
+			Top 5 	wan 	hai 	xiang 	
+			Top 6 	wei 	hai 	xiang 	
+			Top 7 	wang 	hai 	xiang 	
+			Top 8 	wen 	hai 	xiang 	
+			Top 9 	wu 	hui 	xiang 	
+
+Sequence	22
+	Epcho 55 Origin:	[ 88 196   0   0   0] 	*e*r*l* 	er	lou	
+	Epcho 55 Decoded: 			Top 0 	er 	lou 	
+			Top 1 	e 	er 	lou 	
+			Top 2 	er 	lou 	
+			Top 3 	er 	lai 	
+			Top 4 	wo 	er 	lou 	
+			Top 5 	er 	liang 	
+			Top 6 	en 	er 	lou 	
+			Top 7 	ei 	er 	lou 	
+			Top 8 	er 	lu 	
+			Top 9 	er 	le 	
+
+Sequence	23
+	Epcho 55 Origin:	[338 211   0   0   0] 	*t*a*m*e*n* 	ta	men	
+	Epcho 55 Decoded: 			Top 0 	tai 	men 	
+			Top 1 	ting 	men 	
+			Top 2 	ta 	men 	
+			Top 3 	tong 	men 	
+			Top 4 	tai 	ma 	
+			Top 5 	tou 	men 	
+			Top 6 	ting 	ma 	
+			Top 7 	tian 	men 	
+			Top 8 	ta 	ma 	
+			Top 9 	ti 	men 	
+
+Sequence	24
+	Epcho 55 Origin:	[377 234   0   0   0] 	*x*i*n*n*i*a*m* 	xin	nian	
+	Epcho 55 Decoded: 			Top 0 	xiao 	nian 	
+			Top 1 	xiang 	nian 	
+			Top 2 	xi 	nian 	
+			Top 3 	xin 	nian 	
+			Top 4 	xia 	nian 	
+			Top 5 	xiao 	nian 	
+			Top 6 	xian 	nian 	
+			Top 7 	xing 	nian 	
+			Top 8 	xie 	nian 	
+			Top 9 	xiang 	nian 	
+
+Sequence	25
+	Epcho 55 Origin:	[377 234   0   0   0] 	*x*i*n*n*i*a*n* 	xin	nian	
+	Epcho 55 Decoded: 			Top 0 	xiao 	nian 	
+			Top 1 	xiang 	nian 	
+			Top 2 	xi 	nian 	
+			Top 3 	xin 	nian 	
+			Top 4 	xia 	nian 	
+			Top 5 	xiao 	nian 	
+			Top 6 	xian 	nian 	
+			Top 7 	xing 	nian 	
+			Top 8 	xie 	nian 	
+			Top 9 	xiang 	nian 	
+
+Sequence	26
+	Epcho 55 Origin:	[390 432   0   0   0] 	*y*e*z*i* 	ye	zi	
+	Epcho 55 Decoded: 			Top 0 	yi 	zhu 	
+			Top 1 	yi 	zhi 	
+			Top 2 	you 	zhu 	
+			Top 3 	yi 	zai 	
+			Top 4 	yi 	zi 	
+			Top 5 	you 	zhi 	
+			Top 6 	you 	zai 	
+			Top 7 	you 	zi 	
+			Top 8 	yao 	zhu 	
+			Top 9 	ye 	zhu 	
+
+Sequence	27
+	Epcho 55 Origin:	[336 391   0   0   0] 	*s*u*o*t* 	suo	yi	
+	Epcho 55 Decoded: 			Top 0 	shi 	ti 	
+			Top 1 	shen 	ti 	
+			Top 2 	shang 	ti 	
+			Top 3 	shou 	ti 	
+			Top 4 	shui 	ti 	
+			Top 5 	shuo 	ti 	
+			Top 6 	si 	ti 	
+			Top 7 	sha 	ti 	
+			Top 8 	sheng 	ti 	
+			Top 9 	shi 	yi 	
+
+Sequence	28
+	Epcho 55 Origin:	[210 286 233   0   0] 	*m*e*i*r*a*n*g*n*i* 	mei	rang	ni	
+	Epcho 55 Decoded: 			Top 0 	mei 	ren 	ni 	
+			Top 1 	ma 	ren 	ni 	
+			Top 2 	mei 	ri 	ni 	
+			Top 3 	mai 	ren 	ni 	
+			Top 4 	ming 	ren 	ni 	
+			Top 5 	mo 	ren 	ni 	
+			Top 6 	mei 	rou 	ni 	
+			Top 7 	man 	ren 	ni 	
+			Top 8 	mu 	ren 	ni 	
+			Top 9 	mao 	ren 	ni 	
+
+Sequence	29
+	Epcho 55 Origin:	[336 391   0   0   0] 	*s*u*o*y* 	suo	yi	
+	Epcho 55 Decoded: 			Top 0 	shi 	yi 	
+			Top 1 	shi 	you 	
+			Top 2 	shen 	yi 	
+			Top 3 	shang 	yi 	
+			Top 4 	shen 	you 	
+			Top 5 	shou 	yi 	
+			Top 6 	shang 	you 	
+			Top 7 	shui 	yi 	
+			Top 8 	shuo 	yi 	
+			Top 9 	shou 	you 	
+
+Sequence	30
+	Epcho 55 Origin:	[ 2 66  0  0  0] 	*a*i*d* 	ai	de	
+	Epcho 55 Decoded: 			Top 0 	de 	
+			Top 1 	ai 	de 	
+			Top 2 	a 	de 	
+			Top 3 	da 	
+			Top 4 	dou 	
+			Top 5 	ai 	da 	
+			Top 6 	ai 	dou 	
+			Top 7 	ao 	de 	
+			Top 8 	a 	da 	
+			Top 9 	a 	dou 	
+
+Sequence	31
+	Epcho 55 Origin:	[273 182   0   0   0] 	*q*i*a*n*g*l*e* 	qiang	le	
+	Epcho 55 Decoded: 			Top 0 	qi 	le 	
+			Top 1 	qu 	le 	
+			Top 2 	qing 	le 	
+			Top 3 	qian 	le 	
+			Top 4 	quan 	le 	
+			Top 5 	qin 	le 	
+			Top 6 	qiang 	le 	
+			Top 7 	qiu 	le 	
+			Top 8 	qi 	lie 	
+			Top 9 	qun 	le 	
+
+Sequence	32
+	Epcho 55 Origin:	[363 193   0   0   0] 	*w*a*n*l*i*u* 	wan	liu	
+	Epcho 55 Decoded: 			Top 0 	wo 	le 	
+			Top 1 	wu 	le 	
+			Top 2 	wo 	la 	
+			Top 3 	wan 	le 	
+			Top 4 	wei 	le 	
+			Top 5 	wo 	li 	
+			Top 6 	wang 	le 	
+			Top 7 	wen 	le 	
+			Top 8 	wo 	liu 	
+			Top 9 	wo 	lai 	
+
+Sequence	33
+	Epcho 55 Origin:	[122 403 204   0   0] 	*h*z*m* 	hai	zai	ma	
+	Epcho 55 Decoded: 			Top 0 	hao 	zi 	ma 	
+			Top 1 	hai 	zi 	ma 	
+			Top 2 	hao 	zai 	ma 	
+			Top 3 	hao 	zao 	ma 	
+			Top 4 	hui 	zi 	ma 	
+			Top 5 	hao 	zi 	men 	
+			Top 6 	hai 	zai 	ma 	
+			Top 7 	hao 	zhe 	ma 	
+			Top 8 	he 	zi 	ma 	
+			Top 9 	hao 	zan 	ma 	
+
+Sequence	34
+	Epcho 55 Origin:	[318  63   0   0   0] 	*s*h*e*n*g*d*a*n* 	sheng	dan	
+	Epcho 55 Decoded: 			Top 0 	shi 	dan 	
+			Top 1 	shen 	dan 	
+			Top 2 	shang 	dan 	
+			Top 3 	shou 	dan 	
+			Top 4 	shui 	dan 	
+			Top 5 	shuo 	dan 	
+			Top 6 	shi 	dao 	
+			Top 7 	si 	dan 	
+			Top 8 	sha 	dan 	
+			Top 9 	sheng 	dan 	
+
+Sequence	35
+	Epcho 55 Origin:	[192 362   0   0   0] 	*l*i*n*g*w*a*i* 	ling	wai	
+	Epcho 55 Decoded: 			Top 0 	li 	wai 	
+			Top 1 	lao 	wai 	
+			Top 2 	lai 	wai 	
+			Top 3 	liang 	wai 	
+			Top 4 	liu 	wai 	
+			Top 5 	lian 	wai 	
+			Top 6 	la 	wai 	
+			Top 7 	li 	wu 	
+			Top 8 	lao 	wu 	
+			Top 9 	ling 	wai 	
+
+Sequence	36
+	Epcho 55 Origin:	[ 22 421  65   0   0] 	*b*u*z*h*i*d*a*o* 	bu	zhi	dao	
+	Epcho 55 Decoded: 			Top 0 	bu 	zhi 	dao 	
+			Top 1 	bu 	zhao 	dao 	
+			Top 2 	bu 	zai 	dao 	
+			Top 3 	bu 	zao 	dao 	
+			Top 4 	bu 	zuo 	dao 	
+			Top 5 	bao 	zhi 	dao 	
+			Top 6 	bu 	zhu 	dao 	
+			Top 7 	bu 	zhi 	de 	
+			Top 8 	bu 	zen 	dao 	
+			Top 9 	bu 	zhong 	dao 	
+
+Sequence	37
+	Epcho 55 Origin:	[213 110   0   0   0] 	*m*i*g* 	mi	gong	
+	Epcho 55 Decoded: 			Top 0 	mei 	gu 	
+			Top 1 	mei 	
+			Top 2 	ma 	gu 	
+			Top 3 	mai 	gu 	
+			Top 4 	ming 	gu 	
+			Top 5 	mo 	gu 	
+			Top 6 	man 	gu 	
+			Top 7 	mu 	gu 	
+			Top 8 	mao 	gu 	
+			Top 9 	mi 	gu 	
+
+Sequence	38
+	Epcho 55 Origin:	[368 338 204   0   0] 	*w*o*t*m* 	wo	ta	ma	
+	Epcho 55 Decoded: 			Top 0 	wo 	ting 	ma 	
+			Top 1 	wo 	ta 	ma 	
+			Top 2 	wo 	tong 	ma 	
+			Top 3 	wo 	tian 	ma 	
+			Top 4 	wo 	tou 	ma 	
+			Top 5 	wo 	te 	ma 	
+			Top 6 	wo 	tu 	ma 	
+			Top 7 	wo 	tui 	ma 	
+			Top 8 	wu 	ting 	ma 	
+			Top 9 	wan 	ting 	ma 	
+
+Sequence	39
+	Epcho 55 Origin:	[ 22 421   0   0   0] 	*b*u*z*h*i* 	bu	zhi	
+	Epcho 55 Decoded: 			Top 0 	bu 	zhi 	
+			Top 1 	bu 	zhao 	
+			Top 2 	bu 	zai 	
+			Top 3 	bu 	zao 	
+			Top 4 	bu 	zuo 	
+			Top 5 	bao 	zhi 	
+			Top 6 	bu 	zhu 	
+			Top 7 	bu 	zen 	
+			Top 8 	bu 	zhong 	
+			Top 9 	bie 	zhi 	
+
+Sequence	40
+	Epcho 55 Origin:	[125 386 125 386   0] 	*h*y*h*y* 	hao	ya	hao	ya	
+	Epcho 55 Decoded: 			Top 0 	hao 	you 	huan 	ying 	
+			Top 1 	hao 	yi 	huan 	ying 	
+			Top 2 	hai 	you 	huan 	ying 	
+			Top 3 	hai 	yi 	huan 	ying 	
+			Top 4 	hui 	you 	huan 	ying 	
+			Top 5 	he 	you 	huan 	ying 	
+			Top 6 	hao 	ying 	huan 	ying 	
+			Top 7 	hui 	yi 	huan 	ying 	
+			Top 8 	hao 	you 	huan 	ya 	
+			Top 9 	hen 	you 	huan 	ying 	
+
+Sequence	41
+	Epcho 55 Origin:	[181 364   0   0   0] 	*l*a*o*w* 	lao	wang	
+	Epcho 55 Decoded: 			Top 0 	li 	wang 	
+			Top 1 	lao 	wang 	
+			Top 2 	lai 	wang 	
+			Top 3 	liang 	wang 	
+			Top 4 	liu 	wang 	
+			Top 5 	lian 	wang 	
+			Top 6 	la 	wang 	
+			Top 7 	ling 	wang 	
+			Top 8 	lu 	wang 	
+			Top 9 	li 	wai 	
+
+Sequence	42
+	Epcho 55 Origin:	[362 125   0   0   0] 	*w*a*i*h* 	wai	hao	
+	Epcho 55 Decoded: 			Top 0 	wo 	hao 	
+			Top 1 	wu 	hao 	
+			Top 2 	wan 	hao 	
+			Top 3 	wei 	hao 	
+			Top 4 	wang 	hao 	
+			Top 5 	wen 	hao 	
+			Top 6 	wo 	huo 	
+			Top 7 	wai 	hao 	
+			Top 8 	wa 	hao 	
+			Top 9 	wo 	hui 	
+
+Sequence	43
+	Epcho 55 Origin:	[326  22 416   0   0] 	*s*h*u*i*b*u*z*h*a*o* 	shui	bu	zhao	
+	Epcho 55 Decoded: 			Top 0 	shi 	bu 	zhao 	
+			Top 1 	shi 	ba 	zhao 	
+			Top 2 	shen 	bu 	zhao 	
+			Top 3 	shang 	bu 	zhao 	
+			Top 4 	shou 	bu 	zhao 	
+			Top 5 	shui 	bu 	zhao 	
+			Top 6 	shuo 	bu 	zhao 	
+			Top 7 	shi 	bian 	zhao 	
+			Top 8 	si 	bu 	zhao 	
+			Top 9 	sha 	bu 	zhao 	
+
+Sequence	44
+	Epcho 55 Origin:	[ 99 423   0   0   0] 	*f*z* 	fu	zhou	
+	Epcho 55 Decoded: 			Top 0 	fa 	zhu 	
+			Top 1 	fa 	zi 	
+			Top 2 	fu 	zhu 	
+			Top 3 	fang 	zhu 	
+			Top 4 	fu 	zi 	
+			Top 5 	fang 	zi 	
+			Top 6 	fan 	zhu 	
+			Top 7 	fan 	zi 	
+			Top 8 	fa 	zheng 	
+			Top 9 	fa 	ze 	
+
+Sequence	45
+	Epcho 55 Origin:	[328  66   0   0   0] 	*s*h*u*o*d*e* 	shuo	de	
+	Epcho 55 Decoded: 			Top 0 	shi 	de 	
+			Top 1 	shen 	de 	
+			Top 2 	shang 	de 	
+			Top 3 	shi 	dao 	
+			Top 4 	shou 	de 	
+			Top 5 	shui 	de 	
+			Top 6 	shuo 	de 	
+			Top 7 	si 	de 	
+			Top 8 	sha 	de 	
+			Top 9 	sheng 	de 	
+
+Sequence	46
+	Epcho 55 Origin:	[376 182   0   0   0] 	*x*i*e*l* 	xie	le	
+	Epcho 55 Decoded: 			Top 0 	xiao 	le 	
+			Top 1 	xiang 	le 	
+			Top 2 	xi 	le 	
+			Top 3 	xin 	le 	
+			Top 4 	xia 	le 	
+			Top 5 	xian 	le 	
+			Top 6 	xing 	le 	
+			Top 7 	xie 	le 	
+			Top 8 	xue 	le 	
+			Top 9 	xiao 	la 	
+
+Sequence	47
+	Epcho 55 Origin:	[353 371   0   0   0] 	*t*u*x*i* 	tu	xi	
+	Epcho 55 Decoded: 			Top 0 	tai 	xie 	
+			Top 1 	ting 	xie 	
+			Top 2 	ta 	xie 	
+			Top 3 	tong 	xie 	
+			Top 4 	tou 	xie 	
+			Top 5 	tian 	xie 	
+			Top 6 	ti 	xie 	
+			Top 7 	tu 	xie 	
+			Top 8 	tao 	xie 	
+			Top 9 	tui 	xie 	
+
+Sequence	48
+	Epcho 55 Origin:	[380 365   0   0   0] 	*x*i*u*w* 	xiu	wei	
+	Epcho 55 Decoded: 			Top 0 	xiao 	wen 	
+			Top 1 	xiao 	wo 	
+			Top 2 	xiang 	wen 	
+			Top 3 	xiang 	wo 	
+			Top 4 	xi 	wen 	
+			Top 5 	xin 	wen 	
+			Top 6 	xi 	wo 	
+			Top 7 	xin 	wo 	
+			Top 8 	xia 	wen 	
+			Top 9 	xia 	wo 	
+
+Sequence	49
+	Epcho 55 Origin:	[204  66 421 415   0] 	*m*d*z*z* 	ma	de	zhi	zhang	
+	Epcho 55 Decoded: 			Top 0 	mei 	de 	zhi 	zhang 	
+			Top 1 	mei 	dian 	zhi 	zhang 	
+			Top 2 	ma 	de 	zhi 	zhang 	
+			Top 3 	mei 	dan 	zhi 	zhang 	
+			Top 4 	mei 	dong 	zhi 	zhang 	
+			Top 5 	mai 	de 	zhi 	zhang 	
+			Top 6 	mei 	dui 	zhi 	zhang 	
+			Top 7 	ming 	de 	zhi 	zhang 	
+			Top 8 	mo 	de 	zhi 	zhang 	
+			Top 9 	man 	de 	zhi 	zhang 	
+
+Sequence	50
+	Epcho 55 Origin:	[396  16   0   0   0] 	*y*o*u*b*i*a*n* 	you	bian	
+	Epcho 55 Decoded: 			Top 0 	yi 	bu 	
+			Top 1 	you 	bu 	
+			Top 2 	yi 	bing 	
+			Top 3 	yao 	bu 	
+			Top 4 	yi 	ba 	
+			Top 5 	you 	bing 	
+			Top 6 	ye 	bu 	
+			Top 7 	yi 	ben 	
+			Top 8 	yi 	bei 	
+			Top 9 	yuan 	bu 	
+
+Sequence	51
+	Epcho 55 Origin:	[368 151 319   0   0] 	*w*o*j*i*u*s*h*i* 	wo	jiu	shi	
+	Epcho 55 Decoded: 			Top 0 	wo 	jiu 	shuo 	
+			Top 1 	wo 	jiu 	shi 	
+			Top 2 	wo 	jin 	shuo 	
+			Top 3 	wo 	jia 	shuo 	
+			Top 4 	wo 	ji 	shuo 	
+			Top 5 	wo 	jin 	shi 	
+			Top 6 	wo 	jue 	shuo 	
+			Top 7 	wo 	jia 	shi 	
+			Top 8 	wo 	ji 	shi 	
+			Top 9 	wo 	jue 	shi 	
+
+Sequence	52
+	Epcho 55 Origin:	[416 182   0   0   0] 	*z*h*a*o*l* 	zhao	le	
+	Epcho 55 Decoded: 			Top 0 	zhe 	le 	
+			Top 1 	zai 	le 	
+			Top 2 	zhi 	le 	
+			Top 3 	zhe 	li 	
+			Top 4 	zuo 	le 	
+			Top 5 	zai 	li 	
+			Top 6 	zhen 	le 	
+			Top 7 	zhi 	li 	
+			Top 8 	zhao 	le 	
+			Top 9 	zhu 	le 	
+
+Sequence	53
+	Epcho 55 Origin:	[ 90 107 233   0   0] 	*f*a*g*e*i*n*i* 	fa	gei	ni	
+	Epcho 55 Decoded: 			Top 0 	fa 	gei 	ni 	
+			Top 1 	fu 	gei 	ni 	
+			Top 2 	fang 	gei 	ni 	
+			Top 3 	fa 	guo 	ni 	
+			Top 4 	fan 	gei 	ni 	
+			Top 5 	fu 	guo 	ni 	
+			Top 6 	fang 	guo 	ni 	
+			Top 7 	fei 	gei 	ni 	
+			Top 8 	fa 	ge 	ni 	
+			Top 9 	fen 	gei 	ni 	
+
+Sequence	54
+	Epcho 55 Origin:	[353 125   0   0   0] 	*t*u*h*a*i* 	tu	hao	
+	Epcho 55 Decoded: 			Top 0 	tai 	hao 	
+			Top 1 	ting 	hao 	
+			Top 2 	ta 	hao 	
+			Top 3 	tong 	hao 	
+			Top 4 	tou 	hao 	
+			Top 5 	tian 	hao 	
+			Top 6 	ti 	hao 	
+			Top 7 	tu 	hao 	
+			Top 8 	tao 	hao 	
+			Top 9 	tui 	hao 	
+
+Sequence	55
+	Epcho 55 Origin:	[353 125   0   0   0] 	*t*u*h*a*o* 	tu	hao	
+	Epcho 55 Decoded: 			Top 0 	tai 	hao 	
+			Top 1 	ting 	hao 	
+			Top 2 	ta 	hao 	
+			Top 3 	tong 	hao 	
+			Top 4 	tou 	hao 	
+			Top 5 	tian 	hao 	
+			Top 6 	ti 	hao 	
+			Top 7 	tu 	hao 	
+			Top 8 	tao 	hao 	
+			Top 9 	tui 	hao 	
+
+Sequence	56
+	Epcho 55 Origin:	[122 168   0   0   0] 	*h*a*i*k*u* 	hai	ku	
+	Epcho 55 Decoded: 			Top 0 	hao 	ke 	
+			Top 1 	hai 	ke 	
+			Top 2 	hao 	kan 	
+			Top 3 	hai 	kan 	
+			Top 4 	hui 	ke 	
+			Top 5 	he 	ke 	
+			Top 6 	hao 	kuai 	
+			Top 7 	hen 	ke 	
+			Top 8 	hui 	kan 	
+			Top 9 	hai 	kuai 	
+
+Sequence	57
+	Epcho 55 Origin:	[188 303 106   0   0] 	*l*s*g* 	liang	san	ge	
+	Epcho 55 Decoded: 			Top 0 	li 	shi 	gong 	
+			Top 1 	lao 	shi 	gong 	
+			Top 2 	li 	shi 	ge 	
+			Top 3 	lai 	shi 	gong 	
+			Top 4 	lao 	shi 	ge 	
+			Top 5 	liang 	shi 	gong 	
+			Top 6 	liu 	shi 	gong 	
+			Top 7 	lai 	shi 	ge 	
+			Top 8 	liang 	shi 	ge 	
+			Top 9 	liu 	shi 	ge 	
+
+Sequence	58
+	Epcho 55 Origin:	[145 319   0   0   0] 	*j*i*a*n*g*s* 	jiang	shi	
+	Epcho 55 Decoded: 			Top 0 	jiu 	su 	
+			Top 1 	ji 	su 	
+			Top 2 	jiu 	shi 	
+			Top 3 	ji 	shi 	
+			Top 4 	jie 	su 	
+			Top 5 	jie 	shi 	
+			Top 6 	jin 	su 	
+			Top 7 	jia 	su 	
+			Top 8 	jian 	su 	
+			Top 9 	jin 	shi 	
+
+Sequence	59
+	Epcho 55 Origin:	[78  0  0  0  0] 	*d*i*u* 	dou	
+	Epcho 55 Decoded: 			Top 0 	da 	
+			Top 1 	dou 	
+			Top 2 	di 	
+			Top 3 	dian 	
+			Top 4 	deng 	
+			Top 5 	duo 	
+			Top 6 	dao 	
+			Top 7 	dai 	
+			Top 8 	dui 	
+			Top 9 	dong 	
+
+Sequence	60
+	Epcho 55 Origin:	[429 279   0   0   0] 	*z*h*u*i*q* 	zhui	qiu	
+	Epcho 55 Decoded: 			Top 0 	zhe 	qiu 	
+			Top 1 	zai 	qiu 	
+			Top 2 	zhi 	qiu 	
+			Top 3 	zuo 	qiu 	
+			Top 4 	zhen 	qiu 	
+			Top 5 	zhao 	qiu 	
+			Top 6 	zhu 	qiu 	
+			Top 7 	zhong 	qiu 	
+			Top 8 	zi 	qiu 	
+			Top 9 	zao 	qiu 	
+
+Sequence	61
+	Epcho 55 Origin:	[368 319 316   0   0] 	*w*o*s*s* 	wo	shi	shei	
+	Epcho 55 Decoded: 			Top 0 	wo 	shi 	shuo 	
+			Top 1 	wo 	shuo 	
+			Top 2 	wo 	shui 	shuo 	
+			Top 3 	wo 	shou 	shuo 	
+			Top 4 	wo 	shang 	shuo 	
+			Top 5 	wo 	shen 	shuo 	
+			Top 6 	wu 	shi 	shuo 	
+			Top 7 	wan 	shi 	shuo 	
+			Top 8 	wo 	shi 	
+			Top 9 	wei 	shi 	shuo 	
+
+Sequence	62
+	Epcho 55 Origin:	[137 391   0   0   0] 	*h*u*i*y*i* 	hui	yi	
+	Epcho 55 Decoded: 			Top 0 	hao 	yi 	
+			Top 1 	hao 	you 	
+			Top 2 	hao 	yuan 	
+			Top 3 	hai 	yi 	
+			Top 4 	hai 	you 	
+			Top 5 	hai 	yuan 	
+			Top 6 	hui 	yi 	
+			Top 7 	hui 	you 	
+			Top 8 	he 	yi 	
+			Top 9 	he 	you 	
+
+Sequence	63
+	Epcho 55 Origin:	[257   0   0   0   0] 	*p* 	pei	
+	Epcho 55 Decoded: 			Top 0 	ping 	
+			Top 1 	pei 	
+			Top 2 	pi 	
+			Top 3 	pai 	
+			Top 4 	pao 	
+			Top 5 	pian 	
+			Top 6 	pa 	
+			Top 7 	peng 	
+			Top 8 	pu 	
+			Top 9 	pang 	
+
+Sequence	64
+	Epcho 55 Origin:	[119 363   0   0   0] 	*g*u*o*w*a*n* 	guo	wan	
+	Epcho 55 Decoded: 			Top 0 	gan 	wan 	
+			Top 1 	gao 	wan 	
+			Top 2 	guo 	wan 	
+			Top 3 	gong 	wan 	
+			Top 4 	wan 	
+			Top 5 	gan 	wai 	
+			Top 6 	gan 	wang 	
+			Top 7 	gao 	wai 	
+			Top 8 	gao 	wang 	
+			Top 9 	guo 	wai 	
+
+Sequence	65
+	Epcho 55 Origin:	[197   0   0   0   0] 	*l*u* 	lu	
+	Epcho 55 Decoded: 			Top 0 	li 	
+			Top 1 	lao 	
+			Top 2 	lai 	
+			Top 3 	liang 	
+			Top 4 	liu 	
+			Top 5 	lian 	
+			Top 6 	la 	
+			Top 7 	ling 	
+			Top 8 	lu 	
+			Top 9 	le 	
+
+Sequence	66
+	Epcho 55 Origin:	[419 178   0   0   0] 	*z*h*e*n*l*a*i* 	zhen	lai	
+	Epcho 55 Decoded: 			Top 0 	zhe 	li 	
+			Top 1 	zai 	li 	
+			Top 2 	zhi 	li 	
+			Top 3 	zhe 	lei 	
+			Top 4 	zai 	lei 	
+			Top 5 	zhi 	lei 	
+			Top 6 	zuo 	li 	
+			Top 7 	zhen 	li 	
+			Top 8 	zhao 	li 	
+			Top 9 	zhe 	leng 	
+
+Sequence	67
+	Epcho 55 Origin:	[224 347   0   0   0] 	*n*t* 	na	tian	
+	Epcho 55 Decoded: 			Top 0 	ni 	tian 	
+			Top 1 	na 	tian 	
+			Top 2 	ni 	ta 	
+			Top 3 	ni 	tong 	
+			Top 4 	tian 	
+			Top 5 	ni 	ting 	
+			Top 6 	na 	ta 	
+			Top 7 	na 	tong 	
+			Top 8 	ta 	
+			Top 9 	tong 	
+
+Sequence	68
+	Epcho 55 Origin:	[198 182   0   0   0] 	*l*u*a*n*l* 	luan	le	
+	Epcho 55 Decoded: 			Top 0 	li 	le 	
+			Top 1 	lao 	le 	
+			Top 2 	lai 	le 	
+			Top 3 	liang 	le 	
+			Top 4 	liu 	le 	
+			Top 5 	lian 	le 	
+			Top 6 	la 	le 	
+			Top 7 	ling 	le 	
+			Top 8 	lu 	le 	
+			Top 9 	le 	
+
+Sequence	69
+	Epcho 55 Origin:	[375 383 318   0   0] 	*x*i*a*o*x*u*e*s* 	xiao	xue	sheng	
+	Epcho 55 Decoded: 			Top 0 	xiao 	xue 	sheng 	
+			Top 1 	xiao 	sheng 	
+			Top 2 	xiang 	xue 	sheng 	
+			Top 3 	xiao 	xin 	sheng 	
+			Top 4 	xi 	xue 	sheng 	
+			Top 5 	xin 	xue 	sheng 	
+			Top 6 	xia 	xue 	sheng 	
+			Top 7 	xiang 	sheng 	
+			Top 8 	xi 	sheng 	
+			Top 9 	xiang 	xin 	sheng 	
+
+Sequence	70
+	Epcho 55 Origin:	[365 280   0   0   0] 	*w*e*i*q* 	wei	qu	
+	Epcho 55 Decoded: 			Top 0 	wo 	qu 	
+			Top 1 	wu 	qu 	
+			Top 2 	wan 	qu 	
+			Top 3 	wei 	qu 	
+			Top 4 	wang 	qu 	
+			Top 5 	wen 	qu 	
+			Top 6 	wo 	qi 	
+			Top 7 	wai 	qu 	
+			Top 8 	wa 	qu 	
+			Top 9 	wo 	qun 	
+
+Sequence	71
+	Epcho 55 Origin:	[ 70 210   0   0   0] 	*d*i*m* 	di	mei	
+	Epcho 55 Decoded: 			Top 0 	da 	mian 	
+			Top 1 	da 	mei 	
+			Top 2 	dou 	mian 	
+			Top 3 	di 	mian 	
+			Top 4 	dian 	mian 	
+			Top 5 	dou 	mei 	
+			Top 6 	deng 	mian 	
+			Top 7 	duo 	mian 	
+			Top 8 	dao 	mian 	
+			Top 9 	dai 	mian 	
+
+Sequence	72
+	Epcho 55 Origin:	[185   0   0   0   0] 	*n*i* 	li	
+	Epcho 55 Decoded: 			Top 0 	ni 	
+			Top 1 	na 	
+			Top 2 	
+			Top 3 	nan 	
+			Top 4 	nei 	
+			Top 5 	nv 	
+			Top 6 	nu 	
+			Top 7 	nian 	
+			Top 8 	ne 	
+			Top 9 	nong 	
+
+Sequence	73
+	Epcho 55 Origin:	[319 153   0   0   0] 	*s*j* 	shi	juan	
+	Epcho 55 Decoded: 			Top 0 	shi 	ji 	
+			Top 1 	shi 	
+			Top 2 	shi 	jiao 	
+			Top 3 	shen 	ji 	
+			Top 4 	shang 	ji 	
+			Top 5 	shou 	ji 	
+			Top 6 	shi 	jing 	
+			Top 7 	shui 	ji 	
+			Top 8 	shuo 	ji 	
+			Top 9 	shen 	
+
+Sequence	74
+	Epcho 55 Origin:	[368 137   0   0   0] 	*w*h*u*i* 	wo	hui	
+	Epcho 55 Decoded: 			Top 0 	wo 	hai 	
+			Top 1 	wo 	hui 	
+			Top 2 	wo 	hao 	
+			Top 3 	wo 	he 	
+			Top 4 	wu 	hai 	
+			Top 5 	wan 	hai 	
+			Top 6 	wei 	hai 	
+			Top 7 	wang 	hai 	
+			Top 8 	wen 	hai 	
+			Top 9 	wu 	hui 	
+
+Sequence	75
+	Epcho 55 Origin:	[368 122 319   0   0] 	*w*o*h*s* 	wo	hai	shi	
+	Epcho 55 Decoded: 			Top 0 	wo 	hai 	shi 	
+			Top 1 	wo 	hao 	shi 	
+			Top 2 	wo 	hui 	shi 	
+			Top 3 	wo 	he 	shi 	
+			Top 4 	wu 	hai 	shi 	
+			Top 5 	wan 	hai 	shi 	
+			Top 6 	wo 	hai 	
+			Top 7 	wei 	hai 	shi 	
+			Top 8 	wang 	hai 	shi 	
+			Top 9 	wen 	hai 	shi 	
+
+Sequence	76
+	Epcho 55 Origin:	[41 22 41  0  0] 	*c*h*i*b*u*c* 	chi	bu	chi	
+	Epcho 55 Decoded: 			Top 0 	chi 	bao 	chi 	
+			Top 1 	chu 	bao 	chi 	
+			Top 2 	chi 	bu 	chi 	
+			Top 3 	chu 	bu 	chi 	
+			Top 4 	cai 	bao 	chi 	
+			Top 5 	chi 	ba 	chi 	
+			Top 6 	chu 	ba 	chi 	
+			Top 7 	cheng 	bao 	chi 	
+			Top 8 	chi 	bang 	chi 	
+			Top 9 	cai 	bu 	chi 	
+
+Sequence	77
+	Epcho 55 Origin:	[ 78 125   0   0   0] 	*d*o*u*h* 	dou	hao	
+	Epcho 55 Decoded: 			Top 0 	da 	hao 	
+			Top 1 	da 	hui 	
+			Top 2 	da 	hai 	
+			Top 3 	dou 	hao 	
+			Top 4 	dou 	hui 	
+			Top 5 	di 	hao 	
+			Top 6 	dou 	hai 	
+			Top 7 	di 	hui 	
+			Top 8 	dian 	hao 	
+			Top 9 	dian 	hui 	
+
+Sequence	78
+	Epcho 55 Origin:	[50 57  0  0  0] 	*c*h*u*n*c* 	chun	cui	
+	Epcho 55 Decoded: 			Top 0 	chi 	cui 	
+			Top 1 	chu 	cui 	
+			Top 2 	cai 	cui 	
+			Top 3 	cheng 	cui 	
+			Top 4 	chang 	cui 	
+			Top 5 	chao 	cui 	
+			Top 6 	chong 	cui 	
+			Top 7 	cha 	cui 	
+			Top 8 	che 	cui 	
+			Top 9 	chou 	cui 	
+
+Sequence	79
+	Epcho 55 Origin:	[126 185   0   0   0] 	*h*e*l*i* 	he	li	
+	Epcho 55 Decoded: 			Top 0 	hao 	le 	
+			Top 1 	hai 	le 	
+			Top 2 	hui 	le 	
+			Top 3 	he 	le 	
+			Top 4 	hen 	le 	
+			Top 5 	hua 	le 	
+			Top 6 	hao 	li 	
+			Top 7 	huo 	le 	
+			Top 8 	hu 	le 	
+			Top 9 	hou 	le 	
+
+Sequence	80
+	Epcho 55 Origin:	[ 39 312   0   0   0] 	*c*h*e*n*s* 	chen	shan	
+	Epcho 55 Decoded: 			Top 0 	chi 	shan 	
+			Top 1 	chu 	shan 	
+			Top 2 	cai 	shan 	
+			Top 3 	cheng 	shan 	
+			Top 4 	chang 	shan 	
+			Top 5 	chao 	shan 	
+			Top 6 	chong 	shan 	
+			Top 7 	cha 	shan 	
+			Top 8 	che 	shan 	
+			Top 9 	chou 	shan 	
+
+Sequence	81
+	Epcho 55 Origin:	[121 121 121 121   0] 	*h*h*h*h* 	ha	ha	ha	ha	
+	Epcho 55 Decoded: 			Top 0 	hao 	
+			Top 1 	hai 	
+			Top 2 	hui 	
+			Top 3 	he 	
+			Top 4 	hen 	
+			Top 5 	hua 	
+			Top 6 	huo 	
+			Top 7 	hao 	
+			Top 8 	hu 	
+			Top 9 	hou 	
+
+Sequence	82
+	Epcho 55 Origin:	[ 43 145   0   0   0] 	*c*j* 	chou	jiang	
+	Epcho 55 Decoded: 			Top 0 	chi 	ji 	
+			Top 1 	chu 	ji 	
+			Top 2 	chi 	jia 	
+			Top 3 	chu 	jia 	
+			Top 4 	chi 	jie 	
+			Top 5 	chu 	jie 	
+			Top 6 	cai 	ji 	
+			Top 7 	chi 	jing 	
+			Top 8 	chi 	
+			Top 9 	chu 	jing 	
+
+Sequence	83
+	Epcho 55 Origin:	[390 226   0   0   0] 	*y*e*n*a*n* 	ye	nan	
+	Epcho 55 Decoded: 			Top 0 	yi 	nan 	
+			Top 1 	yi 	neng 	nan 	
+			Top 2 	you 	nan 	
+			Top 3 	you 	neng 	nan 	
+			Top 4 	yao 	nan 	
+			Top 5 	ye 	nan 	
+			Top 6 	yao 	neng 	nan 	
+			Top 7 	ye 	neng 	nan 	
+			Top 8 	yuan 	nan 	
+			Top 9 	yu 	nan 	
+
+Sequence	84
+	Epcho 55 Origin:	[402 390   0   0   0] 	*z*a*y*e* 	za	ye	
+	Epcho 55 Decoded: 			Top 0 	zhe 	yang 	
+			Top 1 	zai 	yang 	
+			Top 2 	zhi 	yang 	
+			Top 3 	zuo 	yang 	
+			Top 4 	zhen 	yang 	
+			Top 5 	zhao 	yang 	
+			Top 6 	zhu 	yang 	
+			Top 7 	zhong 	yang 	
+			Top 8 	zi 	yang 	
+			Top 9 	zao 	yang 	
+
+Sequence	85
+	Epcho 55 Origin:	[256 182   0   0   0] 	*p*a*o*l*e* 	pao	le	
+	Epcho 55 Decoded: 			Top 0 	ping 	le 	
+			Top 1 	pei 	le 	
+			Top 2 	pi 	le 	
+			Top 3 	pai 	le 	
+			Top 4 	pao 	le 	
+			Top 5 	pian 	le 	
+			Top 6 	pa 	le 	
+			Top 7 	peng 	le 	
+			Top 8 	pu 	le 	
+			Top 9 	pang 	le 	
+
+Sequence	86
+	Epcho 55 Origin:	[ 66 209   0   0   0] 	*d*e*m*e* 	de	me	
+	Epcho 55 Decoded: 			Top 0 	da 	ma 	
+			Top 1 	dou 	ma 	
+			Top 2 	da 	
+			Top 3 	di 	ma 	
+			Top 4 	da 	me 	
+			Top 5 	dian 	ma 	
+			Top 6 	deng 	ma 	
+			Top 7 	duo 	ma 	
+			Top 8 	dao 	ma 	
+			Top 9 	dai 	ma 	
+
+Sequence	87
+	Epcho 55 Origin:	[391 106 289   0   0] 	*y*i*g*r* 	yi	ge	ren	
+	Epcho 55 Decoded: 			Top 0 	yi 	ge 	
+			Top 1 	yi 	ge 	ren 	
+			Top 2 	you 	ge 	
+			Top 3 	you 	ge 	ren 	
+			Top 4 	yao 	ge 	
+			Top 5 	ye 	ge 	
+			Top 6 	yao 	ge 	ren 	
+			Top 7 	ye 	ge 	ren 	
+			Top 8 	yuan 	ge 	
+			Top 9 	yu 	ge 	
+
+Sequence	88
+	Epcho 55 Origin:	[319 387   0   0   0] 	*s*h*i*y* 	shi	yan	
+	Epcho 55 Decoded: 			Top 0 	shi 	yi 	
+			Top 1 	shi 	you 	
+			Top 2 	shen 	yi 	
+			Top 3 	shang 	yi 	
+			Top 4 	shou 	yi 	
+			Top 5 	shi 	ya 	
+			Top 6 	shui 	yi 	
+			Top 7 	shuo 	yi 	
+			Top 8 	shen 	you 	
+			Top 9 	shi 	yong 	
+
+Sequence	89
+	Epcho 55 Origin:	[396 319   0   0   0] 	*y*o*i*s* 	you	shi	
+	Epcho 55 Decoded: 			Top 0 	yi 	shi 	
+			Top 1 	you 	shi 	
+			Top 2 	yao 	shi 	
+			Top 3 	ye 	shi 	
+			Top 4 	yuan 	shi 	
+			Top 5 	yu 	shi 	
+			Top 6 	yan 	shi 	
+			Top 7 	ying 	shi 	
+			Top 8 	yin 	shi 	
+			Top 9 	yong 	shi 	
+
+Sequence	90
+	Epcho 55 Origin:	[233 122   0   0   0] 	*n*i*h* 	ni	hai	
+	Epcho 55 Decoded: 			Top 0 	ni 	hai 	
+			Top 1 	ni 	hui 	
+			Top 2 	na 	hai 	
+			Top 3 	ni 	hao 	
+			Top 4 	hai 	
+			Top 5 	ni 	he 	
+			Top 6 	na 	hui 	
+			Top 7 	na 	hao 	
+			Top 8 	hui 	
+			Top 9 	hao 	
+
+Sequence	91
+	Epcho 55 Origin:	[103 139   0   0   0] 	*g*a*n*h* 	gan	huo	
+	Epcho 55 Decoded: 			Top 0 	gan 	huo 	
+			Top 1 	gao 	huo 	
+			Top 2 	guo 	huo 	
+			Top 3 	gong 	huo 	
+			Top 4 	huo 	
+			Top 5 	gan 	ha 	
+			Top 6 	gao 	ha 	
+			Top 7 	guo 	ha 	
+			Top 8 	gong 	ha 	
+			Top 9 	ha 	
+
+Sequence	92
+	Epcho 55 Origin:	[83  0  0  0  0] 	*d*u*o* 	duo	
+	Epcho 55 Decoded: 			Top 0 	da 	
+			Top 1 	dou 	
+			Top 2 	di 	
+			Top 3 	dian 	
+			Top 4 	deng 	
+			Top 5 	duo 	
+			Top 6 	dao 	
+			Top 7 	dai 	
+			Top 8 	dui 	
+			Top 9 	dong 	
+
+Sequence	93
+	Epcho 55 Origin:	[11 65  0  0  0] 	*b*a*o*d* 	bao	dao	
+	Epcho 55 Decoded: 			Top 0 	bu 	di 	
+			Top 1 	bu 	dao 	
+			Top 2 	bu 	da 	
+			Top 3 	bu 	de 	
+			Top 4 	bu 	dian 	
+			Top 5 	bu 	ding 	
+			Top 6 	bu 	dan 	
+			Top 7 	bu 	du 	
+			Top 8 	bao 	di 	
+			Top 9 	bao 	dao 	
+
+Sequence	94
+	Epcho 55 Origin:	[102 175   0   0   0] 	*g*a*i*k* 	gai	kuo	
+	Epcho 55 Decoded: 			Top 0 	gan 	kuo 	
+			Top 1 	gao 	kuo 	
+			Top 2 	guo 	kuo 	
+			Top 3 	gong 	kuo 	
+			Top 4 	kuo 	
+			Top 5 	gei 	kuo 	
+			Top 6 	guan 	kuo 	
+			Top 7 	gan 	kan 	
+			Top 8 	gao 	kan 	
+			Top 9 	gai 	kuo 	
+
+Sequence	95
+	Epcho 55 Origin:	[21  0  0  0  0] 	*b*o* 	bo	
+	Epcho 55 Decoded: 			Top 0 	bu 	
+			Top 1 	bao 	
+			Top 2 	bie 	
+			Top 3 	bi 	
+			Top 4 	ba 	
+			Top 5 	bei 	
+			Top 6 	ban 	
+			Top 7 	bai 	
+			Top 8 	biao 	
+			Top 9 	ben 	
+
+Sequence	96
+	Epcho 55 Origin:	[147 291 170 182   0] 	*j*r*k*l* 	jie	ri	kuai	le	
+	Epcho 55 Decoded: 			Top 0 	jiu 	ran 	kuai 	le 	
+			Top 1 	ji 	ran 	kuai 	le 	
+			Top 2 	jiu 	ri 	kuai 	le 	
+			Top 3 	jiu 	ren 	kuai 	le 	
+			Top 4 	ji 	ri 	kuai 	le 	
+			Top 5 	ji 	ren 	kuai 	le 	
+			Top 6 	jie 	ran 	kuai 	le 	
+			Top 7 	jin 	ran 	kuai 	le 	
+			Top 8 	jia 	ran 	kuai 	le 	
+			Top 9 	jie 	ri 	kuai 	le 	
+
+Sequence	97
+	Epcho 55 Origin:	[ 81 233   0   0   0] 	*d*u*i*n* 	dui	ni	
+	Epcho 55 Decoded: 			Top 0 	da 	ni 	
+			Top 1 	dou 	ni 	
+			Top 2 	di 	ni 	
+			Top 3 	dian 	ni 	
+			Top 4 	deng 	ni 	
+			Top 5 	duo 	ni 	
+			Top 6 	dao 	ni 	
+			Top 7 	dai 	ni 	
+			Top 8 	dui 	ni 	
+			Top 9 	dong 	ni 	
+
+Sequence	98
+	Epcho 55 Origin:	[396 374   0   0   0] 	*y*o*u*x*i*a*n*g* 	you	xiang	
+	Epcho 55 Decoded: 			Top 0 	yi 	xie 	
+			Top 1 	yi 	xiang 	
+			Top 2 	yi 	xi 	
+			Top 3 	yi 	xiu 	
+			Top 4 	you 	xie 	
+			Top 5 	you 	xiang 	
+			Top 6 	you 	xi 	
+			Top 7 	you 	xiu 	
+			Top 8 	yao 	xie 	
+			Top 9 	yao 	xiang 	
+
+Sequence	99
+	Epcho 55 Origin:	[158 137   0   0   0] 	*k*a*i*h*u*i* 	kai	hui	
+	Epcho 55 Decoded: 			Top 0 	kan 	hei 	
+			Top 1 	ke 	hei 	
+			Top 2 	kai 	hei 	
+			Top 3 	kuai 	hei 	
+			Top 4 	kan 	hui 	
+			Top 5 	ke 	hui 	
+			Top 6 	kao 	hei 	
+			Top 7 	kai 	hui 	
+			Top 8 	kong 	hei 	
+			Top 9 	kuai 	hui 	
+
+Sequence	100
+	Epcho 55 Origin:	[139 355  36   0   0] 	*h*t*c* 	huo	tui	chang	
+	Epcho 55 Decoded: 			Top 0 	hao 	ting 	chang 	
+			Top 1 	hai 	ting 	chang 	
+			Top 2 	hao 	ta 	chang 	
+			Top 3 	hao 	tian 	chang 	
+			Top 4 	hao 	ti 	chang 	
+			Top 5 	hao 	tou 	chang 	
+			Top 6 	hai 	ta 	chang 	
+			Top 7 	hui 	ting 	chang 	
+			Top 8 	hai 	tian 	chang 	
+			Top 9 	hao 	tong 	chang 	
+
+Sequence	101
+	Epcho 55 Origin:	[368 210 396   0   0] 	*w*o*m*e*i*y*o*u* 	wo	mei	you	
+	Epcho 55 Decoded: 			Top 0 	wo 	mei 	you 	
+			Top 1 	wo 	men 	you 	
+			Top 2 	wo 	ma 	you 	
+			Top 3 	wo 	mai 	you 	
+			Top 4 	wo 	ming 	you 	
+			Top 5 	wu 	mei 	you 	
+			Top 6 	wan 	mei 	you 	
+			Top 7 	wu 	men 	you 	
+			Top 8 	wei 	mei 	you 	
+			Top 9 	wan 	men 	you 	
+
+Sequence	102
+	Epcho 55 Origin:	[272 214   0   0   0] 	*q*i*a*n*m* 	qian	mian	
+	Epcho 55 Decoded: 			Top 0 	qi 	mian 	
+			Top 1 	qu 	mian 	
+			Top 2 	qing 	mian 	
+			Top 3 	qian 	mian 	
+			Top 4 	quan 	mian 	
+			Top 5 	qin 	mian 	
+			Top 6 	qiang 	mian 	
+			Top 7 	qi 	ming 	
+			Top 8 	qiu 	mian 	
+			Top 9 	qun 	mian 	
+
+Sequence	103
+	Epcho 55 Origin:	[326 391 347   0   0] 	*s*h*u*i*y*i*t* 	shui	yi	tian	
+	Epcho 55 Decoded: 			Top 0 	shi 	yi 	tian 	
+			Top 1 	shi 	ya 	tian 	
+			Top 2 	shi 	ye 	tian 	
+			Top 3 	shi 	you 	tian 	
+			Top 4 	shen 	yi 	tian 	
+			Top 5 	shang 	yi 	tian 	
+			Top 6 	shou 	yi 	tian 	
+			Top 7 	shen 	ya 	tian 	
+			Top 8 	shui 	yi 	tian 	
+			Top 9 	shang 	ya 	tian 	
+
+Sequence	104
+	Epcho 55 Origin:	[61 11  0  0  0] 	*d*a*b*a*o* 	da	bao	
+	Epcho 55 Decoded: 			Top 0 	da 	bu 	
+			Top 1 	dou 	bu 	
+			Top 2 	di 	bu 	
+			Top 3 	dian 	bu 	
+			Top 4 	da 	ba 	
+			Top 5 	da 	bao 	
+			Top 6 	deng 	bu 	
+			Top 7 	duo 	bu 	
+			Top 8 	dao 	bu 	
+			Top 9 	dai 	bu 	
+
+Sequence	105
+	Epcho 55 Origin:	[157 417   0   0   0] 	*k*a*z*h*e* 	ka	zhe	
+	Epcho 55 Decoded: 			Top 0 	kan 	zhu 	
+			Top 1 	ke 	zhu 	
+			Top 2 	kan 	zai 	
+			Top 3 	ke 	zai 	
+			Top 4 	kai 	zhu 	
+			Top 5 	kuai 	zhu 	
+			Top 6 	kai 	zai 	
+			Top 7 	kuai 	zai 	
+			Top 8 	kao 	zhu 	
+			Top 9 	kan 	zu 	
+
+Sequence	106
+	Epcho 55 Origin:	[110 329   0   0   0] 	*g*o*n*g*s*i* 	gong	si	
+	Epcho 55 Decoded: 			Top 0 	gan 	si 	
+			Top 1 	gan 	shang 	
+			Top 2 	gao 	si 	
+			Top 3 	guo 	si 	
+			Top 4 	gao 	shang 	
+			Top 5 	gong 	si 	
+			Top 6 	si 	
+			Top 7 	guo 	shang 	
+			Top 8 	gong 	shang 	
+			Top 9 	shang 	
+
+Sequence	107
+	Epcho 55 Origin:	[ 83 314   0   0   0] 	*d*u*o*s* 	duo	shao	
+	Epcho 55 Decoded: 			Top 0 	da 	shao 	
+			Top 1 	dou 	shao 	
+			Top 2 	di 	shao 	
+			Top 3 	dian 	shao 	
+			Top 4 	deng 	shao 	
+			Top 5 	duo 	shao 	
+			Top 6 	dao 	shao 	
+			Top 7 	dai 	shao 	
+			Top 8 	dui 	shao 	
+			Top 9 	dong 	shao 	
+
+Sequence	108
+	Epcho 55 Origin:	[375 213   0   0   0] 	*x*i*a*o*m*i* 	xiao	mi	
+	Epcho 55 Decoded: 			Top 0 	xiao 	mei 	
+			Top 1 	xiao 	mi 	
+			Top 2 	xiang 	mei 	
+			Top 3 	xi 	mei 	
+			Top 4 	xin 	mei 	
+			Top 5 	xiang 	mi 	
+			Top 6 	xia 	mei 	
+			Top 7 	xi 	mi 	
+			Top 8 	xin 	mi 	
+			Top 9 	xia 	mi 	
+
+Sequence	109
+	Epcho 55 Origin:	[118   0   0   0   0] 	*g*u*e*n* 	gun	
+	Epcho 55 Decoded: 			Top 0 	gan 	
+			Top 1 	gao 	
+			Top 2 	guo 	
+			Top 3 	gong 	
+			Top 4 	
+			Top 5 	gei 	
+			Top 6 	guan 	
+			Top 7 	ge 	
+			Top 8 	gu 	
+			Top 9 	gen 	
+
+Sequence	110
+	Epcho 55 Origin:	[198   0   0   0   0] 	*l*u*a*n* 	luan	
+	Epcho 55 Decoded: 			Top 0 	li 	
+			Top 1 	lao 	
+			Top 2 	lai 	
+			Top 3 	liang 	
+			Top 4 	liu 	
+			Top 5 	lian 	
+			Top 6 	la 	
+			Top 7 	ling 	
+			Top 8 	lu 	
+			Top 9 	le 	
+
+Sequence	111
+	Epcho 55 Origin:	[422  72 319   0   0] 	*z*d*s* 	zhong	dian	shi	
+	Epcho 55 Decoded: 			Top 0 	zhe 	dao 	shui 	
+			Top 1 	zhe 	de 	shui 	
+			Top 2 	zai 	dao 	shui 	
+			Top 3 	zai 	de 	shui 	
+			Top 4 	zhe 	dian 	shui 	
+			Top 5 	zhi 	dao 	shui 	
+			Top 6 	zhi 	de 	shui 	
+			Top 7 	zai 	dian 	shui 	
+			Top 8 	zhi 	dian 	shui 	
+			Top 9 	zhe 	dao 	shi 	
+
+Sequence	112
+	Epcho 55 Origin:	[92 16  0  0  0] 	*f*a*n*g*b*i*a*n* 	fang	bian	
+	Epcho 55 Decoded: 			Top 0 	fa 	bian 	
+			Top 1 	fu 	bian 	
+			Top 2 	fang 	bian 	
+			Top 3 	fa 	bu 	
+			Top 4 	fan 	bian 	
+			Top 5 	fu 	bu 	
+			Top 6 	fang 	bu 	
+			Top 7 	fei 	bian 	
+			Top 8 	fan 	bu 	
+			Top 9 	fen 	bian 	
+
+Sequence	113
+	Epcho 55 Origin:	[317 209 391 329   0] 	*s*m*y*s* 	shen	me	yi	si	
+	Epcho 55 Decoded: 			Top 0 	shi 	me 	yi 	si 	
+			Top 1 	shi 	me 	yong 	si 	
+			Top 2 	shen 	me 	yi 	si 	
+			Top 3 	shang 	me 	yi 	si 	
+			Top 4 	shi 	me 	yang 	si 	
+			Top 5 	shi 	me 	ya 	si 	
+			Top 6 	shou 	me 	yi 	si 	
+			Top 7 	shui 	me 	yi 	si 	
+			Top 8 	shuo 	me 	yi 	si 	
+			Top 9 	si 	me 	yi 	si 	
+
+Sequence	114
+	Epcho 55 Origin:	[416 368   0   0   0] 	*z*h*a*i*w*o* 	zhao	wo	
+	Epcho 55 Decoded: 			Top 0 	zhe 	wo 	
+			Top 1 	zai 	wo 	
+			Top 2 	zhi 	wo 	
+			Top 3 	zuo 	wo 	
+			Top 4 	zhen 	wo 	
+			Top 5 	zhao 	wo 	
+			Top 6 	zhu 	wo 	
+			Top 7 	zhong 	wo 	
+			Top 8 	zi 	wo 	
+			Top 9 	zao 	wo 	
+
+Sequence	115
+	Epcho 55 Origin:	[ 44  81 374   0   0] 	*c*d*x* 	chu	dui	xiang	
+	Epcho 55 Decoded: 			Top 0 	chi 	dian 	xi 	
+			Top 1 	chu 	dian 	xi 	
+			Top 2 	cai 	dian 	xi 	
+			Top 3 	chi 	dian 	xiang 	
+			Top 4 	chu 	dian 	xiang 	
+			Top 5 	cheng 	dian 	xi 	
+			Top 6 	chi 	de 	xi 	
+			Top 7 	chu 	de 	xi 	
+			Top 8 	chi 	dong 	xi 	
+			Top 9 	chu 	dong 	xi 	
+
+Sequence	116
+	Epcho 55 Origin:	[125 204   0   0   0] 	*h*m*a* 	hao	ma	
+	Epcho 55 Decoded: 			Top 0 	hao 	ma 	
+			Top 1 	hao 	mei 	
+			Top 2 	hai 	ma 	
+			Top 3 	hai 	mei 	
+			Top 4 	hui 	ma 	
+			Top 5 	hui 	mei 	
+			Top 6 	he 	ma 	
+			Top 7 	he 	mei 	
+			Top 8 	hen 	ma 	
+			Top 9 	hen 	mei 	
+
+Sequence	117
+	Epcho 55 Origin:	[303 234   0   0   0] 	*s*a*n*n*i*a*n* 	san	nian	
+	Epcho 55 Decoded: 			Top 0 	shi 	nian 	
+			Top 1 	shen 	nian 	
+			Top 2 	shang 	nian 	
+			Top 3 	shou 	nian 	
+			Top 4 	shui 	nian 	
+			Top 5 	shuo 	nian 	
+			Top 6 	si 	nian 	
+			Top 7 	sha 	nian 	
+			Top 8 	sheng 	nian 	
+			Top 9 	san 	nian 	
+
+Sequence	118
+	Epcho 55 Origin:	[151 117   0   0   0] 	*j*i*u*g*u*i* 	jiu	gui	
+	Epcho 55 Decoded: 			Top 0 	jiu 	gei 	
+			Top 1 	ji 	gei 	
+			Top 2 	jiu 	gen 	
+			Top 3 	jie 	gei 	
+			Top 4 	jiu 	guo 	
+			Top 5 	jiu 	ge 	
+			Top 6 	ji 	gen 	
+			Top 7 	jiu 	gan 	
+			Top 8 	ji 	guo 	
+			Top 9 	ji 	ge 	
+
+Sequence	119
+	Epcho 55 Origin:	[375 134  63   0   0] 	*x*h*d* 	xiao	huai	dan	
+	Epcho 55 Decoded: 			Top 0 	xiao 	de 	
+			Top 1 	xiao 	dun 	
+			Top 2 	xiang 	de 	
+			Top 3 	xi 	de 	
+			Top 4 	xiang 	dun 	
+			Top 5 	xin 	de 	
+			Top 6 	xia 	de 	
+			Top 7 	xi 	dun 	
+			Top 8 	xin 	dun 	
+			Top 9 	xia 	dun 	
+
+Sequence	120
+	Epcho 55 Origin:	[233 204   0   0   0] 	*n*m*a* 	ni	ma	
+	Epcho 55 Decoded: 			Top 0 	ni 	me 	
+			Top 1 	ni 	men 	
+			Top 2 	ni 	ma 	
+			Top 3 	na 	me 	
+			Top 4 	me 	
+			Top 5 	ni 	mei 	
+			Top 6 	na 	men 	
+			Top 7 	na 	ma 	
+			Top 8 	men 	
+			Top 9 	ma 	
+
+Sequence	121
+	Epcho 55 Origin:	[373   0   0   0   0] 	*x*i*a*n* 	xian	
+	Epcho 55 Decoded: 			Top 0 	xiao 	
+			Top 1 	xiang 	
+			Top 2 	xi 	
+			Top 3 	xin 	
+			Top 4 	xia 	
+			Top 5 	xian 	
+			Top 6 	xing 	
+			Top 7 	xie 	
+			Top 8 	xue 	
+			Top 9 	xiu 	
+
+Sequence	122
+	Epcho 55 Origin:	[391 270 159   0   0] 	*y*i*q*i*k*a*n* 	yi	qi	kan	
+	Epcho 55 Decoded: 			Top 0 	yi 	qi 	kan 	
+			Top 1 	you 	qi 	kan 	
+			Top 2 	yi 	qian 	kan 	
+			Top 3 	yao 	qi 	kan 	
+			Top 4 	ye 	qi 	kan 	
+			Top 5 	yi 	qun 	kan 	
+			Top 6 	you 	qian 	kan 	
+			Top 7 	yuan 	qi 	kan 	
+			Top 8 	yi 	qie 	kan 	
+			Top 9 	yi 	qu 	kan 	
+
+Sequence	123
+	Epcho 55 Origin:	[ 12 313   0   0   0] 	*b*e*i*s*h*a*n*g* 	bei	shang	
+	Epcho 55 Decoded: 			Top 0 	bu 	shang 	
+			Top 1 	bu 	shu 	
+			Top 2 	bu 	shi 	
+			Top 3 	bu 	sha 	
+			Top 4 	bao 	shang 	
+			Top 5 	bao 	shu 	
+			Top 6 	bu 	si 	
+			Top 7 	bie 	shang 	
+			Top 8 	bi 	shang 	
+			Top 9 	ba 	shang 	
+
+Sequence	124
+	Epcho 55 Origin:	[334 391   0   0   0] 	*s*y*i* 	sui	yi	
+	Epcho 55 Decoded: 			Top 0 	shi 	yi 	
+			Top 1 	shen 	yi 	
+			Top 2 	shang 	yi 	
+			Top 3 	shi 	you 	
+			Top 4 	shou 	yi 	
+			Top 5 	shui 	yi 	
+			Top 6 	shi 	ya 	
+			Top 7 	shuo 	yi 	
+			Top 8 	si 	yi 	
+			Top 9 	sha 	yi 	
+
+Sequence	125
+	Epcho 55 Origin:	[ 83 125   0   0   0] 	*d*u*o*h*a*o* 	duo	hao	
+	Epcho 55 Decoded: 			Top 0 	da 	hao 	
+			Top 1 	dou 	hao 	
+			Top 2 	da 	he 	
+			Top 3 	di 	hao 	
+			Top 4 	dian 	hao 	
+			Top 5 	deng 	hao 	
+			Top 6 	duo 	hao 	
+			Top 7 	dao 	hao 	
+			Top 8 	dai 	hao 	
+			Top 9 	dui 	hao 	
+
+Sequence	126
+	Epcho 55 Origin:	[210 354   0   0   0] 	*m*e*i*t* 	mei	tuan	
+	Epcho 55 Decoded: 			Top 0 	mei 	ting 	
+			Top 1 	mei 	tian 	
+			Top 2 	mei 	tuan 	
+			Top 3 	mei 	tu 	
+			Top 4 	mei 	ti 	
+			Top 5 	mei 	tong 	
+			Top 6 	ma 	ting 	
+			Top 7 	ma 	tian 	
+			Top 8 	mai 	ting 	
+			Top 9 	ming 	ting 	
+
+Sequence	127
+	Epcho 55 Origin:	[260 106   0   0   0] 	*p*i*g* 	pi	ge	
+	Epcho 55 Decoded: 			Top 0 	ping 	gu 	
+			Top 1 	pei 	gu 	
+			Top 2 	pi 	gu 	
+			Top 3 	pai 	gu 	
+			Top 4 	pao 	gu 	
+			Top 5 	pian 	gu 	
+			Top 6 	pa 	gu 	
+			Top 7 	peng 	gu 	
+			Top 8 	pu 	gu 	
+			Top 9 	pang 	gu 	
+
+Sequence	128
+	Epcho 55 Origin:	[394 126   0   0   0] 	*y*o*h* 	yo	he	
+	Epcho 55 Decoded: 			Top 0 	yi 	he 	
+			Top 1 	yi 	hou 	
+			Top 2 	you 	he 	
+			Top 3 	you 	hou 	
+			Top 4 	yao 	he 	
+			Top 5 	yao 	hou 	
+			Top 6 	yi 	hui 	
+			Top 7 	ye 	he 	
+			Top 8 	ye 	hou 	
+			Top 9 	yuan 	he 	
+
+Sequence	129
+	Epcho 55 Origin:	[326 373   0   0   0] 	*s*h*u*i*x*i*a*n* 	shui	xian	
+	Epcho 55 Decoded: 			Top 0 	shi 	xing 	
+			Top 1 	shen 	xing 	
+			Top 2 	shang 	xing 	
+			Top 3 	shou 	xing 	
+			Top 4 	shui 	xing 	
+			Top 5 	shuo 	xing 	
+			Top 6 	si 	xing 	
+			Top 7 	sha 	xing 	
+			Top 8 	sheng 	xing 	
+			Top 9 	san 	xing 	
+
+Sequence	130
+	Epcho 55 Origin:	[ 53 191   0   0   0] 	*c*o*n*g*l* 	cong	lin	
+	Epcho 55 Decoded: 			Top 0 	chi 	lai 	
+			Top 1 	chu 	lai 	
+			Top 2 	cai 	lai 	
+			Top 3 	cheng 	lai 	
+			Top 4 	chang 	lai 	
+			Top 5 	chao 	lai 	
+			Top 6 	chong 	lai 	
+			Top 7 	cha 	lai 	
+			Top 8 	che 	lai 	
+			Top 9 	chou 	lai 	
+
+Sequence	131
+	Epcho 55 Origin:	[391 234 142   0   0] 	*y*i*n*i*a*n*j* 	yi	nian	ji	
+	Epcho 55 Decoded: 			Top 0 	yi 	nian 	ji 	
+			Top 1 	you 	nian 	ji 	
+			Top 2 	yao 	nian 	ji 	
+			Top 3 	ye 	nian 	ji 	
+			Top 4 	yi 	ni 	nian 	ji 	
+			Top 5 	yuan 	nian 	ji 	
+			Top 6 	yu 	nian 	ji 	
+			Top 7 	yan 	nian 	ji 	
+			Top 8 	ying 	nian 	ji 	
+			Top 9 	yin 	nian 	ji 	
+
+Sequence	132
+	Epcho 55 Origin:	[389   0   0   0   0] 	*y*a*i* 	yao	
+	Epcho 55 Decoded: 			Top 0 	yi 	
+			Top 1 	you 	
+			Top 2 	yao 	
+			Top 3 	ye 	
+			Top 4 	yuan 	
+			Top 5 	yu 	
+			Top 6 	yan 	
+			Top 7 	ying 	
+			Top 8 	yin 	
+			Top 9 	yong 	
+
+Sequence	133
+	Epcho 55 Origin:	[389   0   0   0   0] 	*y*a*o* 	yao	
+	Epcho 55 Decoded: 			Top 0 	yi 	
+			Top 1 	you 	
+			Top 2 	yao 	
+			Top 3 	ye 	
+			Top 4 	yuan 	
+			Top 5 	yu 	
+			Top 6 	yan 	
+			Top 7 	ying 	
+			Top 8 	yin 	
+			Top 9 	yong 	
+
+Sequence	134
+	Epcho 55 Origin:	[391 152 133   0   0] 	*y*i*j*u*h*u*a* 	yi	ju	hua	
+	Epcho 55 Decoded: 			Top 0 	yi 	jia 	hua 	
+			Top 1 	yi 	jian 	hua 	
+			Top 2 	yi 	ju 	hua 	
+			Top 3 	you 	jia 	hua 	
+			Top 4 	you 	jian 	hua 	
+			Top 5 	yi 	ji 	hua 	
+			Top 6 	you 	ju 	hua 	
+			Top 7 	yi 	jing 	hua 	
+			Top 8 	yi 	jiao 	hua 	
+			Top 9 	you 	ji 	hua 	
+
+Sequence	135
+	Epcho 55 Origin:	[210 396   0   0   0] 	*m*y* 	mei	you	
+	Epcho 55 Decoded: 			Top 0 	mei 	you 	
+			Top 1 	mei 	yi 	
+			Top 2 	ma 	you 	
+			Top 3 	mai 	you 	
+			Top 4 	ming 	you 	
+			Top 5 	mo 	you 	
+			Top 6 	ma 	yi 	
+			Top 7 	mei 	yong 	
+			Top 8 	man 	you 	
+			Top 9 	mai 	yi 	
+
+Sequence	136
+	Epcho 55 Origin:	[147 119   0   0   0] 	*j*i*e*g* 	jie	guo	
+	Epcho 55 Decoded: 			Top 0 	jiu 	ge 	
+			Top 1 	ji 	ge 	
+			Top 2 	jiu 	guo 	
+			Top 3 	ji 	guo 	
+			Top 4 	jie 	ge 	
+			Top 5 	jin 	ge 	
+			Top 6 	jia 	ge 	
+			Top 7 	jian 	ge 	
+			Top 8 	jie 	guo 	
+			Top 9 	jiao 	ge 	
+
+Sequence	137
+	Epcho 55 Origin:	[147  44   0   0   0] 	*j*c* 	jie	chu	
+	Epcho 55 Decoded: 			Top 0 	jiu 	cha 	
+			Top 1 	jiu 	chang 	
+			Top 2 	ji 	cha 	
+			Top 3 	ji 	chang 	
+			Top 4 	jiu 	chi 	
+			Top 5 	jie 	cha 	
+			Top 6 	ji 	chi 	
+			Top 7 	jie 	chang 	
+			Top 8 	jin 	cha 	
+			Top 9 	jia 	cha 	
+
+Sequence	138
+	Epcho 55 Origin:	[ 69 368   0   0   0] 	*d*w*n*g*w* 	deng	wo	
+	Epcho 55 Decoded: 			Top 0 	da 	wo 	
+			Top 1 	da 	wei 	
+			Top 2 	dou 	wo 	
+			Top 3 	da 	
+			Top 4 	di 	wo 	
+			Top 5 	dian 	wo 	
+			Top 6 	deng 	wo 	
+			Top 7 	duo 	wo 	
+			Top 8 	dao 	wo 	
+			Top 9 	da 	wu 	
+
+Sequence	139
+	Epcho 55 Origin:	[353  88   0   0   0] 	*t*u*e*r* 	tu	er	
+	Epcho 55 Decoded: 			Top 0 	tai 	er 	
+			Top 1 	ting 	er 	
+			Top 2 	ta 	er 	
+			Top 3 	tong 	er 	
+			Top 4 	tou 	er 	
+			Top 5 	tian 	er 	
+			Top 6 	ti 	er 	
+			Top 7 	tu 	er 	
+			Top 8 	tao 	er 	
+			Top 9 	tui 	er 	
+
+Sequence	140
+	Epcho 55 Origin:	[102  40   0   0   0] 	*g*a*i*c* 	gai	cheng	
+	Epcho 55 Decoded: 			Top 0 	gan 	cheng 	
+			Top 1 	gao 	cheng 	
+			Top 2 	guo 	cheng 	
+			Top 3 	gong 	cheng 	
+			Top 4 	cheng 	
+			Top 5 	gan 	chi 	
+			Top 6 	gan 	cuo 	
+			Top 7 	gao 	chi 	
+			Top 8 	guo 	chi 	
+			Top 9 	gao 	cuo 	
+
+Sequence	141
+	Epcho 55 Origin:	[312  44   0   0   0] 	*s*c* 	shan	chu	
+	Epcho 55 Decoded: 			Top 0 	shi 	chu 	
+			Top 1 	shi 	che 	
+			Top 2 	shi 	chuan 	
+			Top 3 	shi 	ci 	
+			Top 4 	shi 	chang 	
+			Top 5 	shen 	chu 	
+			Top 6 	shang 	chu 	
+			Top 7 	shi 	ce 	
+			Top 8 	shi 	cai 	
+			Top 9 	shou 	chu 	
+
+Sequence	142
+	Epcho 55 Origin:	[277 196   0   0   0] 	*q*i*n*g*l*o*u* 	qing	lou	
+	Epcho 55 Decoded: 			Top 0 	qi 	lv 	
+			Top 1 	qu 	lv 	
+			Top 2 	qing 	lv 	
+			Top 3 	qi 	le 	
+			Top 4 	qian 	lv 	
+			Top 5 	qu 	le 	
+			Top 6 	qing 	le 	
+			Top 7 	quan 	lv 	
+			Top 8 	qin 	lv 	
+			Top 9 	qi 	li 	
+
+Sequence	143
+	Epcho 55 Origin:	[ 20 374   0   0   0] 	*b*x* 	bing	xiang	
+	Epcho 55 Decoded: 			Top 0 	bu 	xiang 	
+			Top 1 	bu 	xing 	
+			Top 2 	bu 	xu 	
+			Top 3 	bu 	xi 	
+			Top 4 	bu 	xiao 	
+			Top 5 	bu 	xin 	
+			Top 6 	bu 	xian 	
+			Top 7 	bu 	xie 	
+			Top 8 	bao 	xiang 	
+			Top 9 	bie 	xiang 	
+
+Sequence	144
+	Epcho 55 Origin:	[365 301   0   0   0] 	*w*e*i*s* 	wei	sa	
+	Epcho 55 Decoded: 			Top 0 	wo 	shen 	
+			Top 1 	wo 	shi 	
+			Top 2 	wo 	sha 	
+			Top 3 	wo 	sheng 	
+			Top 4 	wo 	suo 	
+			Top 5 	wu 	shen 	
+			Top 6 	wan 	shen 	
+			Top 7 	wei 	shen 	
+			Top 8 	wo 	sa 	
+			Top 9 	wo 	shang 	
+
+Sequence	145
+	Epcho 55 Origin:	[390   0   0   0   0] 	*u*e* 	ye	
+	Epcho 55 Decoded: 			Top 0 	yi 	
+			Top 1 	you 	
+			Top 2 	ye 	
+			Top 3 	yao 	
+			Top 4 	ya 	
+			Top 5 	shi 	
+			Top 6 	yong 	
+			Top 7 	yang 	
+			Top 8 	ou 	
+			Top 9 	
+
+Sequence	146
+	Epcho 55 Origin:	[94  0  0  0  0] 	*f* 	fen	
+	Epcho 55 Decoded: 			Top 0 	fa 	
+			Top 1 	fu 	
+			Top 2 	fang 	
+			Top 3 	fan 	
+			Top 4 	fei 	
+			Top 5 	fen 	
+			Top 6 	feng 	
+			Top 7 	fou 	
+			Top 8 	fo 	
+			Top 9 	dui 	
+
+Sequence	147
+	Epcho 55 Origin:	[365   0   0   0   0] 	*e*e*i* 	wei	
+	Epcho 55 Decoded: 			Top 0 	e 	
+			Top 1 	en 	
+			Top 2 	e 	
+			Top 3 	
+			Top 4 	e 	en 	
+			Top 5 	er 	
+			Top 6 	er 	e 	
+			Top 7 	wo 	e 	
+			Top 8 	en 	e 	
+			Top 9 	ei 	e 	
+
+Sequence	148
+	Epcho 55 Origin:	[ 22 125 391 329   0] 	*b*u*h*y*s* 	bu	hao	yi	si	
+	Epcho 55 Decoded: 			Top 0 	bu 	hui 	yi 	si 	
+			Top 1 	bu 	hao 	yi 	si 	
+			Top 2 	bu 	he 	yi 	si 	
+			Top 3 	bao 	hui 	yi 	si 	
+			Top 4 	bao 	hao 	yi 	si 	
+			Top 5 	bie 	hui 	yi 	si 	
+			Top 6 	bi 	hui 	yi 	si 	
+			Top 7 	ba 	hui 	yi 	si 	
+			Top 8 	bei 	hui 	yi 	si 	
+			Top 9 	bie 	hao 	yi 	si 	
+
+Sequence	149
+	Epcho 55 Origin:	[1 0 0 0 0] 	*a* 	a	
+	Epcho 55 Decoded: 			Top 0 	
+			Top 1 	ai 	
+			Top 2 	a 	
+			Top 3 	ao 	
+			Top 4 	an 	
+			Top 5 	shi 	
+			Top 6 	shui 	
+			Top 7 	shuo 	
+			Top 8 	ang 	
+			Top 9 	shou 	
+
+Sequence	150
+	Epcho 55 Origin:	[224 209   0   0   0] 	*n*a*m* 	na	me	
+	Epcho 55 Decoded: 			Top 0 	ni 	me 	
+			Top 1 	na 	me 	
+			Top 2 	me 	
+			Top 3 	ni 	men 	
+			Top 4 	ni 	mei 	
+			Top 5 	na 	men 	
+			Top 6 	ni 	mai 	
+			Top 7 	men 	
+			Top 8 	ni 	ming 	
+			Top 9 	na 	mei 	
+
+Sequence	151
+	Epcho 55 Origin:	[417 209  36 319 144] 	*z*m*c*s*j* 	zhe	me	chang	shi	jian	
+	Epcho 55 Decoded: 			Top 0 	zhe 	me 	chang 	shi 	jian 	
+			Top 1 	zai 	me 	chang 	shi 	jian 	
+			Top 2 	zhi 	me 	chang 	shi 	jian 	
+			Top 3 	zuo 	me 	chang 	shi 	jian 	
+			Top 4 	zhe 	me 	chi 	shi 	jian 	
+			Top 5 	zhen 	me 	chang 	shi 	jian 	
+			Top 6 	zhao 	me 	chang 	shi 	jian 	
+			Top 7 	zhu 	me 	chang 	shi 	jian 	
+			Top 8 	zhong 	me 	chang 	shi 	jian 	
+			Top 9 	zi 	me 	chang 	shi 	jian 	
+
+Sequence	152
+	Epcho 55 Origin:	[ 83 182   0   0   0] 	*d*y*o*l* 	duo	le	
+	Epcho 55 Decoded: 			Top 0 	da 	yi 	le 	
+			Top 1 	dou 	yi 	le 	
+			Top 2 	da 	ying 	le 	
+			Top 3 	di 	yi 	le 	
+			Top 4 	da 	you 	le 	
+			Top 5 	dian 	yi 	le 	
+			Top 6 	deng 	yi 	le 	
+			Top 7 	duo 	yi 	le 	
+			Top 8 	dao 	yi 	le 	
+			Top 9 	da 	yu 	le 	
+
+Sequence	153
+	Epcho 55 Origin:	[151 125   0   0   0] 	*j*i*u*h*a* 	jiu	hao	
+	Epcho 55 Decoded: 			Top 0 	jiu 	hui 	
+			Top 1 	jiu 	hao 	
+			Top 2 	ji 	hui 	
+			Top 3 	ji 	hao 	
+			Top 4 	jie 	hui 	
+			Top 5 	jie 	hao 	
+			Top 6 	jin 	hui 	
+			Top 7 	jin 	hao 	
+			Top 8 	jia 	hui 	
+			Top 9 	jia 	hao 	
+
+Sequence	154
+	Epcho 55 Origin:	[ 15 338   0   0   0] 	*b*i*t* 	bi	ta	
+	Epcho 55 Decoded: 			Top 0 	bu 	ta 	
+			Top 1 	bu 	ti 	
+			Top 2 	bao 	ta 	
+			Top 3 	bie 	ta 	
+			Top 4 	bi 	ta 	
+			Top 5 	ba 	ta 	
+			Top 6 	bei 	ta 	
+			Top 7 	ban 	ta 	
+			Top 8 	bai 	ta 	
+			Top 9 	biao 	ta 	
+
+Sequence	155
+	Epcho 55 Origin:	[396 204   0   0   0] 	*y*m* 	you	ma	
+	Epcho 55 Decoded: 			Top 0 	yi 	mei 	
+			Top 1 	you 	mei 	
+			Top 2 	yi 	ma 	
+			Top 3 	yi 	mao 	
+			Top 4 	yi 	mu 	
+			Top 5 	you 	ma 	
+			Top 6 	yao 	mei 	
+			Top 7 	you 	mao 	
+			Top 8 	yi 	mi 	
+			Top 9 	you 	mu 	
+
+Sequence	156
+	Epcho 55 Origin:	[233 213 204   0   0] 	*n*i*m*i*m*a* 	ni	mi	ma	
+	Epcho 55 Decoded: 			Top 0 	ni 	ma 	
+			Top 1 	ni 	mei 	ma 	
+			Top 2 	ni 	men 	ma 	
+			Top 3 	na 	ma 	
+			Top 4 	na 	mei 	ma 	
+			Top 5 	na 	men 	ma 	
+			Top 6 	ma 	
+			Top 7 	mei 	ma 	
+			Top 8 	men 	ma 	
+			Top 9 	ni 	mai 	ma 	
+
+Sequence	157
+	Epcho 55 Origin:	[158  38   0   0   0] 	*k*c* 	kai	che	
+	Epcho 55 Decoded: 			Top 0 	kan 	chu 	
+			Top 1 	ke 	chu 	
+			Top 2 	kai 	chu 	
+			Top 3 	kan 	che 	
+			Top 4 	ke 	che 	
+			Top 5 	kuai 	chu 	
+			Top 6 	kai 	che 	
+			Top 7 	kuai 	che 	
+			Top 8 	kao 	chu 	
+			Top 9 	kan 	cuo 	
+
+Sequence	158
+	Epcho 55 Origin:	[339 151   0   0   0] 	*t*j* 	tai	jiu	
+	Epcho 55 Decoded: 			Top 0 	tai 	jian 	
+			Top 1 	ting 	jian 	
+			Top 2 	ta 	jian 	
+			Top 3 	tong 	jian 	
+			Top 4 	tou 	jian 	
+			Top 5 	tian 	jian 	
+			Top 6 	ti 	jian 	
+			Top 7 	tu 	jian 	
+			Top 8 	tai 	jia 	
+			Top 9 	ting 	jia 	
+
+Sequence	159
+	Epcho 55 Origin:	[280 119   0   0   0] 	*q*u*g* 	qu	guo	
+	Epcho 55 Decoded: 			Top 0 	qi 	guo 	
+			Top 1 	qu 	guo 	
+			Top 2 	qing 	guo 	
+			Top 3 	qian 	guo 	
+			Top 4 	qi 	ge 	
+			Top 5 	quan 	guo 	
+			Top 6 	qin 	guo 	
+			Top 7 	qiang 	guo 	
+			Top 8 	qi 	gan 	
+			Top 9 	qu 	ge 	
+
+Sequence	160
+	Epcho 55 Origin:	[424 389   0   0   0] 	*z*h*u*y*a*o* 	zhu	yao	
+	Epcho 55 Decoded: 			Top 0 	zhe 	yao 	
+			Top 1 	zhe 	yi 	
+			Top 2 	zai 	yao 	
+			Top 3 	zhi 	yao 	
+			Top 4 	zai 	yi 	
+			Top 5 	zhi 	yi 	
+			Top 6 	zuo 	yao 	
+			Top 7 	zhen 	yao 	
+			Top 8 	zhao 	yao 	
+			Top 9 	zhu 	yao 	
+
+Sequence	161
+	Epcho 55 Origin:	[233  74   0   0   0] 	*n*i*d*i*e* 	ni	die	
+	Epcho 55 Decoded: 			Top 0 	ni 	de 	
+			Top 1 	ni 	da 	
+			Top 2 	ni 	dao 	
+			Top 3 	na 	de 	
+			Top 4 	ni 	deng 	
+			Top 5 	na 	da 	
+			Top 6 	de 	
+			Top 7 	ni 	dou 	
+			Top 8 	ni 	dong 	
+			Top 9 	da 	
+
+Sequence	162
+	Epcho 55 Origin:	[ 78 179  66   0   0] 	*d*o*u*l*a*n*d*e* 	dou	lan	de	
+	Epcho 55 Decoded: 			Top 0 	da 	lai 	de 	
+			Top 1 	dou 	lai 	de 	
+			Top 2 	da 	li 	de 	
+			Top 3 	di 	lai 	de 	
+			Top 4 	da 	luo 	de 	
+			Top 5 	dian 	lai 	de 	
+			Top 6 	deng 	lai 	de 	
+			Top 7 	duo 	lai 	de 	
+			Top 8 	dao 	lai 	de 	
+			Top 9 	dai 	lai 	de 	
+
+Sequence	163
+	Epcho 55 Origin:	[107 233  66   0   0] 	*g*e*i*n*i*d* 	gei	ni	de	
+	Epcho 55 Decoded: 			Top 0 	gan 	ni 	de 	
+			Top 1 	gao 	ni 	de 	
+			Top 2 	guo 	ni 	de 	
+			Top 3 	gong 	ni 	de 	
+			Top 4 	ni 	de 	
+			Top 5 	gan 	ni 	dai 	
+			Top 6 	gao 	ni 	dai 	
+			Top 7 	guo 	ni 	dai 	
+			Top 8 	gong 	ni 	dai 	
+			Top 9 	ni 	dai 	
+
+Sequence	164
+	Epcho 55 Origin:	[319 368   0   0   0] 	*s*h*i*w*o* 	shi	wo	
+	Epcho 55 Decoded: 			Top 0 	shi 	wu 	
+			Top 1 	shi 	wo 	
+			Top 2 	shen 	wu 	
+			Top 3 	shang 	wu 	
+			Top 4 	shou 	wu 	
+			Top 5 	shui 	wu 	
+			Top 6 	shen 	wo 	
+			Top 7 	shang 	wo 	
+			Top 8 	shuo 	wu 	
+			Top 9 	shi 	wang 	
+
+Sequence	165
+	Epcho 55 Origin:	[439 347 363 313   0] 	*z*t*w*s* 	zuo	tian	wan	shang	
+	Epcho 55 Decoded: 			Top 0 	zhe 	tian 	wan 	shang 	
+			Top 1 	zai 	tian 	wan 	shang 	
+			Top 2 	zhi 	tian 	wan 	shang 	
+			Top 3 	zhe 	tou 	wan 	shang 	
+			Top 4 	zhe 	tong 	wan 	shang 	
+			Top 5 	zuo 	tian 	wan 	shang 	
+			Top 6 	zhen 	tian 	wan 	shang 	
+			Top 7 	zhao 	tian 	wan 	shang 	
+			Top 8 	zhu 	tian 	wan 	shang 	
+			Top 9 	zai 	tou 	wan 	shang 	
+
+Sequence	166
+	Epcho 55 Origin:	[368  22 147 391   0] 	*w*o*b*u*j*i*e*y*i* 	wo	bu	jie	yi	
+	Epcho 55 Decoded: 			Top 0 	wo 	bu 	jie 	yi 	
+			Top 1 	wo 	bu 	jiu 	yi 	
+			Top 2 	wo 	ba 	jie 	yi 	
+			Top 3 	wo 	bu 	jue 	yi 	
+			Top 4 	wu 	bu 	jie 	yi 	
+			Top 5 	wan 	bu 	jie 	yi 	
+			Top 6 	wei 	bu 	jie 	yi 	
+			Top 7 	wo 	ba 	jiu 	yi 	
+			Top 8 	wo 	bu 	ji 	yi 	
+			Top 9 	wo 	bu 	jiao 	yi 	
+
+Sequence	167
+	Epcho 55 Origin:	[99  0  0  0  0] 	*f*u* 	fu	
+	Epcho 55 Decoded: 			Top 0 	fa 	
+			Top 1 	fu 	
+			Top 2 	fang 	
+			Top 3 	fan 	
+			Top 4 	fei 	
+			Top 5 	fen 	
+			Top 6 	feng 	
+			Top 7 	fou 	
+			Top 8 	fo 	
+			Top 9 	dui 	
+
+Sequence	168
+	Epcho 55 Origin:	[389   0   0   0   0] 	*y*q*o* 	yao	
+	Epcho 55 Decoded: 			Top 0 	yi 	qi 	
+			Top 1 	yi 	qian 	
+			Top 2 	you 	qi 	
+			Top 3 	you 	qian 	
+			Top 4 	yao 	qi 	
+			Top 5 	ye 	qi 	
+			Top 6 	yi 	qu 	
+			Top 7 	yi 	qing 	
+			Top 8 	yao 	qian 	
+			Top 9 	yi 	qiu 	
+
+Sequence	169
+	Epcho 55 Origin:	[137  61 368   0   0] 	*h*u*i*d*a*w* 	hui	da	wo	
+	Epcho 55 Decoded: 			Top 0 	hao 	dao 	wo 	
+			Top 1 	hao 	de 	wo 	
+			Top 2 	hao 	da 	wo 	
+			Top 3 	hai 	dao 	wo 	
+			Top 4 	hai 	de 	wo 	
+			Top 5 	hai 	da 	wo 	
+			Top 6 	hui 	dao 	wo 	
+			Top 7 	hui 	de 	wo 	
+			Top 8 	he 	dao 	wo 	
+			Top 9 	hui 	da 	wo 	
+
+Sequence	170
+	Epcho 55 Origin:	[396 224 376   0   0] 	*y*n*x* 	you	na	xie	
+	Epcho 55 Decoded: 			Top 0 	yi 	ni 	xie 	
+			Top 1 	yi 	nian 	xie 	
+			Top 2 	you 	ni 	xie 	
+			Top 3 	you 	nian 	xie 	
+			Top 4 	yi 	nan 	xie 	
+			Top 5 	yao 	ni 	xie 	
+			Top 6 	ye 	ni 	xie 	
+			Top 7 	you 	nan 	xie 	
+			Top 8 	yao 	nian 	xie 	
+			Top 9 	yi 	na 	xie 	
+
+Sequence	171
+	Epcho 55 Origin:	[148   0   0   0   0] 	*j*i*n* 	jin	
+	Epcho 55 Decoded: 			Top 0 	jiu 	
+			Top 1 	ji 	
+			Top 2 	jie 	
+			Top 3 	jin 	
+			Top 4 	jia 	
+			Top 5 	jian 	
+			Top 6 	jiao 	
+			Top 7 	jing 	
+			Top 8 	ju 	
+			Top 9 	jiang 	
+
+Sequence	172
+	Epcho 55 Origin:	[197 224   0   0   0] 	*l*u*n* 	lu	na	
+	Epcho 55 Decoded: 			Top 0 	li 	
+			Top 1 	lao 	
+			Top 2 	lai 	
+			Top 3 	liang 	
+			Top 4 	liu 	
+			Top 5 	lian 	
+			Top 6 	la 	
+			Top 7 	ling 	
+			Top 8 	lu 	
+			Top 9 	le 	
+
+Sequence	173
+	Epcho 55 Origin:	[112 319   0   0   0] 	*g*s* 	gu	shi	
+	Epcho 55 Decoded: 			Top 0 	gan 	su 	
+			Top 1 	gao 	su 	
+			Top 2 	guo 	su 	
+			Top 3 	gong 	su 	
+			Top 4 	su 	
+			Top 5 	gei 	su 	
+			Top 6 	guan 	su 	
+			Top 7 	gan 	sha 	
+			Top 8 	ge 	su 	
+			Top 9 	gao 	sha 	
+
+Sequence	174
+	Epcho 55 Origin:	[318 372   0   0   0] 	*s*h*e*n*g*x* 	sheng	xia	
+	Epcho 55 Decoded: 			Top 0 	shi 	xia 	
+			Top 1 	shi 	xing 	
+			Top 2 	shi 	xin 	
+			Top 3 	shen 	xia 	
+			Top 4 	shang 	xia 	
+			Top 5 	shou 	xia 	
+			Top 6 	shui 	xia 	
+			Top 7 	shi 	xiao 	
+			Top 8 	shuo 	xia 	
+			Top 9 	si 	xia 	
+
+Sequence	175
+	Epcho 55 Origin:	[403 189   0   0   0] 	*z*a*i*l* 	zai	liao	
+	Epcho 55 Decoded: 			Top 0 	zhe 	lai 	
+			Top 1 	zai 	lai 	
+			Top 2 	zhi 	lai 	
+			Top 3 	zhe 	liao 	
+			Top 4 	zai 	liao 	
+			Top 5 	zuo 	lai 	
+			Top 6 	zhi 	liao 	
+			Top 7 	zhen 	lai 	
+			Top 8 	zhao 	lai 	
+			Top 9 	zhu 	lai 	
+
+Sequence	176
+	Epcho 55 Origin:	[224 185 280   0   0] 	*n*a*l*i*q*u* 	na	li	qu	
+	Epcho 55 Decoded: 			Top 0 	ni 	li 	qu 	
+			Top 1 	ni 	lai 	qu 	
+			Top 2 	ni 	le 	qu 	
+			Top 3 	na 	li 	qu 	
+			Top 4 	na 	lai 	qu 	
+			Top 5 	li 	qu 	
+			Top 6 	lai 	qu 	
+			Top 7 	na 	le 	qu 	
+			Top 8 	le 	qu 	
+			Top 9 	ni 	liang 	qu 	
+
+Sequence	177
+	Epcho 55 Origin:	[368  66  59   0   0] 	*w*d*c* 	wo	de	cuo	
+	Epcho 55 Decoded: 			Top 0 	wo 	de 	cuo 	
+			Top 1 	wo 	dou 	cuo 	
+			Top 2 	wo 	dian 	cuo 	
+			Top 3 	wo 	dao 	cuo 	
+			Top 4 	wo 	da 	cuo 	
+			Top 5 	wo 	di 	cuo 	
+			Top 6 	wo 	deng 	cuo 	
+			Top 7 	wu 	de 	cuo 	
+			Top 8 	wan 	de 	cuo 	
+			Top 9 	wo 	dui 	cuo 	
+
+Sequence	178
+	Epcho 55 Origin:	[ 22 371 115   0   0] 	*b*x*g* 	bu	xi	guan	
+	Epcho 55 Decoded: 			Top 0 	bu 	xiang 	guan 	
+			Top 1 	bu 	xing 	guan 	
+			Top 2 	bu 	xiang 	gang 	
+			Top 3 	bu 	xu 	guan 	
+			Top 4 	bu 	xi 	guan 	
+			Top 5 	bu 	xiao 	guan 	
+			Top 6 	bu 	xiang 	gong 	
+			Top 7 	bu 	xing 	gang 	
+			Top 8 	bu 	xin 	guan 	
+			Top 9 	bu 	xu 	gang 	
+
+Sequence	179
+	Epcho 55 Origin:	[ 12 425   0   0   0] 	*b*e*i*z*h*u*a* 	bei	zhua	
+	Epcho 55 Decoded: 			Top 0 	bu 	zi 	
+			Top 1 	bu 	zhu 	
+			Top 2 	bao 	zi 	
+			Top 3 	bao 	zhu 	
+			Top 4 	bu 	zhan 	
+			Top 5 	bu 	zhe 	
+			Top 6 	bie 	zi 	
+			Top 7 	bi 	zi 	
+			Top 8 	ba 	zi 	
+			Top 9 	bei 	zi 	
+
+Sequence	180
+	Epcho 55 Origin:	[375 122   0   0   0] 	*x*i*a*o*h* 	xiao	hai	
+	Epcho 55 Decoded: 			Top 0 	xiao 	huo 	
+			Top 1 	xiao 	hua 	
+			Top 2 	xiang 	huo 	
+			Top 3 	xiao 	hai 	
+			Top 4 	xi 	huo 	
+			Top 5 	xin 	huo 	
+			Top 6 	xia 	huo 	
+			Top 7 	xiang 	hua 	
+			Top 8 	xi 	hua 	
+			Top 9 	xin 	hua 	
+
+Sequence	181
+	Epcho 55 Origin:	[391 388  66   0   0] 	*y*i*y*d* 	yi	yang	de	
+	Epcho 55 Decoded: 			Top 0 	yi 	yang 	de 	
+			Top 1 	yi 	de 	
+			Top 2 	you 	yang 	de 	
+			Top 3 	yi 	yuan 	de 	
+			Top 4 	yi 	ye 	de 	
+			Top 5 	yi 	yue 	de 	
+			Top 6 	you 	de 	
+			Top 7 	yi 	yan 	de 	
+			Top 8 	you 	yuan 	de 	
+			Top 9 	yao 	yang 	de 	
+
+Sequence	182
+	Epcho 55 Origin:	[ 75 365   0   0   0] 	*d*i*n*g*w* 	ding	wei	
+	Epcho 55 Decoded: 			Top 0 	da 	wei 	
+			Top 1 	dou 	wei 	
+			Top 2 	di 	wei 	
+			Top 3 	dian 	wei 	
+			Top 4 	deng 	wei 	
+			Top 5 	duo 	wei 	
+			Top 6 	dao 	wei 	
+			Top 7 	dai 	wei 	
+			Top 8 	dui 	wei 	
+			Top 9 	dong 	wei 	
+
+Sequence	183
+	Epcho 55 Origin:	[ 15 390 182   0   0] 	*b*i*y*e*l*e* 	bi	ye	le	
+	Epcho 55 Decoded: 			Top 0 	bu 	ye 	le 	
+			Top 1 	bu 	yao 	le 	
+			Top 2 	bu 	yun 	le 	
+			Top 3 	bao 	ye 	le 	
+			Top 4 	bu 	yu 	le 	
+			Top 5 	bu 	yi 	le 	
+			Top 6 	bie 	ye 	le 	
+			Top 7 	bi 	ye 	le 	
+			Top 8 	bu 	yan 	le 	
+			Top 9 	ba 	ye 	le 	
+
+Sequence	184
+	Epcho 55 Origin:	[364   0   0   0   0] 	*w*a*n*g* 	wang	
+	Epcho 55 Decoded: 			Top 0 	wo 	
+			Top 1 	wu 	
+			Top 2 	wan 	
+			Top 3 	wei 	
+			Top 4 	wang 	
+			Top 5 	wen 	
+			Top 6 	wai 	
+			Top 7 	wa 	
+			Top 8 	wo 	an 	
+			Top 9 	wo 	ai 	
+
+Sequence	185
+	Epcho 55 Origin:	[326 146   0   0   0] 	*s*h*u*i*j* 	shui	jiao	
+	Epcho 55 Decoded: 			Top 0 	shi 	jiao 	
+			Top 1 	shen 	jiao 	
+			Top 2 	shang 	jiao 	
+			Top 3 	shou 	jiao 	
+			Top 4 	shui 	jiao 	
+			Top 5 	shuo 	jiao 	
+			Top 6 	si 	jiao 	
+			Top 7 	sha 	jiao 	
+			Top 8 	sheng 	jiao 	
+			Top 9 	san 	jiao 	
+
+Sequence	186
+	Epcho 55 Origin:	[257   9   0   0   0] 	*p*b* 	pei	ban	
+	Epcho 55 Decoded: 			Top 0 	ping 	ban 	
+			Top 1 	pei 	ban 	
+			Top 2 	pi 	ban 	
+			Top 3 	ping 	bu 	
+			Top 4 	pai 	ban 	
+			Top 5 	pei 	bu 	
+			Top 6 	pao 	ban 	
+			Top 7 	pi 	bu 	
+			Top 8 	pian 	ban 	
+			Top 9 	pa 	ban 	
+
+Sequence	187
+	Epcho 55 Origin:	[274 289 188   0   0] 	*q*r*l* 	qiao	ren	liang	
+	Epcho 55 Decoded: 			Top 0 	qi 	ren 	liang 	
+			Top 1 	qu 	ren 	liang 	
+			Top 2 	qing 	ren 	liang 	
+			Top 3 	qian 	ren 	liang 	
+			Top 4 	quan 	ren 	liang 	
+			Top 5 	qin 	ren 	liang 	
+			Top 6 	qiang 	ren 	liang 	
+			Top 7 	qiu 	ren 	liang 	
+			Top 8 	qun 	ren 	liang 	
+			Top 9 	que 	ren 	liang 	
+
+Sequence	188
+	Epcho 55 Origin:	[133  93   0   0   0] 	*h*u*a*f*e*i* 	hua	fei	
+	Epcho 55 Decoded: 			Top 0 	hao 	fei 	
+			Top 1 	hai 	fei 	
+			Top 2 	hao 	feng 	
+			Top 3 	hai 	feng 	
+			Top 4 	hui 	fei 	
+			Top 5 	he 	fei 	
+			Top 6 	hen 	fei 	
+			Top 7 	hui 	feng 	
+			Top 8 	he 	feng 	
+			Top 9 	hua 	fei 	
+
+Sequence	189
+	Epcho 55 Origin:	[151 178 182   0   0] 	*j*i*u*l*a*i*l* 	jiu	lai	le	
+	Epcho 55 Decoded: 			Top 0 	jiu 	lai 	le 	
+			Top 1 	ji 	lai 	le 	
+			Top 2 	jie 	lai 	le 	
+			Top 3 	jiu 	le 	
+			Top 4 	jiu 	liang 	le 	
+			Top 5 	ji 	le 	
+			Top 6 	jin 	lai 	le 	
+			Top 7 	ji 	liang 	le 	
+			Top 8 	jia 	lai 	le 	
+			Top 9 	jian 	lai 	le 	
+
+Sequence	190
+	Epcho 55 Origin:	[209   0   0   0   0] 	*m*e* 	me	
+	Epcho 55 Decoded: 			Top 0 	mei 	
+			Top 1 	ma 	
+			Top 2 	mai 	
+			Top 3 	ming 	
+			Top 4 	mo 	
+			Top 5 	man 	
+			Top 6 	mu 	
+			Top 7 	mao 	
+			Top 8 	mi 	
+			Top 9 	mian 	
+
+Sequence	191
+	Epcho 55 Origin:	[424 389   0   0   0] 	*z*y*a*o* 	zhu	yao	
+	Epcho 55 Decoded: 			Top 0 	zhe 	yi 	
+			Top 1 	zhe 	yang 	
+			Top 2 	zai 	yi 	
+			Top 3 	zai 	yang 	
+			Top 4 	zhi 	yi 	
+			Top 5 	zhi 	yang 	
+			Top 6 	zhe 	yao 	
+			Top 7 	zhe 	you 	
+			Top 8 	zhe 	ye 	
+			Top 9 	zai 	yao 	
+
+Sequence	192
+	Epcho 55 Origin:	[368  66 347   0   0] 	*w*d*e*t* 	wo	de	tian	
+	Epcho 55 Decoded: 			Top 0 	wo 	de 	tian 	
+			Top 1 	wo 	dou 	tian 	
+			Top 2 	wo 	dian 	tian 	
+			Top 3 	wo 	dao 	tian 	
+			Top 4 	wo 	da 	tian 	
+			Top 5 	wo 	di 	tian 	
+			Top 6 	wo 	deng 	tian 	
+			Top 7 	wu 	de 	tian 	
+			Top 8 	wan 	de 	tian 	
+			Top 9 	wo 	dui 	tian 	
+
+Sequence	193
+	Epcho 55 Origin:	[391 414   0   0   0] 	*y*i*z*h*a*n* 	yi	zhan	
+	Epcho 55 Decoded: 			Top 0 	yi 	zhi 	
+			Top 1 	you 	zhi 	
+			Top 2 	yi 	zhang 	
+			Top 3 	yi 	zhong 	
+			Top 4 	yao 	zhi 	
+			Top 5 	yi 	zheng 	
+			Top 6 	ye 	zhi 	
+			Top 7 	you 	zhang 	
+			Top 8 	you 	zhong 	
+			Top 9 	yi 	zao 	
+
+Sequence	194
+	Epcho 55 Origin:	[328 119   0   0   0] 	*s*h*u*o*g* 	shuo	guo	
+	Epcho 55 Decoded: 			Top 0 	shi 	guo 	
+			Top 1 	shen 	guo 	
+			Top 2 	shang 	guo 	
+			Top 3 	shou 	guo 	
+			Top 4 	shui 	guo 	
+			Top 5 	shuo 	guo 	
+			Top 6 	si 	guo 	
+			Top 7 	sha 	guo 	
+			Top 8 	sheng 	guo 	
+			Top 9 	san 	guo 	
+
+Sequence	195
+	Epcho 55 Origin:	[233 210 347   0   0] 	*n*i*m*e*i*t* 	ni	mei	tian	
+	Epcho 55 Decoded: 			Top 0 	ni 	ma 	tian 	
+			Top 1 	ni 	mei 	tian 	
+			Top 2 	ni 	men 	tian 	
+			Top 3 	na 	ma 	tian 	
+			Top 4 	na 	mei 	tian 	
+			Top 5 	na 	men 	tian 	
+			Top 6 	ma 	tian 	
+			Top 7 	mei 	tian 	
+			Top 8 	men 	tian 	
+			Top 9 	ni 	mai 	tian 	
+
+Sequence	196
+	Epcho 55 Origin:	[320 142   0   0   0] 	*s*h*o*u*j*i* 	shou	ji	
+	Epcho 55 Decoded: 			Top 0 	shi 	ji 	
+			Top 1 	shen 	ji 	
+			Top 2 	shang 	ji 	
+			Top 3 	shou 	ji 	
+			Top 4 	shui 	ji 	
+			Top 5 	shuo 	ji 	
+			Top 6 	si 	ji 	
+			Top 7 	sha 	ji 	
+			Top 8 	sheng 	ji 	
+			Top 9 	san 	ji 	
+
+Sequence	197
+	Epcho 55 Origin:	[135 157   0   0   0] 	*h*u*a*n*k*a* 	huan	ka	
+	Epcho 55 Decoded: 			Top 0 	hao 	le 	
+			Top 1 	hao 	kuan 	
+			Top 2 	hai 	le 	
+			Top 3 	hai 	kuan 	
+			Top 4 	hao 	kai 	
+			Top 5 	hao 	ka 	
+			Top 6 	hao 	kuai 	
+			Top 7 	hui 	le 	
+			Top 8 	hai 	kai 	
+			Top 9 	hui 	kuan 	
+
+Sequence	198
+	Epcho 55 Origin:	[233 432 142   0   0] 	*n*i*z*i*j*i* 	ni	zi	ji	
+	Epcho 55 Decoded: 			Top 0 	ni 	zai 	ji 	
+			Top 1 	ni 	zhe 	ji 	
+			Top 2 	na 	zai 	ji 	
+			Top 3 	ni 	zhi 	ji 	
+			Top 4 	na 	zhe 	ji 	
+			Top 5 	ni 	zuo 	ji 	
+			Top 6 	ni 	zui 	ji 	
+			Top 7 	zai 	ji 	
+			Top 8 	ni 	zou 	ji 	
+			Top 9 	ni 	zen 	ji 	
+
+Sequence	199
+	Epcho 55 Origin:	[368 437 182   0   0] 	*w*o*z*u*i*l* 	wo	zui	le	
+	Epcho 55 Decoded: 			Top 0 	wo 	zhi 	le 	
+			Top 1 	wo 	zai 	le 	
+			Top 2 	wo 	zhe 	le 	
+			Top 3 	wo 	zuo 	le 	
+			Top 4 	wo 	zhen 	le 	
+			Top 5 	wo 	zhao 	le 	
+			Top 6 	wo 	zi 	le 	
+			Top 7 	wo 	zui 	le 	
+			Top 8 	wo 	zen 	le 	
+			Top 9 	wu 	zhi 	le 	
+
+Sequence	200
+	Epcho 55 Origin:	[406 151   0   0   0] 	*z*a*o*j*i*u* 	zao	jiu	
+	Epcho 55 Decoded: 			Top 0 	zhe 	jiu 	
+			Top 1 	zai 	jiu 	
+			Top 2 	zhi 	jiu 	
+			Top 3 	zuo 	jiu 	
+			Top 4 	zhen 	jiu 	
+			Top 5 	zhao 	jiu 	
+			Top 6 	zhu 	jiu 	
+			Top 7 	zhong 	jiu 	
+			Top 8 	zi 	jiu 	
+			Top 9 	zao 	jiu 	
+
+Sequence	201
+	Epcho 55 Origin:	[387   0   0   0   0] 	*y*a*n* 	yan	
+	Epcho 55 Decoded: 			Top 0 	yi 	
+			Top 1 	you 	
+			Top 2 	yao 	
+			Top 3 	ye 	
+			Top 4 	yuan 	
+			Top 5 	yu 	
+			Top 6 	yan 	
+			Top 7 	ying 	
+			Top 8 	yin 	
+			Top 9 	yong 	
+
+Sequence	202
+	Epcho 55 Origin:	[61 11 12  0  0] 	*d*a*b*a*o*b* 	da	bao	bei	
+	Epcho 55 Decoded: 			Top 0 	da 	bu 	bei 	
+			Top 1 	dou 	bu 	bei 	
+			Top 2 	di 	bu 	bei 	
+			Top 3 	dian 	bu 	bei 	
+			Top 4 	da 	ba 	bei 	
+			Top 5 	da 	bao 	bei 	
+			Top 6 	deng 	bu 	bei 	
+			Top 7 	duo 	bu 	bei 	
+			Top 8 	dao 	bu 	bei 	
+			Top 9 	dai 	bu 	bei 	
+
+Sequence	203
+	Epcho 55 Origin:	[178  66   0   0   0] 	*l*a*i*d* 	lai	de	
+	Epcho 55 Decoded: 			Top 0 	li 	de 	
+			Top 1 	lao 	de 	
+			Top 2 	lai 	de 	
+			Top 3 	liang 	de 	
+			Top 4 	liu 	de 	
+			Top 5 	li 	dian 	
+			Top 6 	lao 	dian 	
+			Top 7 	lian 	de 	
+			Top 8 	la 	de 	
+			Top 9 	lai 	dian 	
+
+Sequence	204
+	Epcho 55 Origin:	[393   0   0   0   0] 	*y*i*n*g* 	ying	
+	Epcho 55 Decoded: 			Top 0 	yi 	
+			Top 1 	you 	
+			Top 2 	yao 	
+			Top 3 	ye 	
+			Top 4 	yuan 	
+			Top 5 	yu 	
+			Top 6 	yan 	
+			Top 7 	ying 	
+			Top 8 	yin 	
+			Top 9 	yong 	
+
+Sequence	205
+	Epcho 55 Origin:	[368 374   0   0   0] 	*w*x* 	wo	xiang	
+	Epcho 55 Decoded: 			Top 0 	wo 	xiang 	
+			Top 1 	wo 	xian 	
+			Top 2 	wo 	xi 	
+			Top 3 	wo 	xiao 	
+			Top 4 	wo 	xin 	
+			Top 5 	wo 	xia 	
+			Top 6 	wu 	xiang 	
+			Top 7 	wu 	xian 	
+			Top 8 	wan 	xiang 	
+			Top 9 	wan 	xian 	
+
+Sequence	206
+	Epcho 55 Origin:	[368 126 368   0   0] 	*w*o*h*e*w*o* 	wo	he	wo	
+	Epcho 55 Decoded: 			Top 0 	wo 	hai 	wo 	
+			Top 1 	wo 	hao 	wo 	
+			Top 2 	wo 	hui 	wo 	
+			Top 3 	wo 	he 	wo 	
+			Top 4 	wu 	hai 	wo 	
+			Top 5 	wan 	hai 	wo 	
+			Top 6 	wei 	hai 	wo 	
+			Top 7 	wang 	hai 	wo 	
+			Top 8 	wen 	hai 	wo 	
+			Top 9 	wu 	hao 	wo 	
+
+Sequence	207
+	Epcho 55 Origin:	[ 22 389   1   0   0] 	*b*u*y*a*o*a* 	bu	yao	a	
+	Epcho 55 Decoded: 			Top 0 	bu 	yao 	a 	
+			Top 1 	bu 	yong 	a 	
+			Top 2 	bu 	yi 	a 	
+			Top 3 	bu 	yuan 	a 	
+			Top 4 	bu 	ying 	a 	
+			Top 5 	bao 	yao 	a 	
+			Top 6 	bie 	yao 	a 	
+			Top 7 	bi 	yao 	a 	
+			Top 8 	ba 	yao 	a 	
+			Top 9 	bei 	yao 	a 	
+
+Sequence	208
+	Epcho 55 Origin:	[391 144   0   0   0] 	*y*i*j*i*a*n* 	yi	jian	
+	Epcho 55 Decoded: 			Top 0 	yi 	jia 	
+			Top 1 	yi 	jian 	
+			Top 2 	yi 	ju 	
+			Top 3 	you 	jia 	
+			Top 4 	you 	jian 	
+			Top 5 	yi 	ji 	
+			Top 6 	you 	ju 	
+			Top 7 	yi 	jing 	
+			Top 8 	yi 	jiao 	
+			Top 9 	you 	ji 	
+
+Sequence	209
+	Epcho 55 Origin:	[368 315 396   0   0] 	*w*o*s*h*e*y* 	wo	she	you	
+	Epcho 55 Decoded: 			Top 0 	wo 	shi 	you 	
+			Top 1 	wo 	shuo 	you 	
+			Top 2 	wo 	shui 	you 	
+			Top 3 	wo 	shou 	you 	
+			Top 4 	wo 	shang 	you 	
+			Top 5 	wo 	shen 	you 	
+			Top 6 	wu 	shi 	you 	
+			Top 7 	wan 	shi 	you 	
+			Top 8 	wei 	shi 	you 	
+			Top 9 	wu 	shuo 	you 	
+
+Sequence	210
+	Epcho 55 Origin:	[189   0   0   0   0] 	*l*i*a*o* 	liao	
+	Epcho 55 Decoded: 			Top 0 	li 	
+			Top 1 	lao 	
+			Top 2 	lai 	
+			Top 3 	liang 	
+			Top 4 	liu 	
+			Top 5 	lian 	
+			Top 6 	la 	
+			Top 7 	ling 	
+			Top 8 	lu 	
+			Top 9 	le 	
+
+Sequence	211
+	Epcho 55 Origin:	[143 416   0   0   0] 	*j*i*a*z* 	jia	zhao	
+	Epcho 55 Decoded: 			Top 0 	jiu 	zhang 	
+			Top 1 	jiu 	zu 	
+			Top 2 	ji 	zhang 	
+			Top 3 	ji 	zu 	
+			Top 4 	jiu 	zhi 	
+			Top 5 	ji 	zhi 	
+			Top 6 	jiu 	zhuang 	
+			Top 7 	jie 	zhang 	
+			Top 8 	jie 	zu 	
+			Top 9 	ji 	zhuang 	
+
+Sequence	212
+	Epcho 55 Origin:	[122 396   0   0   0] 	*h*u*a*n*y* 	hai	you	
+	Epcho 55 Decoded: 			Top 0 	hao 	yi 	
+			Top 1 	hai 	yi 	
+			Top 2 	hao 	ying 	
+			Top 3 	hui 	yi 	
+			Top 4 	he 	yi 	
+			Top 5 	hai 	ying 	
+			Top 6 	hen 	yi 	
+			Top 7 	hui 	ying 	
+			Top 8 	hua 	yi 	
+			Top 9 	huo 	yi 	
+
+Sequence	213
+	Epcho 55 Origin:	[ 22 365 310   0   0] 	*b*u*w*e*i*s* 	bu	wei	sha	
+	Epcho 55 Decoded: 			Top 0 	bu 	wan 	sha 	
+			Top 1 	bu 	wei 	sha 	
+			Top 2 	bu 	wen 	sha 	
+			Top 3 	bu 	wan 	shen 	
+			Top 4 	bao 	wan 	sha 	
+			Top 5 	bie 	wan 	sha 	
+			Top 6 	bi 	wan 	sha 	
+			Top 7 	ba 	wan 	sha 	
+			Top 8 	bei 	wan 	sha 	
+			Top 9 	bu 	wang 	sha 	
+
+Sequence	214
+	Epcho 55 Origin:	[ 66 319 131   0   0] 	*d*e*s*h*i*h* 	de	shi	hou	
+	Epcho 55 Decoded: 			Top 0 	da 	shi 	hou 	
+			Top 1 	dou 	shi 	hou 	
+			Top 2 	di 	shi 	hou 	
+			Top 3 	dian 	shi 	hou 	
+			Top 4 	deng 	shi 	hou 	
+			Top 5 	duo 	shi 	hou 	
+			Top 6 	dao 	shi 	hou 	
+			Top 7 	da 	se 	hou 	
+			Top 8 	dai 	shi 	hou 	
+			Top 9 	dui 	shi 	hou 	
+
+Sequence	215
+	Epcho 55 Origin:	[317 162   0   0   0] 	*s*h*e*n*k* 	shen	ke	
+	Epcho 55 Decoded: 			Top 0 	shi 	ke 	
+			Top 1 	shen 	ke 	
+			Top 2 	shang 	ke 	
+			Top 3 	shou 	ke 	
+			Top 4 	shui 	ke 	
+			Top 5 	shuo 	ke 	
+			Top 6 	si 	ke 	
+			Top 7 	sha 	ke 	
+			Top 8 	sheng 	ke 	
+			Top 9 	san 	ke 	
+
+Sequence	216
+	Epcho 55 Origin:	[403 395   0   0   0] 	*z*a*i*y*o*n*g* 	zai	yong	
+	Epcho 55 Decoded: 			Top 0 	zhe 	yi 	
+			Top 1 	zai 	yi 	
+			Top 2 	zhi 	yi 	
+			Top 3 	zuo 	yi 	
+			Top 4 	zhen 	yi 	
+			Top 5 	zhao 	yi 	
+			Top 6 	zhe 	ye 	
+			Top 7 	zhu 	yi 	
+			Top 8 	zhong 	yi 	
+			Top 9 	zi 	yi 	
+
+Sequence	217
+	Epcho 55 Origin:	[135 393   0   0   0] 	*h*u*a*n*y* 	huan	ying	
+	Epcho 55 Decoded: 			Top 0 	hao 	yi 	
+			Top 1 	hai 	yi 	
+			Top 2 	hao 	ying 	
+			Top 3 	hui 	yi 	
+			Top 4 	he 	yi 	
+			Top 5 	hai 	ying 	
+			Top 6 	hen 	yi 	
+			Top 7 	hui 	ying 	
+			Top 8 	hua 	yi 	
+			Top 9 	huo 	yi 	
+
+Sequence	218
+	Epcho 55 Origin:	[391  94 422   0   0] 	*y*i*f*e*n*z* 	yi	fen	zhong	
+	Epcho 55 Decoded: 			Top 0 	yi 	fen 	zhong 	
+			Top 1 	yi 	fu 	zhong 	
+			Top 2 	you 	fen 	zhong 	
+			Top 3 	you 	fu 	zhong 	
+			Top 4 	yao 	fen 	zhong 	
+			Top 5 	ye 	fen 	zhong 	
+			Top 6 	yao 	fu 	zhong 	
+			Top 7 	ye 	fu 	zhong 	
+			Top 8 	yi 	fa 	zhong 	
+			Top 9 	yuan 	fen 	zhong 	
+
+Sequence	219
+	Epcho 55 Origin:	[233 211   0   0   0] 	*n*i*m* 	ni	men	
+	Epcho 55 Decoded: 			Top 0 	ni 	ma 	
+			Top 1 	ni 	mei 	
+			Top 2 	ni 	men 	
+			Top 3 	na 	ma 	
+			Top 4 	na 	mei 	
+			Top 5 	na 	men 	
+			Top 6 	ma 	
+			Top 7 	mei 	
+			Top 8 	men 	
+			Top 9 	ni 	mai 	
+
+Sequence	220
+	Epcho 55 Origin:	[281 201   0   0   0] 	*q*u*a*n*l*u*o* 	quan	luo	
+	Epcho 55 Decoded: 			Top 0 	qi 	li 	
+			Top 1 	qu 	li 	
+			Top 2 	qing 	li 	
+			Top 3 	qian 	li 	
+			Top 4 	quan 	li 	
+			Top 5 	qin 	li 	
+			Top 6 	qiang 	li 	
+			Top 7 	qiu 	li 	
+			Top 8 	qun 	li 	
+			Top 9 	que 	li 	
+
+Sequence	221
+	Epcho 55 Origin:	[144   0   0   0   0] 	*j* 	jian	
+	Epcho 55 Decoded: 			Top 0 	jiu 	
+			Top 1 	ji 	
+			Top 2 	jie 	
+			Top 3 	jin 	
+			Top 4 	jia 	
+			Top 5 	jian 	
+			Top 6 	jiao 	
+			Top 7 	jing 	
+			Top 8 	ju 	
+			Top 9 	jiang 	
+
+Sequence	222
+	Epcho 55 Origin:	[143 272   0   0   0] 	*j*i*a*q* 	jia	qian	
+	Epcho 55 Decoded: 			Top 0 	jiu 	qi 	
+			Top 1 	ji 	qi 	
+			Top 2 	jie 	qi 	
+			Top 3 	jin 	qi 	
+			Top 4 	jia 	qi 	
+			Top 5 	jiu 	qian 	
+			Top 6 	jian 	qi 	
+			Top 7 	jiao 	qi 	
+			Top 8 	ji 	qian 	
+			Top 9 	jing 	qi 	
+
+Sequence	223
+	Epcho 55 Origin:	[41 11  0  0  0] 	*c*b*a*o* 	chi	bao	
+	Epcho 55 Decoded: 			Top 0 	chi 	bu 	
+			Top 1 	chu 	bu 	
+			Top 2 	cai 	bu 	
+			Top 3 	cheng 	bu 	
+			Top 4 	chang 	bu 	
+			Top 5 	chao 	bu 	
+			Top 6 	chong 	bu 	
+			Top 7 	cha 	bu 	
+			Top 8 	che 	bu 	
+			Top 9 	chou 	bu 	
+
+Sequence	224
+	Epcho 55 Origin:	[104 137 143   0   0] 	*g*a*n*g*h*u*i*j* 	gang	hui	jia	
+	Epcho 55 Decoded: 			Top 0 	gan 	gang 	hui 	jia 	
+			Top 1 	gan 	gang 	hao 	jia 	
+			Top 2 	gao 	gang 	hui 	jia 	
+			Top 3 	gao 	gang 	hao 	jia 	
+			Top 4 	guo 	gang 	hui 	jia 	
+			Top 5 	guo 	gang 	hao 	jia 	
+			Top 6 	gong 	gang 	hui 	jia 	
+			Top 7 	gong 	gang 	hao 	jia 	
+			Top 8 	gang 	hui 	jia 	
+			Top 9 	gang 	hao 	jia 	
+
+Sequence	225
+	Epcho 55 Origin:	[374  44   0   0   0] 	*x*i*a*n*g*c*h*u* 	xiang	chu	
+	Epcho 55 Decoded: 			Top 0 	xiao 	ce 	
+			Top 1 	xiao 	chi 	
+			Top 2 	xiang 	ce 	
+			Top 3 	xiang 	chi 	
+			Top 4 	xi 	ce 	
+			Top 5 	xin 	ce 	
+			Top 6 	xi 	chi 	
+			Top 7 	xiao 	chang 	
+			Top 8 	xin 	chi 	
+			Top 9 	xia 	ce 	
+
+Sequence	226
+	Epcho 55 Origin:	[243 185   0   0   0] 	*n*v*l* 	nu	li	
+	Epcho 55 Decoded: 			Top 0 	ni 	nv 	li 	
+			Top 1 	na 	nv 	li 	
+			Top 2 	nv 	li 	
+			Top 3 	ni 	li 	
+			Top 4 	na 	li 	
+			Top 5 	nan 	nv 	li 	
+			Top 6 	ni 	nv 	le 	
+			Top 7 	nei 	nv 	li 	
+			Top 8 	li 	
+			Top 9 	na 	nv 	le 	
+
+Sequence	227
+	Epcho 55 Origin:	[69 69  0  0  0] 	*d*e*n*g*d*e*n*g* 	deng	deng	
+	Epcho 55 Decoded: 			Top 0 	da 	deng 	
+			Top 1 	da 	dao 	
+			Top 2 	da 	dai 	
+			Top 3 	da 	de 	
+			Top 4 	dou 	deng 	
+			Top 5 	dou 	dao 	
+			Top 6 	dou 	dai 	
+			Top 7 	di 	deng 	
+			Top 8 	dou 	de 	
+			Top 9 	dian 	deng 	
+
+Sequence	228
+	Epcho 55 Origin:	[22 77  0  0  0] 	*b*u*d* 	bu	dong	
+	Epcho 55 Decoded: 			Top 0 	bu 	da 	
+			Top 1 	bu 	de 	
+			Top 2 	bu 	dong 	
+			Top 3 	bu 	dui 	
+			Top 4 	bu 	duo 	
+			Top 5 	bu 	dao 	
+			Top 6 	bu 	dai 	
+			Top 7 	bao 	da 	
+			Top 8 	bu 	ding 	
+			Top 9 	bu 	dou 	
+
+Sequence	229
+	Epcho 55 Origin:	[368 252   0   0   0] 	*w*o*p* 	wo	pa	
+	Epcho 55 Decoded: 			Top 0 	wo 	pa 	
+			Top 1 	wo 	pei 	
+			Top 2 	wo 	peng 	
+			Top 3 	wo 	pang 	
+			Top 4 	wo 	pai 	
+			Top 5 	wu 	pa 	
+			Top 6 	wan 	pa 	
+			Top 7 	wu 	pei 	
+			Top 8 	wei 	pa 	
+			Top 9 	wan 	pei 	
+
+Sequence	230
+	Epcho 55 Origin:	[ 72 319 152   0   0] 	*d*i*a*n*s*h*i*j* 	dian	shi	ju	
+	Epcho 55 Decoded: 			Top 0 	da 	shi 	ju 	
+			Top 1 	dou 	shi 	ju 	
+			Top 2 	di 	shi 	ju 	
+			Top 3 	dian 	shi 	ju 	
+			Top 4 	deng 	shi 	ju 	
+			Top 5 	duo 	shi 	ju 	
+			Top 6 	dao 	shi 	ju 	
+			Top 7 	dai 	shi 	ju 	
+			Top 8 	dui 	shi 	ju 	
+			Top 9 	dong 	shi 	ju 	
+
+Sequence	231
+	Epcho 55 Origin:	[368  66 347   0   0] 	*w*d*t* 	wo	de	tian	
+	Epcho 55 Decoded: 			Top 0 	wo 	de 	tian 	
+			Top 1 	wo 	dou 	tian 	
+			Top 2 	wo 	dian 	tian 	
+			Top 3 	wo 	dao 	tian 	
+			Top 4 	wo 	da 	tian 	
+			Top 5 	wo 	di 	tian 	
+			Top 6 	wo 	deng 	tian 	
+			Top 7 	wu 	de 	tian 	
+			Top 8 	wan 	de 	tian 	
+			Top 9 	wo 	dui 	tian 	
+
+Sequence	232
+	Epcho 55 Origin:	[233 328 229   0   0] 	*n*i*s*h*u*o*n*e* 	ni	shuo	ne	
+	Epcho 55 Decoded: 			Top 0 	ni 	shi 	ne 	
+			Top 1 	ni 	shuo 	ne 	
+			Top 2 	ni 	shen 	ne 	
+			Top 3 	na 	shi 	ne 	
+			Top 4 	shi 	ne 	
+			Top 5 	na 	shuo 	ne 	
+			Top 6 	ni 	sha 	ne 	
+			Top 7 	shuo 	ne 	
+			Top 8 	na 	shen 	ne 	
+			Top 9 	ni 	shui 	ne 	
+
+Sequence	233
+	Epcho 55 Origin:	[208  82   0   0   0] 	*m*d* 	mao	dun	
+	Epcho 55 Decoded: 			Top 0 	mei 	de 	
+			Top 1 	mei 	dian 	
+			Top 2 	ma 	de 	
+			Top 3 	mei 	dan 	
+			Top 4 	mei 	dong 	
+			Top 5 	mai 	de 	
+			Top 6 	mei 	dui 	
+			Top 7 	ming 	de 	
+			Top 8 	mo 	de 	
+			Top 9 	man 	de 	
+
+Sequence	234
+	Epcho 55 Origin:	[65 44  0  0  0] 	*d*a*o*c*h*u* 	dao	chu	
+	Epcho 55 Decoded: 			Top 0 	da 	chu 	
+			Top 1 	dou 	chu 	
+			Top 2 	di 	chu 	
+			Top 3 	dian 	chu 	
+			Top 4 	deng 	chu 	
+			Top 5 	duo 	chu 	
+			Top 6 	dao 	chu 	
+			Top 7 	dai 	chu 	
+			Top 8 	dui 	chu 	
+			Top 9 	dong 	chu 	
+
+Sequence	235
+	Epcho 55 Origin:	[399 204   0   0   0] 	*y*u*e*m* 	yue	ma	
+	Epcho 55 Decoded: 			Top 0 	yi 	ma 	
+			Top 1 	yi 	mu 	
+			Top 2 	you 	ma 	
+			Top 3 	yi 	mei 	
+			Top 4 	you 	mu 	
+			Top 5 	you 	mei 	
+			Top 6 	yao 	ma 	
+			Top 7 	yi 	me 	
+			Top 8 	ye 	ma 	
+			Top 9 	yao 	mu 	
+
+Sequence	236
+	Epcho 55 Origin:	[209 319   0   0   0] 	*m*e*s* 	me	shi	
+	Epcho 55 Decoded: 			Top 0 	mei 	shi 	
+			Top 1 	ma 	shi 	
+			Top 2 	mai 	shi 	
+			Top 3 	ming 	shi 	
+			Top 4 	mo 	shi 	
+			Top 5 	man 	shi 	
+			Top 6 	mu 	shi 	
+			Top 7 	mao 	shi 	
+			Top 8 	mi 	shi 	
+			Top 9 	mian 	shi 	
+
+Sequence	237
+	Epcho 55 Origin:	[204  66   0   0   0] 	*m*a*d*e* 	ma	de	
+	Epcho 55 Decoded: 			Top 0 	mei 	de 	
+			Top 1 	mei 	dan 	
+			Top 2 	ma 	de 	
+			Top 3 	ma 	dan 	
+			Top 4 	mai 	de 	
+			Top 5 	ming 	de 	
+			Top 6 	mo 	de 	
+			Top 7 	mai 	dan 	
+			Top 8 	ming 	dan 	
+			Top 9 	mo 	dan 	
+
+Sequence	238
+	Epcho 55 Origin:	[329 255 432   0   0] 	*s*i*p*a*n*g*z*i* 	si	pang	zi	
+	Epcho 55 Decoded: 			Top 0 	shi 	pin 	zi 	
+			Top 1 	shen 	pin 	zi 	
+			Top 2 	shang 	pin 	zi 	
+			Top 3 	shi 	ping 	zi 	
+			Top 4 	shou 	pin 	zi 	
+			Top 5 	shui 	pin 	zi 	
+			Top 6 	shuo 	pin 	zi 	
+			Top 7 	si 	pin 	zi 	
+			Top 8 	sha 	pin 	zi 	
+			Top 9 	sheng 	pin 	zi 	
+
+Sequence	239
+	Epcho 55 Origin:	[256   0   0   0   0] 	*p* 	pao	
+	Epcho 55 Decoded: 			Top 0 	ping 	
+			Top 1 	pei 	
+			Top 2 	pi 	
+			Top 3 	pai 	
+			Top 4 	pao 	
+			Top 5 	pian 	
+			Top 6 	pa 	
+			Top 7 	peng 	
+			Top 8 	pu 	
+			Top 9 	pang 	
+
+Sequence	240
+	Epcho 55 Origin:	[188 106 289   0   0] 	*l*i*a*n*g*g*r* 	liang	ge	ren	
+	Epcho 55 Decoded: 			Top 0 	li 	ge 	ren 	
+			Top 1 	lao 	ge 	ren 	
+			Top 2 	lai 	ge 	ren 	
+			Top 3 	liang 	ge 	ren 	
+			Top 4 	liu 	ge 	ren 	
+			Top 5 	lian 	ge 	ren 	
+			Top 6 	la 	ge 	ren 	
+			Top 7 	ling 	ge 	ren 	
+			Top 8 	lu 	ge 	ren 	
+			Top 9 	le 	ge 	ren 	
+
+Sequence	241
+	Epcho 55 Origin:	[ 41 119   0   0   0] 	*c*g* 	chi	guo	
+	Epcho 55 Decoded: 			Top 0 	chi 	ge 	
+			Top 1 	chu 	ge 	
+			Top 2 	chi 	guo 	
+			Top 3 	chu 	guo 	
+			Top 4 	cai 	ge 	
+			Top 5 	cai 	guo 	
+			Top 6 	chi 	gong 	
+			Top 7 	chu 	gong 	
+			Top 8 	cheng 	ge 	
+			Top 9 	cheng 	guo 	
+
+Sequence	242
+	Epcho 55 Origin:	[158 363 375   0   0] 	*k*w*x* 	kai	wan	xiao	
+	Epcho 55 Decoded: 			Top 0 	kan 	wan 	xiao 	
+			Top 1 	ke 	wan 	xiao 	
+			Top 2 	kai 	wan 	xiao 	
+			Top 3 	kan 	wo 	xiao 	
+			Top 4 	ke 	wo 	xiao 	
+			Top 5 	kan 	xiao 	
+			Top 6 	kuai 	wan 	xiao 	
+			Top 7 	ke 	xiao 	
+			Top 8 	kai 	wo 	xiao 	
+			Top 9 	kai 	xiao 	
+
+Sequence	243
+	Epcho 55 Origin:	[175 252   0   0   0] 	*k*p* 	kuo	pa	
+	Epcho 55 Decoded: 			Top 0 	kan 	pa 	
+			Top 1 	ke 	pa 	
+			Top 2 	kai 	pa 	
+			Top 3 	kuai 	pa 	
+			Top 4 	kao 	pa 	
+			Top 5 	kong 	pa 	
+			Top 6 	kan 	pu 	
+			Top 7 	ke 	pu 	
+			Top 8 	kou 	pa 	
+			Top 9 	ku 	pa 	
+
+Sequence	244
+	Epcho 55 Origin:	[11 41  0  0  0] 	*b*c* 	bao	chi	
+	Epcho 55 Decoded: 			Top 0 	bu 	cuo 	
+			Top 1 	bu 	chu 	
+			Top 2 	bu 	chi 	
+			Top 3 	bu 	cheng 	
+			Top 4 	bu 	cun 	
+			Top 5 	bu 	ci 	
+			Top 6 	bao 	cuo 	
+			Top 7 	bao 	chu 	
+			Top 8 	bao 	chi 	
+			Top 9 	bao 	cheng 	
+
+Sequence	245
+	Epcho 55 Origin:	[348 146   0   0   0] 	*t*i*a*o*j*i*a*o* 	tiao	jiao	
+	Epcho 55 Decoded: 			Top 0 	tai 	jian 	
+			Top 1 	ting 	jian 	
+			Top 2 	ta 	jian 	
+			Top 3 	tong 	jian 	
+			Top 4 	tou 	jian 	
+			Top 5 	tian 	jian 	
+			Top 6 	ti 	jian 	
+			Top 7 	tu 	jian 	
+			Top 8 	tao 	jian 	
+			Top 9 	tui 	jian 	
+
+Sequence	246
+	Epcho 55 Origin:	[403 372   0   0   0] 	*z*x* 	zai	xia	
+	Epcho 55 Decoded: 			Top 0 	zhe 	xin 	
+			Top 1 	zhe 	xi 	
+			Top 2 	zai 	xin 	
+			Top 3 	zhe 	xie 	
+			Top 4 	zhi 	xin 	
+			Top 5 	zai 	xi 	
+			Top 6 	zhi 	xi 	
+			Top 7 	zhe 	xue 	
+			Top 8 	zai 	xie 	
+			Top 9 	zhi 	xie 	
+
+Sequence	247
+	Epcho 55 Origin:	[363 432   0   0   0] 	*w*a*n*z*i* 	wan	zi	
+	Epcho 55 Decoded: 			Top 0 	wo 	zi 	
+			Top 1 	wo 	zheng 	
+			Top 2 	wu 	zi 	
+			Top 3 	wo 	zhe 	
+			Top 4 	wan 	zi 	
+			Top 5 	wei 	zi 	
+			Top 6 	wang 	zi 	
+			Top 7 	wen 	zi 	
+			Top 8 	wu 	zheng 	
+			Top 9 	wan 	zheng 	
+
+Sequence	248
+	Epcho 55 Origin:	[372  29   0   0   0] 	*x*i*a*c*e* 	xia	ce	
+	Epcho 55 Decoded: 			Top 0 	xiao 	che 	
+			Top 1 	xiao 	ci 	
+			Top 2 	xiang 	che 	
+			Top 3 	xiang 	ci 	
+			Top 4 	xi 	che 	
+			Top 5 	xin 	che 	
+			Top 6 	xi 	ci 	
+			Top 7 	xin 	ci 	
+			Top 8 	xia 	che 	
+			Top 9 	xia 	ci 	
+
+Sequence	249
+	Epcho 55 Origin:	[368 178   0   0   0] 	*w*o*l* 	wo	lai	
+	Epcho 55 Decoded: 			Top 0 	wo 	lai 	
+			Top 1 	wo 	lao 	
+			Top 2 	wo 	lia 	
+			Top 3 	wo 	le 	
+			Top 4 	wo 	lian 	
+			Top 5 	wo 	la 	
+			Top 6 	wo 	li 	
+			Top 7 	wo 	liang 	
+			Top 8 	wo 	lei 	
+			Top 9 	wo 	lan 	
+
+Sequence	250
+	Epcho 55 Origin:	[123 119   0   0   0] 	*h*g* 	han	guo	
+	Epcho 55 Decoded: 			Top 0 	hao 	guo 	
+			Top 1 	hai 	guo 	
+			Top 2 	hao 	gan 	
+			Top 3 	hui 	guo 	
+			Top 4 	hao 	gai 	
+			Top 5 	hai 	gan 	
+			Top 6 	he 	guo 	
+			Top 7 	hao 	gao 	
+			Top 8 	hao 	gei 	
+			Top 9 	hen 	guo 	
+
+Sequence	251
+	Epcho 55 Origin:	[270   0   0   0   0] 	*q*i* 	qi	
+	Epcho 55 Decoded: 			Top 0 	qi 	
+			Top 1 	qu 	
+			Top 2 	qing 	
+			Top 3 	qian 	
+			Top 4 	quan 	
+			Top 5 	qin 	
+			Top 6 	qiang 	
+			Top 7 	qiu 	
+			Top 8 	qun 	
+			Top 9 	que 	
+
+Sequence	252
+	Epcho 55 Origin:	[270   0   0   0   0] 	*q*o* 	qi	
+	Epcho 55 Decoded: 			Top 0 	qi 	
+			Top 1 	qu 	
+			Top 2 	qing 	
+			Top 3 	qian 	
+			Top 4 	quan 	
+			Top 5 	qin 	
+			Top 6 	qiang 	
+			Top 7 	qiu 	
+			Top 8 	qun 	
+			Top 9 	que 	
+
+Sequence	253
+	Epcho 55 Origin:	[ 63 377   0   0   0] 	*d*x* 	dan	xin	
+	Epcho 55 Decoded: 			Top 0 	da 	xin 	
+			Top 1 	da 	xia 	
+			Top 2 	da 	xi 	
+			Top 3 	da 	xian 	
+			Top 4 	da 	xiao 	
+			Top 5 	dou 	xin 	
+			Top 6 	da 	xiang 	
+			Top 7 	da 	xue 	
+			Top 8 	dou 	xia 	
+			Top 9 	dou 	xi 	
+
+Sequence	254
+	Epcho 55 Origin:	[417 388 204   0   0] 	*z*y*m* 	zhe	yang	ma	
+	Epcho 55 Decoded: 			Top 0 	zhe 	yi 	ma 	
+			Top 1 	zhe 	yang 	ma 	
+			Top 2 	zai 	yi 	ma 	
+			Top 3 	zai 	yang 	ma 	
+			Top 4 	zhi 	yi 	ma 	
+			Top 5 	zhi 	yang 	ma 	
+			Top 6 	zhe 	yao 	ma 	
+			Top 7 	zhe 	you 	ma 	
+			Top 8 	zhe 	ye 	ma 	
+			Top 9 	zai 	yao 	ma 	
+
+Sequence	255
+	Epcho 55 Origin:	[10  0  0  0  0] 	*b*a*n*g* 	bang	
+	Epcho 55 Decoded: 			Top 0 	bu 	
+			Top 1 	bao 	
+			Top 2 	bie 	
+			Top 3 	bi 	
+			Top 4 	ba 	
+			Top 5 	bei 	
+			Top 6 	ban 	
+			Top 7 	bai 	
+			Top 8 	biao 	
+			Top 9 	ben 	

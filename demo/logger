@@ -1,0 +1,1959 @@
+logits Tensor("model/tower/lstm/transpose_1:0", shape=(?, ?, 5002), dtype=float32, device=/device:GPU:0)
+logits Tensor("model/tower/lstm_1/transpose_1:0", shape=(?, ?, 5002), dtype=float32, device=/device:GPU:1)
+logits Tensor("model/tower/lstm_2/transpose_1:0", shape=(?, ?, 5002), dtype=float32, device=/device:GPU:2)
+logits Tensor("model/tower/lstm_3/transpose_1:0", shape=(?, ?, 5002), dtype=float32, device=/device:GPU:3)
+Variables initialized ...
+Train step: 1000 Train loss: 471.297058105 Train ler: 31.17 Train time: 121.732950211.sec
+Train step: 2000 Train loss: 418.336090088 Train ler: 29.75 Train time: 118.658781052.sec
+Train step: 3000 Train loss: 432.690551758 Train ler: 28.47 Train time: 126.081943512.sec
+Train step: 4000 Train loss: 432.294189453 Train ler: 28.08 Train time: 124.929904938.sec
+Train step: 5000 Train loss: 458.616149902 Train ler: 29.75 Train time: 123.16608429.sec
+Train step: 6000 Train loss: 404.521240234 Train ler: 29.67 Train time: 111.354827881.sec
+Train step: 7000 Train loss: 430.363830566 Train ler: 29.17 Train time: 128.129005432.sec
+Train step: 8000 Train loss: 422.088317871 Train ler: 27.75 Train time: 112.080097198.sec
+Train step: 9000 Train loss: 374.993133545 Train ler: 30.00 Train time: 119.733810425.sec
+Train step: 10000 Train loss: 407.74432373 Train ler: 30.00 Train time: 101.523160934.sec
+Train step: 11000 Train loss: 400.803833008 Train ler: 28.00 Train time: 114.122867584.sec
+Train step: 12000 Train loss: 395.046386719 Train ler: 29.52 Train time: 133.925914764.sec
+Train step: 13000 Train loss: 333.309448242 Train ler: 28.83 Train time: 122.582912445.sec
+Train step: 14000 Train loss: 445.903259277 Train ler: 30.67 Train time: 114.87698555.sec
+Train step: 15000 Train loss: 359.062408447 Train ler: 29.67 Train time: 120.731115341.sec
+Train step: 16000 Train loss: 350.251861572 Train ler: 28.67 Train time: 112.887859344.sec
+Train step: 17000 Train loss: 369.36630249 Train ler: 27.00 Train time: 129.903793335.sec
+Train step: 18000 Train loss: 312.754516602 Train ler: 26.50 Train time: 119.065999985.sec
+Train step: 19000 Train loss: 358.746002197 Train ler: 28.75 Train time: 118.088006973.sec
+Train step: 20000 Train loss: 394.184417725 Train ler: 28.98 Train time: 104.124069214.sec
+Train step: 21000 Train loss: 360.190643311 Train ler: 29.50 Train time: 115.200042725.sec
+Train step: 22000 Train loss: 382.953369141 Train ler: 28.58 Train time: 101.378917694.sec
+Train step: 23000 Train loss: 354.725738525 Train ler: 28.50 Train time: 113.070964813.sec
+Train step: 24000 Train loss: 385.945495605 Train ler: 28.83 Train time: 126.523017883.sec
+Train step: 25000 Train loss: 348.590332031 Train ler: 28.17 Train time: 119.841098785.sec
+Train step: 26000 Train loss: 316.705627441 Train ler: 28.50 Train time: 99.9739170074.sec
+Train step: 27000 Train loss: 348.563476562 Train ler: 29.67 Train time: 109.36498642.sec
+Train step: 28000 Train loss: 377.217346191 Train ler: 30.33 Train time: 114.18390274.sec
+Train step: 29000 Train loss: 321.999969482 Train ler: 28.50 Train time: 109.899997711.sec
+Train step: 30000 Train loss: 363.10546875 Train ler: 29.50 Train time: 123.497962952.sec
+Train step: 31000 Train loss: 341.630004883 Train ler: 28.83 Train time: 105.06105423.sec
+One epoch data is finished
+Saving model...
+start validation
+Variables initialized ...
+Read model parameters from ./model/dbg_ctc_31249
+valid is finished in 18.4135751724 seconds
+Epoch: 1 Valid loss: 289.80 Valid ler: 27.83 Valid time:18.4135751724.sec
+Train step: 32000 Train loss: 370.108764648 Train ler: 29.50 Train time: 100.358963013.sec
+Train step: 33000 Train loss: 378.751312256 Train ler: 28.17 Train time: 119.856834412.sec
+Train step: 34000 Train loss: 330.892944336 Train ler: 28.33 Train time: 107.023000717.sec
+Train step: 35000 Train loss: 298.933807373 Train ler: 28.17 Train time: 115.478992462.sec
+Train step: 36000 Train loss: 336.585998535 Train ler: 27.58 Train time: 123.852014542.sec
+Train step: 37000 Train loss: 340.607666016 Train ler: 31.17 Train time: 129.343032837.sec
+Train step: 38000 Train loss: 353.999908447 Train ler: 28.17 Train time: 121.731996536.sec
+Train step: 39000 Train loss: 334.84161377 Train ler: 31.42 Train time: 121.474981308.sec
+Train step: 40000 Train loss: 341.939544678 Train ler: 28.00 Train time: 124.727010727.sec
+Train step: 41000 Train loss: 348.914245605 Train ler: 30.92 Train time: 122.032165527.sec
+Train step: 42000 Train loss: 343.736633301 Train ler: 28.58 Train time: 128.448009491.sec
+Train step: 43000 Train loss: 322.690429688 Train ler: 28.47 Train time: 119.340896606.sec
+Train step: 44000 Train loss: 364.5859375 Train ler: 30.00 Train time: 98.484992981.sec
+Train step: 45000 Train loss: 312.212463379 Train ler: 29.00 Train time: 125.231981277.sec
+Train step: 46000 Train loss: 358.355712891 Train ler: 29.00 Train time: 112.345933914.sec
+Train step: 47000 Train loss: 379.836700439 Train ler: 29.08 Train time: 143.783092499.sec
+Train step: 48000 Train loss: 325.087463379 Train ler: 28.00 Train time: 96.4159965515.sec
+Train step: 49000 Train loss: 345.290161133 Train ler: 28.00 Train time: 118.170022964.sec
+Train step: 50000 Train loss: 382.457244873 Train ler: 28.42 Train time: 136.578083038.sec
+Train step: 51000 Train loss: 370.502563477 Train ler: 30.17 Train time: 116.295099258.sec
+Train step: 52000 Train loss: 345.42276001 Train ler: 28.08 Train time: 105.732917786.sec
+Train step: 53000 Train loss: 370.178894043 Train ler: 28.08 Train time: 121.243000031.sec
+Train step: 54000 Train loss: 321.779296875 Train ler: 28.33 Train time: 114.017009735.sec
+Train step: 55000 Train loss: 340.683227539 Train ler: 28.67 Train time: 119.104146957.sec
+Train step: 56000 Train loss: 342.091308594 Train ler: 26.00 Train time: 111.797809601.sec
+Train step: 57000 Train loss: 358.234008789 Train ler: 30.00 Train time: 125.877857208.sec
+Train step: 58000 Train loss: 367.071655273 Train ler: 28.67 Train time: 116.979122162.sec
+Train step: 59000 Train loss: 354.184509277 Train ler: 29.67 Train time: 107.503175735.sec
+Train step: 60000 Train loss: 303.818847656 Train ler: 28.17 Train time: 124.032020569.sec
+Train step: 61000 Train loss: 372.598358154 Train ler: 30.67 Train time: 92.7641391754.sec
+Train step: 62000 Train loss: 333.682434082 Train ler: 29.33 Train time: 142.695188522.sec
+One epoch data is finished
+Saving model...
+start validation
+Variables initialized ...
+Read model parameters from ./model/dbg_ctc_62498
+valid is finished in 17.905880928 seconds
+Epoch: 2 Valid loss: 274.55 Valid ler: 28.17 Valid time:17.905880928.sec
+Train step: 63000 Train loss: 319.367004395 Train ler: 28.17 Train time: 121.942996979.sec
+Train step: 64000 Train loss: 338.149597168 Train ler: 29.17 Train time: 110.49079895.sec
+Train step: 65000 Train loss: 412.960083008 Train ler: 29.33 Train time: 139.536857605.sec
+Train step: 66000 Train loss: 316.457794189 Train ler: 29.17 Train time: 130.254983902.sec
+Train step: 67000 Train loss: 336.454345703 Train ler: 26.17 Train time: 113.595962524.sec
+Train step: 68000 Train loss: 327.421508789 Train ler: 27.83 Train time: 110.110998154.sec
+Train step: 69000 Train loss: 356.116027832 Train ler: 28.17 Train time: 121.955871582.sec
+Train step: 70000 Train loss: 309.223144531 Train ler: 27.75 Train time: 117.495059967.sec
+Train step: 71000 Train loss: 344.418579102 Train ler: 29.17 Train time: 129.197120667.sec
+Train step: 72000 Train loss: 316.216094971 Train ler: 28.33 Train time: 96.1999893188.sec
+Train step: 73000 Train loss: 345.969329834 Train ler: 28.92 Train time: 120.830059052.sec
+Train step: 74000 Train loss: 349.891296387 Train ler: 29.50 Train time: 145.560026169.sec
+Train step: 75000 Train loss: 351.546051025 Train ler: 26.72 Train time: 100.259065628.sec
+Train step: 76000 Train loss: 357.683898926 Train ler: 28.52 Train time: 97.8119373322.sec
+Train step: 77000 Train loss: 358.771636963 Train ler: 27.17 Train time: 115.345954895.sec
+Train step: 78000 Train loss: 394.683654785 Train ler: 29.92 Train time: 106.925010681.sec
+Train step: 79000 Train loss: 392.621246338 Train ler: 30.08 Train time: 112.335205078.sec
+Train step: 80000 Train loss: 327.294952393 Train ler: 26.33 Train time: 110.461950302.sec
+Train step: 81000 Train loss: 400.727630615 Train ler: 28.63 Train time: 126.513004303.sec
+Train step: 82000 Train loss: 422.677429199 Train ler: 28.50 Train time: 139.703035355.sec
+Train step: 83000 Train loss: 333.08013916 Train ler: 27.17 Train time: 125.644207001.sec
+Train step: 84000 Train loss: 343.53729248 Train ler: 28.75 Train time: 129.832029343.sec
+Train step: 85000 Train loss: 345.072692871 Train ler: 29.75 Train time: 118.38889122.sec
+Train step: 86000 Train loss: 387.257293701 Train ler: 28.83 Train time: 127.981185913.sec
+Train step: 87000 Train loss: 349.204345703 Train ler: 27.67 Train time: 101.052045822.sec
+Train step: 88000 Train loss: 352.475463867 Train ler: 29.00 Train time: 112.702846527.sec
+Train step: 89000 Train loss: 356.027191162 Train ler: 28.33 Train time: 120.363950729.sec
+Train step: 90000 Train loss: 319.42678833 Train ler: 29.08 Train time: 126.959085464.sec
+Train step: 91000 Train loss: 295.336517334 Train ler: 27.00 Train time: 108.155012131.sec
+Train step: 92000 Train loss: 345.661865234 Train ler: 28.00 Train time: 116.673946381.sec
+Train step: 93000 Train loss: 317.890441895 Train ler: 28.00 Train time: 131.862163544.sec
+One epoch data is finished
+Saving model...
+start validation
+Variables initialized ...
+Read model parameters from ./model/dbg_ctc_93747
+valid is finished in 18.0959041119 seconds
+Epoch: 3 Valid loss: 273.31 Valid ler: 28.67 Valid time:18.0959041119.sec
+Train step: 94000 Train loss: 360.769378662 Train ler: 29.33 Train time: 116.089105606.sec
+Train step: 95000 Train loss: 353.941467285 Train ler: 30.50 Train time: 118.104219437.sec
+Train step: 96000 Train loss: 361.205780029 Train ler: 28.93 Train time: 100.995063782.sec
+Train step: 97000 Train loss: 350.453063965 Train ler: 27.00 Train time: 117.774963379.sec
+Train step: 98000 Train loss: 302.415039062 Train ler: 26.33 Train time: 127.458095551.sec
+Train step: 99000 Train loss: 366.550598145 Train ler: 27.42 Train time: 123.205900192.sec
+Train step: 100000 Train loss: 340.194458008 Train ler: 28.75 Train time: 129.228115082.sec
+Train step: 101000 Train loss: 351.802490234 Train ler: 25.42 Train time: 113.590955734.sec
+Train step: 102000 Train loss: 292.832641602 Train ler: 26.97 Train time: 119.369029999.sec
+Train step: 103000 Train loss: 383.50189209 Train ler: 29.50 Train time: 105.542898178.sec
+Train step: 104000 Train loss: 357.525146484 Train ler: 28.83 Train time: 121.093988419.sec
+Train step: 105000 Train loss: 352.748535156 Train ler: 29.00 Train time: 112.619161606.sec
+Train step: 106000 Train loss: 361.291412354 Train ler: 29.67 Train time: 131.701946259.sec
+Train step: 107000 Train loss: 388.315155029 Train ler: 29.50 Train time: 115.437030792.sec
+Train step: 108000 Train loss: 355.680358887 Train ler: 30.08 Train time: 119.292974472.sec
+Train step: 109000 Train loss: 312.282318115 Train ler: 29.67 Train time: 117.978811264.sec
+Train step: 110000 Train loss: 338.051849365 Train ler: 28.58 Train time: 118.520021439.sec
+Train step: 111000 Train loss: 311.919921875 Train ler: 28.50 Train time: 125.304937363.sec
+Train step: 112000 Train loss: 295.549499512 Train ler: 26.67 Train time: 102.359771729.sec
+Train step: 113000 Train loss: 330.535888672 Train ler: 28.50 Train time: 129.668951035.sec
+Train step: 114000 Train loss: 315.767669678 Train ler: 26.67 Train time: 129.879951477.sec
+Train step: 115000 Train loss: 363.833557129 Train ler: 28.92 Train time: 121.062994003.sec
+Train step: 116000 Train loss: 320.35345459 Train ler: 29.17 Train time: 105.353116989.sec
+Train step: 117000 Train loss: 325.038818359 Train ler: 26.50 Train time: 115.660905838.sec
+Train step: 118000 Train loss: 352.782440186 Train ler: 31.83 Train time: 119.04001236.sec
+Train step: 119000 Train loss: 373.494812012 Train ler: 30.00 Train time: 120.479106903.sec
+Train step: 120000 Train loss: 338.472717285 Train ler: 28.25 Train time: 119.408845901.sec
+Train step: 121000 Train loss: 347.933166504 Train ler: 29.42 Train time: 125.457048416.sec
+Train step: 122000 Train loss: 368.158203125 Train ler: 27.75 Train time: 136.335849762.sec
+Train step: 123000 Train loss: 361.707061768 Train ler: 27.50 Train time: 115.484952927.sec
+Train step: 124000 Train loss: 365.700469971 Train ler: 29.00 Train time: 109.001159668.sec
+One epoch data is finished
+Saving model...
+start validation
+Variables initialized ...
+Read model parameters from ./model/dbg_ctc_124996
+valid is finished in 18.463739872 seconds
+Epoch: 4 Valid loss: 268.11 Valid ler: 28.17 Valid time:18.463739872.sec
+Train step: 125000 Train loss: 324.600799561 Train ler: 28.50 Train time: 100.08597374.sec
+Train step: 126000 Train loss: 353.952270508 Train ler: 28.50 Train time: 128.550052643.sec
+Train step: 127000 Train loss: 343.663452148 Train ler: 28.17 Train time: 112.977981567.sec
+Train step: 128000 Train loss: 317.134002686 Train ler: 28.00 Train time: 132.461071014.sec
+Train step: 129000 Train loss: 328.118164062 Train ler: 26.75 Train time: 112.327098846.sec
+Train step: 130000 Train loss: 333.003417969 Train ler: 29.00 Train time: 127.210140228.sec
+Train step: 131000 Train loss: 335.315734863 Train ler: 29.42 Train time: 131.759881973.sec
+Train step: 132000 Train loss: 341.738677979 Train ler: 29.92 Train time: 110.914945602.sec
+Train step: 133000 Train loss: 301.643218994 Train ler: 29.50 Train time: 117.351055145.sec
+Train step: 134000 Train loss: 351.651184082 Train ler: 29.33 Train time: 121.205091476.sec
+Train step: 135000 Train loss: 317.339935303 Train ler: 27.33 Train time: 115.613222122.sec
+Train step: 136000 Train loss: 363.26864624 Train ler: 28.50 Train time: 127.294063568.sec
+Train step: 137000 Train loss: 356.288848877 Train ler: 29.25 Train time: 119.068145752.sec
+Train step: 138000 Train loss: 328.75402832 Train ler: 29.58 Train time: 120.835065842.sec
+Train step: 139000 Train loss: 356.542236328 Train ler: 28.50 Train time: 120.750188828.sec
+Train step: 140000 Train loss: 337.965148926 Train ler: 28.00 Train time: 126.344919205.sec
+Train step: 141000 Train loss: 314.111114502 Train ler: 27.17 Train time: 128.13782692.sec
+Train step: 142000 Train loss: 318.981506348 Train ler: 26.33 Train time: 106.739044189.sec
+Train step: 143000 Train loss: 319.00402832 Train ler: 26.17 Train time: 121.546030045.sec
+Train step: 144000 Train loss: 351.041931152 Train ler: 26.67 Train time: 120.814085007.sec
+Train step: 145000 Train loss: 345.361450195 Train ler: 27.25 Train time: 121.713161469.sec
+Train step: 146000 Train loss: 310.427490234 Train ler: 29.08 Train time: 136.356115341.sec
+Train step: 147000 Train loss: 334.88494873 Train ler: 27.92 Train time: 110.636949539.sec
+Train step: 148000 Train loss: 318.826782227 Train ler: 25.50 Train time: 101.830005646.sec
+Train step: 149000 Train loss: 336.840515137 Train ler: 27.47 Train time: 120.33700943.sec
+Train step: 150000 Train loss: 367.684631348 Train ler: 29.75 Train time: 108.601093292.sec
+Train step: 151000 Train loss: 351.8800354 Train ler: 28.58 Train time: 124.82714653.sec
+Train step: 152000 Train loss: 349.110839844 Train ler: 30.25 Train time: 119.305849075.sec
+Train step: 153000 Train loss: 353.54901123 Train ler: 29.75 Train time: 138.099193573.sec
+Train step: 154000 Train loss: 329.892211914 Train ler: 28.17 Train time: 119.169950485.sec
+Train step: 155000 Train loss: 312.286010742 Train ler: 25.33 Train time: 109.384059906.sec
+Train step: 156000 Train loss: 291.924407959 Train ler: 30.25 Train time: 126.482009888.sec
+One epoch data is finished
+Saving model...
+start validation
+Variables initialized ...
+Read model parameters from ./model/dbg_ctc_156245
+Sequence	0
+	Epcho 5 Origin:	[26 64  0] 	lma 	来	嘛	
+	Epcho 5 Decoded: 			Top 0 	老 	
+			Top 1 	两 	
+			Top 2 	来 	
+			Top 3 	老 	么 	
+			Top 4 	拉 	
+			Top 5 	两 	么 	
+			Top 6 	来 	么 	
+			Top 7 	聊 	
+			Top 8 	了 	
+			Top 9 	领 	
+
+Sequence	1
+	Epcho 5 Origin:	[1221 2533    0] 	shat 	沙	滩	
+	Epcho 5 Decoded: 			Top 0 	是 	
+			Top 1 	说 	
+			Top 2 	上 	
+			Top 3 	睡 	
+			Top 4 	什 	
+			Top 5 	三 	
+			Top 6 	十 	
+			Top 7 	生 	
+			Top 8 	谁 	
+			Top 9 	四 	
+
+Sequence	2
+	Epcho 5 Origin:	[1116 1047    0] 	jiwei 	纪	委	
+	Epcho 5 Decoded: 			Top 0 	就 	
+			Top 1 	几 	
+			Top 2 	加 	
+			Top 3 	就 	我 	
+			Top 4 	今 	
+			Top 5 	进 	
+			Top 6 	叫 	
+			Top 7 	接 	
+			Top 8 	家 	
+			Top 9 	经 	
+
+Sequence	3
+	Epcho 5 Origin:	[197   0   0] 	nia 	年	
+	Epcho 5 Decoded: 			Top 0 	你 	
+			Top 1 	那 	
+			Top 2 	哪 	
+			Top 3 	能 	
+			Top 4 	拿 	
+			Top 5 	女 	
+			Top 6 	男 	
+			Top 7 	难 	
+			Top 8 	年 	
+			Top 9 	弄 	
+
+Sequence	4
+	Epcho 5 Origin:	[10  8 70] 	bzj 	不	在	家	
+	Epcho 5 Decoded: 			Top 0 	不 	
+			Top 1 	不 	家 	
+			Top 2 	不 	就 	
+			Top 3 	不 	急 	
+			Top 4 	不 	子 	
+			Top 5 	不 	己 	
+			Top 6 	不 	子 	家 	
+			Top 7 	不 	在 	
+			Top 8 	不 	知 	
+			Top 9 	不 	子 	就 	
+
+Sequence	5
+	Epcho 5 Origin:	[197   0   0] 	nin 	年	
+	Epcho 5 Decoded: 			Top 0 	你 	
+			Top 1 	那 	
+			Top 2 	哪 	
+			Top 3 	能 	
+			Top 4 	拿 	
+			Top 5 	女 	
+			Top 6 	男 	
+			Top 7 	难 	
+			Top 8 	年 	
+			Top 9 	弄 	
+
+Sequence	6
+	Epcho 5 Origin:	[353   4   0] 	fanl 	烦	了	
+	Epcho 5 Decoded: 			Top 0 	发 	了 	
+			Top 1 	发 	
+			Top 2 	放 	了 	
+			Top 3 	放 	
+			Top 4 	分 	了 	
+			Top 5 	分 	
+			Top 6 	发 	来 	
+			Top 7 	反 	了 	
+			Top 8 	反 	
+			Top 9 	非 	了 	
+
+Sequence	7
+	Epcho 5 Origin:	[1017 1018    0] 	peix 	培	训	
+	Epcho 5 Decoded: 			Top 0 	陪 	心 	
+			Top 1 	平 	心 	
+			Top 2 	骗 	心 	
+			Top 3 	跑 	心 	
+			Top 4 	陪 	
+			Top 5 	怕 	心 	
+			Top 6 	平 	
+			Top 7 	拍 	心 	
+			Top 8 	骗 	
+			Top 9 	胖 	心 	
+
+Sequence	8
+	Epcho 5 Origin:	[740 212   0] 	yuj 	遇	见	
+	Epcho 5 Decoded: 			Top 0 	一 	
+			Top 1 	有 	
+			Top 2 	要 	
+			Top 3 	也 	
+			Top 4 	一 	见 	
+			Top 5 	又 	
+			Top 6 	有 	见 	
+			Top 7 	原 	
+			Top 8 	元 	
+			Top 9 	用 	
+
+Sequence	9
+	Epcho 5 Origin:	[177 192   0] 	xinxi 	信	息	
+	Epcho 5 Decoded: 			Top 0 	小 	
+			Top 1 	想 	
+			Top 2 	下 	
+			Top 3 	新 	
+			Top 4 	心 	
+			Top 5 	小 	息 	
+			Top 6 	洗 	
+			Top 7 	学 	
+			Top 8 	行 	
+			Top 9 	写 	
+
+Sequence	10
+	Epcho 5 Origin:	[324 145   3] 	pzn 	陪	着	你	
+	Epcho 5 Decoded: 			Top 0 	陪 	子 	
+			Top 1 	陪 	
+			Top 2 	平 	子 	
+			Top 3 	骗 	子 	
+			Top 4 	平 	
+			Top 5 	骗 	
+			Top 6 	跑 	子 	
+			Top 7 	跑 	
+			Top 8 	怕 	子 	
+			Top 9 	拍 	子 	
+
+Sequence	11
+	Epcho 5 Origin:	[73 42 43] 	yongsm 	用	什	么	
+	Epcho 5 Decoded: 			Top 0 	一 	事 	
+			Top 1 	一 	色 	
+			Top 2 	有 	事 	
+			Top 3 	一 	死 	
+			Top 4 	一 	事 	么 	
+			Top 5 	一 	是 	
+			Top 6 	一 	什 	
+			Top 7 	有 	色 	
+			Top 8 	一 	时 	
+			Top 9 	有 	死 	
+
+Sequence	12
+	Epcho 5 Origin:	[ 636 2119    0] 	qiangjie 	抢	劫	
+	Epcho 5 Decoded: 			Top 0 	去 	
+			Top 1 	去 	家 	
+			Top 2 	去 	奸 	
+			Top 3 	去 	金 	
+			Top 4 	全 	
+			Top 5 	起 	
+			Top 6 	全 	家 	
+			Top 7 	全 	奸 	
+			Top 8 	起 	家 	
+			Top 9 	起 	奸 	
+
+Sequence	13
+	Epcho 5 Origin:	[788 500   0] 	yali 	压	力	
+	Epcho 5 Decoded: 			Top 0 	一 	
+			Top 1 	有 	
+			Top 2 	要 	
+			Top 3 	一 	了 	
+			Top 4 	也 	
+			Top 5 	有 	了 	
+			Top 6 	一 	来 	
+			Top 7 	一 	力 	
+			Top 8 	有 	来 	
+			Top 9 	又 	
+
+Sequence	14
+	Epcho 5 Origin:	[ 10 159   0] 	bxiang 	不	像	
+	Epcho 5 Decoded: 			Top 0 	不 	
+			Top 1 	不 	想 	
+			Top 2 	不 	行 	
+			Top 3 	不 	喜 	
+			Top 4 	不 	信 	
+			Top 5 	不 	心 	
+			Top 6 	不 	须 	
+			Top 7 	不 	小 	
+			Top 8 	别 	
+			Top 9 	不 	谢 	
+
+Sequence	15
+	Epcho 5 Origin:	[26 18  0] 	laishuo 	来	说	
+	Epcho 5 Decoded: 			Top 0 	老 	死 	
+			Top 1 	两 	死 	
+			Top 2 	来 	死 	
+			Top 3 	老 	
+			Top 4 	两 	
+			Top 5 	来 	
+			Top 6 	老 	上 	
+			Top 7 	老 	是 	
+			Top 8 	两 	上 	
+			Top 9 	老 	说 	
+
+Sequence	16
+	Epcho 5 Origin:	[1752    0    0] 	mei 	眉	
+	Epcho 5 Decoded: 			Top 0 	没 	
+			Top 1 	买 	
+			Top 2 	明 	
+			Top 3 	美 	
+			Top 4 	每 	
+			Top 5 	马 	
+			Top 6 	妈 	
+			Top 7 	面 	
+			Top 8 	满 	
+			Top 9 	麻 	
+
+Sequence	17
+	Epcho 5 Origin:	[223 223   0] 	bangb 	帮	帮	
+	Epcho 5 Decoded: 			Top 0 	不 	
+			Top 1 	不 	吧 	
+			Top 2 	不 	
+			Top 3 	不 	便 	
+			Top 4 	不 	白 	
+			Top 5 	不 	包 	
+			Top 6 	不 	边 	
+			Top 7 	不 	兵 	
+			Top 8 	不 	逼 	
+			Top 9 	别 	不 	
+
+Sequence	18
+	Epcho 5 Origin:	[ 175 1411    0] 	zhengg 	正	规	
+	Epcho 5 Decoded: 			Top 0 	这 	个 	
+			Top 1 	这 	高 	
+			Top 2 	这 	歌 	
+			Top 3 	在 	个 	
+			Top 4 	这 	国 	
+			Top 5 	这 	功 	
+			Top 6 	真 	个 	
+			Top 7 	在 	高 	
+			Top 8 	再 	个 	
+			Top 9 	怎 	个 	
+
+Sequence	19
+	Epcho 5 Origin:	[ 14 519   0] 	youb 	有	病	
+	Epcho 5 Decoded: 			Top 0 	一 	不 	
+			Top 1 	有 	不 	
+			Top 2 	一 	
+			Top 3 	要 	不 	
+			Top 4 	有 	
+			Top 5 	也 	不 	
+			Top 6 	一 	吧 	
+			Top 7 	一 	病 	
+			Top 8 	有 	吧 	
+			Top 9 	有 	病 	
+
+Sequence	20
+	Epcho 5 Origin:	[ 1  7 28] 	wojiuxiang 	我	就	想	
+	Epcho 5 Decoded: 			Top 0 	我 	想 	
+			Top 1 	我 	就 	想 	
+			Top 2 	我 	
+			Top 3 	我 	就 	
+			Top 4 	我 	行 	
+			Top 5 	我 	家 	想 	
+			Top 6 	我 	今 	想 	
+			Top 7 	我 	像 	
+			Top 8 	我 	就 	行 	
+			Top 9 	我 	息 	
+
+Sequence	21
+	Epcho 5 Origin:	[116  33  17] 	syn 	所	以	呢	
+	Epcho 5 Decoded: 			Top 0 	是 	
+			Top 1 	说 	
+			Top 2 	上 	
+			Top 3 	睡 	
+			Top 4 	什 	
+			Top 5 	三 	
+			Top 6 	十 	
+			Top 7 	生 	
+			Top 8 	谁 	
+			Top 9 	四 	
+
+Sequence	22
+	Epcho 5 Origin:	[29 75 18] 	kxs 	看	小	说	
+	Epcho 5 Decoded: 			Top 0 	看 	
+			Top 1 	看 	是 	
+			Top 2 	可 	
+			Top 3 	看 	睡 	
+			Top 4 	看 	说 	
+			Top 5 	可 	是 	
+			Top 6 	开 	
+			Top 7 	看 	死 	
+			Top 8 	快 	
+			Top 9 	可 	睡 	
+
+Sequence	23
+	Epcho 5 Origin:	[ 497 1215    0] 	huowu 	火	舞	
+	Epcho 5 Decoded: 			Top 0 	好 	我 	
+			Top 1 	还 	我 	
+			Top 2 	好 	玩 	
+			Top 3 	还 	玩 	
+			Top 4 	好 	晚 	
+			Top 5 	还 	晚 	
+			Top 6 	好 	
+			Top 7 	还 	
+			Top 8 	好 	文 	
+			Top 9 	还 	文 	
+
+Sequence	24
+	Epcho 5 Origin:	[1366 1367    0] 	shanl 	善	良	
+	Epcho 5 Decoded: 			Top 0 	是 	了 	
+			Top 1 	说 	了 	
+			Top 2 	是 	
+			Top 3 	上 	了 	
+			Top 4 	说 	
+			Top 5 	上 	
+			Top 6 	睡 	了 	
+			Top 7 	睡 	
+			Top 8 	什 	了 	
+			Top 9 	三 	了 	
+
+Sequence	25
+	Epcho 5 Origin:	[1769  158    0] 	huijie 	慧	姐	
+	Epcho 5 Decoded: 			Top 0 	好 	家 	
+			Top 1 	还 	家 	
+			Top 2 	回 	家 	
+			Top 3 	很 	家 	
+			Top 4 	好 	
+			Top 5 	还 	
+			Top 6 	和 	家 	
+			Top 7 	后 	家 	
+			Top 8 	会 	家 	
+			Top 9 	哈 	家 	
+
+Sequence	26
+	Epcho 5 Origin:	[ 74 489  93] 	bieguaji 	别	挂	机	
+	Epcho 5 Decoded: 			Top 0 	不 	
+			Top 1 	不 	
+			Top 2 	不 	馆 	
+			Top 3 	不 	个 	
+			Top 4 	不 	过 	
+			Top 5 	别 	
+			Top 6 	不 	了 	
+			Top 7 	不 	管 	
+			Top 8 	不 	家 	
+			Top 9 	不 	给 	
+
+Sequence	27
+	Epcho 5 Origin:	[ 300 1163    0] 	sg 	傻	瓜	
+	Epcho 5 Decoded: 			Top 0 	是 	
+			Top 1 	说 	
+			Top 2 	上 	
+			Top 3 	睡 	
+			Top 4 	什 	
+			Top 5 	三 	
+			Top 6 	十 	
+			Top 7 	生 	
+			Top 8 	谁 	
+			Top 9 	四 	
+
+Sequence	28
+	Epcho 5 Origin:	[824 620  39] 	rhr 	任	何	人	
+	Epcho 5 Decoded: 			Top 0 	人 	
+			Top 1 	让 	
+			Top 2 	认 	
+			Top 3 	日 	
+			Top 4 	如 	
+			Top 5 	然 	
+			Top 6 	任 	
+			Top 7 	我 	
+			Top 8 	热 	
+			Top 9 	忍 	
+
+Sequence	29
+	Epcho 5 Origin:	[68 13  0] 	guoq 	过	去	
+	Epcho 5 Decoded: 			Top 0 	给 	去 	
+			Top 1 	过 	去 	
+			Top 2 	搞 	去 	
+			Top 3 	干 	去 	
+			Top 4 	高 	去 	
+			Top 5 	刚 	去 	
+			Top 6 	感 	去 	
+			Top 7 	跟 	去 	
+			Top 8 	给 	期 	
+			Top 9 	关 	去 	
+
+Sequence	30
+	Epcho 5 Origin:	[134  35   3] 	daigeini 	带	给	你	
+	Epcho 5 Decoded: 			Top 0 	大 	你 	
+			Top 1 	打 	你 	
+			Top 2 	都 	你 	
+			Top 3 	等 	你 	
+			Top 4 	对 	你 	
+			Top 5 	多 	你 	
+			Top 6 	到 	你 	
+			Top 7 	的 	你 	
+			Top 8 	第 	你 	
+			Top 9 	电 	你 	
+
+Sequence	31
+	Epcho 5 Origin:	[135 923   0] 	wuc 	午	餐	
+	Epcho 5 Decoded: 			Top 0 	我 	
+			Top 1 	我 	出 	
+			Top 2 	我 	吃 	
+			Top 3 	我 	草 	
+			Top 4 	我 	槽 	
+			Top 5 	我 	餐 	
+			Top 6 	我 	错 	
+			Top 7 	我 	车 	
+			Top 8 	我 	次 	
+			Top 9 	我 	此 	
+
+valid is finished in 18.9083878994 seconds
+Epoch: 5 Valid loss: 263.80 Valid ler: 28.17 Valid time:18.9083878994.sec
+Train step: 157000 Train loss: 311.014038086 Train ler: 31.50 Train time: 110.169172287.sec
+Train step: 158000 Train loss: 359.551574707 Train ler: 28.67 Train time: 118.746042252.sec
+Train step: 159000 Train loss: 292.442199707 Train ler: 26.35 Train time: 117.624044418.sec
+Train step: 160000 Train loss: 332.070953369 Train ler: 27.75 Train time: 123.875141144.sec
+Train step: 161000 Train loss: 294.616271973 Train ler: 28.67 Train time: 115.526914597.sec
+Train step: 162000 Train loss: 320.175598145 Train ler: 28.17 Train time: 125.640869141.sec
+Train step: 163000 Train loss: 336.881866455 Train ler: 28.67 Train time: 124.159812927.sec
+Train step: 164000 Train loss: 364.783660889 Train ler: 28.83 Train time: 142.240047455.sec
+Train step: 165000 Train loss: 317.581726074 Train ler: 28.92 Train time: 103.127002716.sec
+Train step: 166000 Train loss: 324.909912109 Train ler: 30.67 Train time: 108.917951584.sec
+Train step: 167000 Train loss: 327.193237305 Train ler: 29.75 Train time: 132.13300705.sec
+Train step: 168000 Train loss: 320.776611328 Train ler: 32.67 Train time: 117.796897888.sec
+Train step: 169000 Train loss: 312.155578613 Train ler: 27.75 Train time: 112.370014191.sec
+Train step: 170000 Train loss: 373.974334717 Train ler: 27.50 Train time: 125.397920609.sec
+Train step: 171000 Train loss: 389.564788818 Train ler: 29.33 Train time: 113.760948181.sec
+Train step: 172000 Train loss: 302.737487793 Train ler: 26.42 Train time: 122.65086174.sec
+Train step: 173000 Train loss: 321.945281982 Train ler: 28.17 Train time: 111.927032471.sec
+Train step: 174000 Train loss: 339.267089844 Train ler: 27.50 Train time: 136.915922165.sec
+Train step: 175000 Train loss: 331.716369629 Train ler: 28.42 Train time: 102.548837662.sec
+Train step: 176000 Train loss: 322.946533203 Train ler: 28.67 Train time: 115.280151367.sec
+Train step: 177000 Train loss: 307.574401855 Train ler: 28.25 Train time: 124.105930328.sec
+Train step: 178000 Train loss: 336.83795166 Train ler: 27.83 Train time: 150.015830994.sec
+Train step: 179000 Train loss: 372.303131104 Train ler: 27.67 Train time: 113.377094269.sec
+Train step: 180000 Train loss: 385.311889648 Train ler: 29.63 Train time: 113.937854767.sec
+Train step: 181000 Train loss: 355.700805664 Train ler: 26.50 Train time: 116.07003212.sec
+Train step: 182000 Train loss: 330.137298584 Train ler: 26.83 Train time: 102.413892746.sec
+Train step: 183000 Train loss: 324.932556152 Train ler: 27.83 Train time: 109.22908783.sec
+Train step: 184000 Train loss: 376.646636963 Train ler: 29.50 Train time: 128.889083862.sec
+Train step: 185000 Train loss: 327.470550537 Train ler: 27.17 Train time: 118.48115921.sec
+Train step: 186000 Train loss: 329.858215332 Train ler: 31.75 Train time: 126.499176025.sec
+Train step: 187000 Train loss: 327.042419434 Train ler: 28.92 Train time: 114.96090889.sec
+One epoch data is finished
+Saving model...
+start validation
+Variables initialized ...
+Read model parameters from ./model/dbg_ctc_187494
+valid is finished in 18.0198180676 seconds
+Epoch: 6 Valid loss: 263.90 Valid ler: 28.50 Valid time:18.0198180676.sec
+Train step: 188000 Train loss: 266.730712891 Train ler: 28.50 Train time: 119.278907776.sec
+Train step: 189000 Train loss: 322.571899414 Train ler: 26.50 Train time: 124.875068665.sec
+Train step: 190000 Train loss: 342.156066895 Train ler: 29.33 Train time: 129.369020462.sec
+Train step: 191000 Train loss: 323.894927979 Train ler: 28.50 Train time: 117.508172989.sec
+Train step: 192000 Train loss: 315.708709717 Train ler: 28.60 Train time: 127.910852432.sec
+Train step: 193000 Train loss: 345.192687988 Train ler: 30.50 Train time: 110.607147217.sec
+Train step: 194000 Train loss: 316.262268066 Train ler: 30.47 Train time: 127.326965332.sec
+Train step: 195000 Train loss: 320.441711426 Train ler: 28.92 Train time: 109.253168106.sec
+Train step: 196000 Train loss: 357.684082031 Train ler: 28.33 Train time: 115.950107574.sec
+Train step: 197000 Train loss: 318.348419189 Train ler: 29.00 Train time: 126.086950302.sec
+Train step: 198000 Train loss: 312.268737793 Train ler: 28.50 Train time: 104.562997818.sec
+Train step: 199000 Train loss: 354.235931396 Train ler: 28.75 Train time: 124.61400032.sec
+Train step: 200000 Train loss: 327.648986816 Train ler: 26.92 Train time: 132.646083832.sec
+Train step: 201000 Train loss: 358.637298584 Train ler: 28.42 Train time: 126.540899277.sec
+Train step: 202000 Train loss: 312.953521729 Train ler: 26.67 Train time: 137.159109116.sec
+Train step: 203000 Train loss: 346.473632812 Train ler: 29.08 Train time: 111.634969711.sec
+Train step: 204000 Train loss: 347.230895996 Train ler: 29.00 Train time: 114.400863647.sec
+Train step: 205000 Train loss: 327.629974365 Train ler: 29.50 Train time: 130.641937256.sec
+Train step: 206000 Train loss: 333.964935303 Train ler: 28.58 Train time: 127.166986465.sec
+Train step: 207000 Train loss: 315.387817383 Train ler: 27.92 Train time: 131.319999695.sec
+Train step: 208000 Train loss: 307.196624756 Train ler: 28.25 Train time: 134.09781456.sec
+Train step: 209000 Train loss: 314.287902832 Train ler: 27.67 Train time: 109.225988388.sec
+Train step: 210000 Train loss: 359.500061035 Train ler: 29.00 Train time: 87.1000289917.sec
+Train step: 211000 Train loss: 343.607910156 Train ler: 29.92 Train time: 159.814834595.sec
+Train step: 212000 Train loss: 305.155456543 Train ler: 25.00 Train time: 115.602016449.sec
+Train step: 213000 Train loss: 327.999633789 Train ler: 29.25 Train time: 119.319915771.sec
+Train step: 214000 Train loss: 340.605224609 Train ler: 30.33 Train time: 106.714010239.sec
+Train step: 215000 Train loss: 346.478515625 Train ler: 28.50 Train time: 121.089935303.sec
+Train step: 216000 Train loss: 309.726470947 Train ler: 28.83 Train time: 113.291978836.sec
+Train step: 217000 Train loss: 387.970245361 Train ler: 29.42 Train time: 133.197069168.sec
+Train step: 218000 Train loss: 350.05090332 Train ler: 28.83 Train time: 127.101898193.sec
+One epoch data is finished
+Saving model...
+start validation
+Variables initialized ...
+Read model parameters from ./model/dbg_ctc_218743
+valid is finished in 17.9224421978 seconds
+Epoch: 7 Valid loss: 264.16 Valid ler: 27.83 Valid time:17.9224421978.sec
+Train step: 219000 Train loss: 334.350585938 Train ler: 26.33 Train time: 108.04104805.sec
+Train step: 220000 Train loss: 328.453735352 Train ler: 30.42 Train time: 111.837863922.sec
+Train step: 221000 Train loss: 351.692382812 Train ler: 29.92 Train time: 119.462013245.sec
+Train step: 222000 Train loss: 345.151550293 Train ler: 28.17 Train time: 149.171829224.sec
+Train step: 223000 Train loss: 338.558166504 Train ler: 30.17 Train time: 114.802122116.sec
+Train step: 224000 Train loss: 330.488525391 Train ler: 27.50 Train time: 128.31902504.sec
+Train step: 225000 Train loss: 321.144836426 Train ler: 27.83 Train time: 110.697984695.sec
+Train step: 226000 Train loss: 385.550140381 Train ler: 27.97 Train time: 115.55314064.sec
+Train step: 227000 Train loss: 320.956207275 Train ler: 27.50 Train time: 120.717048645.sec
+Train step: 228000 Train loss: 319.103729248 Train ler: 30.50 Train time: 115.357875824.sec
+Train step: 229000 Train loss: 343.709289551 Train ler: 28.50 Train time: 125.066995621.sec
+Train step: 230000 Train loss: 368.891845703 Train ler: 28.17 Train time: 114.469051361.sec
+Train step: 231000 Train loss: 324.639709473 Train ler: 29.00 Train time: 133.702993393.sec
+Train step: 232000 Train loss: 307.858825684 Train ler: 29.00 Train time: 107.032060623.sec
+Train step: 233000 Train loss: 283.452392578 Train ler: 29.83 Train time: 114.771842957.sec
+Train step: 234000 Train loss: 322.80581665 Train ler: 29.33 Train time: 127.019882202.sec
+Train step: 235000 Train loss: 340.905944824 Train ler: 28.00 Train time: 127.791881561.sec
+Train step: 236000 Train loss: 337.687591553 Train ler: 27.50 Train time: 114.160060883.sec
+Train step: 237000 Train loss: 344.35925293 Train ler: 29.58 Train time: 107.475996017.sec
+Train step: 238000 Train loss: 320.161376953 Train ler: 29.67 Train time: 125.633001328.sec
+Train step: 239000 Train loss: 305.029998779 Train ler: 27.67 Train time: 99.986076355.sec
+Train step: 240000 Train loss: 336.231140137 Train ler: 28.58 Train time: 113.28792572.sec
+Train step: 241000 Train loss: 315.893035889 Train ler: 26.50 Train time: 116.202116013.sec
+Train step: 242000 Train loss: 339.815795898 Train ler: 29.25 Train time: 152.77504921.sec
+Train step: 243000 Train loss: 345.655883789 Train ler: 27.00 Train time: 113.018989563.sec
+Train step: 244000 Train loss: 337.602966309 Train ler: 28.42 Train time: 133.522987366.sec
+Train step: 245000 Train loss: 330.177978516 Train ler: 28.17 Train time: 109.073877335.sec
+Train step: 246000 Train loss: 339.2578125 Train ler: 28.33 Train time: 114.338874817.sec
+Train step: 247000 Train loss: 305.168243408 Train ler: 26.17 Train time: 130.310058594.sec
+Train step: 248000 Train loss: 336.935089111 Train ler: 27.17 Train time: 121.366024017.sec
+Train step: 249000 Train loss: 331.373168945 Train ler: 30.17 Train time: 112.385988235.sec
+One epoch data is finished
+Saving model...
+start validation
+Variables initialized ...
+Read model parameters from ./model/dbg_ctc_249992
+valid is finished in 18.1068799496 seconds
+Epoch: 8 Valid loss: 263.82 Valid ler: 28.67 Valid time:18.1068799496.sec
+Train step: 250000 Train loss: 373.314147949 Train ler: 28.83 Train time: 123.675107956.sec
+Train step: 251000 Train loss: 327.798614502 Train ler: 29.17 Train time: 120.484828949.sec
+Train step: 252000 Train loss: 314.339904785 Train ler: 27.00 Train time: 100.645065308.sec
+Train step: 253000 Train loss: 351.197387695 Train ler: 28.75 Train time: 102.741003036.sec
+Train step: 254000 Train loss: 284.451690674 Train ler: 26.33 Train time: 130.373954773.sec
+Train step: 255000 Train loss: 371.70223999 Train ler: 29.33 Train time: 109.971046448.sec
+Train step: 256000 Train loss: 325.621276855 Train ler: 28.67 Train time: 113.848924637.sec
+Train step: 257000 Train loss: 351.516235352 Train ler: 29.92 Train time: 124.490976334.sec
+Train step: 258000 Train loss: 325.558776855 Train ler: 32.00 Train time: 110.631942749.sec
+Train step: 259000 Train loss: 335.82800293 Train ler: 27.17 Train time: 120.578050613.sec
+Train step: 260000 Train loss: 354.890930176 Train ler: 29.25 Train time: 127.17294693.sec
+Train step: 261000 Train loss: 325.223083496 Train ler: 28.25 Train time: 112.262010574.sec
+Train step: 262000 Train loss: 309.48248291 Train ler: 26.83 Train time: 121.966123581.sec
+Train step: 263000 Train loss: 331.228515625 Train ler: 28.83 Train time: 113.323926926.sec
+Train step: 264000 Train loss: 402.001373291 Train ler: 28.33 Train time: 126.87587738.sec
+Train step: 265000 Train loss: 324.413635254 Train ler: 27.58 Train time: 125.423908234.sec
+Train step: 266000 Train loss: 311.360198975 Train ler: 28.33 Train time: 108.628988266.sec
+Train step: 267000 Train loss: 339.38293457 Train ler: 26.75 Train time: 122.868061066.sec
+Train step: 268000 Train loss: 350.230133057 Train ler: 30.17 Train time: 110.889196396.sec
+Train step: 269000 Train loss: 329.926025391 Train ler: 27.50 Train time: 128.618001938.sec
+Train step: 270000 Train loss: 306.809326172 Train ler: 26.92 Train time: 130.755186081.sec
+Train step: 271000 Train loss: 325.328338623 Train ler: 27.67 Train time: 105.718135834.sec
+Train step: 272000 Train loss: 329.919555664 Train ler: 29.17 Train time: 128.687858582.sec
+Train step: 273000 Train loss: 334.028503418 Train ler: 29.17 Train time: 118.391036987.sec
+Train step: 274000 Train loss: 323.555328369 Train ler: 31.17 Train time: 105.309009552.sec
+Train step: 275000 Train loss: 325.812133789 Train ler: 27.83 Train time: 118.766069412.sec
+Train step: 276000 Train loss: 340.876617432 Train ler: 28.67 Train time: 120.656013489.sec
+Train step: 277000 Train loss: 337.409790039 Train ler: 27.83 Train time: 120.984077454.sec
+Train step: 278000 Train loss: 299.305419922 Train ler: 28.75 Train time: 126.11579895.sec
+Train step: 279000 Train loss: 328.22744751 Train ler: 29.50 Train time: 116.425991058.sec
+Train step: 280000 Train loss: 295.481201172 Train ler: 27.08 Train time: 112.396001816.sec
+Train step: 281000 Train loss: 331.1277771 Train ler: 28.00 Train time: 110.657930374.sec
+One epoch data is finished
+Saving model...
+start validation
+Variables initialized ...
+Read model parameters from ./model/dbg_ctc_281241
+valid is finished in 17.9437811375 seconds
+Epoch: 9 Valid loss: 262.45 Valid ler: 28.50 Valid time:17.9437811375.sec
+Train step: 282000 Train loss: 329.403198242 Train ler: 27.00 Train time: 116.231203079.sec
+Train step: 283000 Train loss: 391.823120117 Train ler: 29.33 Train time: 101.032972336.sec
+Train step: 284000 Train loss: 316.929016113 Train ler: 27.67 Train time: 119.678974152.sec
+Train step: 285000 Train loss: 350.57119751 Train ler: 28.42 Train time: 129.338026047.sec
+Train step: 286000 Train loss: 312.156860352 Train ler: 27.83 Train time: 114.955186844.sec
+Train step: 287000 Train loss: 347.230773926 Train ler: 27.92 Train time: 113.89708519.sec
+Train step: 288000 Train loss: 311.975280762 Train ler: 28.67 Train time: 123.612165451.sec
+Train step: 289000 Train loss: 364.238891602 Train ler: 27.17 Train time: 114.305973053.sec
+Train step: 290000 Train loss: 288.605041504 Train ler: 30.08 Train time: 116.935014725.sec
+Train step: 291000 Train loss: 329.294403076 Train ler: 26.42 Train time: 107.022047043.sec
+Train step: 292000 Train loss: 313.664459229 Train ler: 29.00 Train time: 102.665901184.sec
+Train step: 293000 Train loss: 322.732330322 Train ler: 29.67 Train time: 108.062982559.sec
+Train step: 294000 Train loss: 318.375762939 Train ler: 26.50 Train time: 123.107910156.sec
+Train step: 295000 Train loss: 354.428283691 Train ler: 29.50 Train time: 109.117031097.sec
+Train step: 296000 Train loss: 326.356811523 Train ler: 29.17 Train time: 107.82790184.sec
+Train step: 297000 Train loss: 330.802185059 Train ler: 28.08 Train time: 129.752874374.sec
+Train step: 298000 Train loss: 341.852111816 Train ler: 28.72 Train time: 120.250940323.sec
+Train step: 299000 Train loss: 335.381713867 Train ler: 26.83 Train time: 115.771055222.sec
+Train step: 300000 Train loss: 285.810546875 Train ler: 26.67 Train time: 124.457120895.sec
+Train step: 301000 Train loss: 342.168365479 Train ler: 29.58 Train time: 120.600938797.sec
+Train step: 302000 Train loss: 370.740356445 Train ler: 27.00 Train time: 142.330169678.sec
+Train step: 303000 Train loss: 348.404052734 Train ler: 25.92 Train time: 119.567871094.sec
+Train step: 304000 Train loss: 317.422729492 Train ler: 28.17 Train time: 113.801002502.sec
+Train step: 305000 Train loss: 332.20401001 Train ler: 29.33 Train time: 117.021799088.sec
+Train step: 306000 Train loss: 307.859191895 Train ler: 26.33 Train time: 125.253915787.sec
+Train step: 307000 Train loss: 367.970825195 Train ler: 28.83 Train time: 118.005990982.sec
+Train step: 308000 Train loss: 309.092102051 Train ler: 27.67 Train time: 115.921020508.sec
+Train step: 309000 Train loss: 311.92980957 Train ler: 30.00 Train time: 108.8950634.sec
+Train step: 310000 Train loss: 353.597229004 Train ler: 28.00 Train time: 111.929893494.sec
+Train step: 311000 Train loss: 334.043945312 Train ler: 29.58 Train time: 124.418973923.sec
+Train step: 312000 Train loss: 323.046325684 Train ler: 27.75 Train time: 105.725765228.sec
+One epoch data is finished
+Saving model...
+start validation
+Variables initialized ...
+Read model parameters from ./model/dbg_ctc_312490
+Sequence	0
+	Epcho 10 Origin:	[26 64  0] 	lma 	来	嘛	
+	Epcho 10 Decoded: 			Top 0 	老 	
+			Top 1 	来 	
+			Top 2 	两 	
+			Top 3 	老 	么 	
+			Top 4 	了 	
+			Top 5 	来 	么 	
+			Top 6 	拉 	
+			Top 7 	两 	么 	
+			Top 8 	理 	
+			Top 9 	聊 	
+
+Sequence	1
+	Epcho 10 Origin:	[1221 2533    0] 	shat 	沙	滩	
+	Epcho 10 Decoded: 			Top 0 	是 	
+			Top 1 	上 	
+			Top 2 	说 	
+			Top 3 	睡 	
+			Top 4 	什 	
+			Top 5 	三 	
+			Top 6 	生 	
+			Top 7 	十 	
+			Top 8 	谁 	
+			Top 9 	手 	
+
+Sequence	2
+	Epcho 10 Origin:	[1116 1047    0] 	jiwei 	纪	委	
+	Epcho 10 Decoded: 			Top 0 	就 	
+			Top 1 	几 	
+			Top 2 	加 	
+			Top 3 	进 	
+			Top 4 	叫 	
+			Top 5 	今 	
+			Top 6 	接 	
+			Top 7 	家 	
+			Top 8 	结 	
+			Top 9 	经 	
+
+Sequence	3
+	Epcho 10 Origin:	[197   0   0] 	nia 	年	
+	Epcho 10 Decoded: 			Top 0 	你 	
+			Top 1 	那 	
+			Top 2 	哪 	
+			Top 3 	拿 	
+			Top 4 	男 	
+			Top 5 	女 	
+			Top 6 	年 	
+			Top 7 	能 	
+			Top 8 	难 	
+			Top 9 	内 	
+
+Sequence	4
+	Epcho 10 Origin:	[10  8 70] 	bzj 	不	在	家	
+	Epcho 10 Decoded: 			Top 0 	不 	
+			Top 1 	不 	子 	
+			Top 2 	不 	知 	
+			Top 3 	不 	在 	
+			Top 4 	不 	急 	
+			Top 5 	不 	着 	
+			Top 6 	不 	家 	
+			Top 7 	不 	怎 	
+			Top 8 	不 	己 	
+			Top 9 	不 	就 	
+
+Sequence	5
+	Epcho 10 Origin:	[197   0   0] 	nin 	年	
+	Epcho 10 Decoded: 			Top 0 	你 	
+			Top 1 	那 	
+			Top 2 	哪 	
+			Top 3 	拿 	
+			Top 4 	男 	
+			Top 5 	女 	
+			Top 6 	能 	
+			Top 7 	年 	
+			Top 8 	难 	
+			Top 9 	内 	
+
+Sequence	6
+	Epcho 10 Origin:	[353   4   0] 	fanl 	烦	了	
+	Epcho 10 Decoded: 			Top 0 	发 	了 	
+			Top 1 	发 	
+			Top 2 	放 	了 	
+			Top 3 	放 	
+			Top 4 	分 	了 	
+			Top 5 	反 	了 	
+			Top 6 	方 	了 	
+			Top 7 	分 	
+			Top 8 	非 	了 	
+			Top 9 	飞 	了 	
+
+Sequence	7
+	Epcho 10 Origin:	[1017 1018    0] 	peix 	培	训	
+	Epcho 10 Decoded: 			Top 0 	平 	
+			Top 1 	陪 	
+			Top 2 	骗 	
+			Top 3 	跑 	
+			Top 4 	拍 	
+			Top 5 	怕 	
+			Top 6 	排 	
+			Top 7 	胖 	
+			Top 8 	我 	
+			Top 9 	配 	
+
+Sequence	8
+	Epcho 10 Origin:	[740 212   0] 	yuj 	遇	见	
+	Epcho 10 Decoded: 			Top 0 	一 	
+			Top 1 	有 	
+			Top 2 	要 	
+			Top 3 	也 	
+			Top 4 	一 	见 	
+			Top 5 	又 	
+			Top 6 	原 	
+			Top 7 	用 	
+			Top 8 	有 	见 	
+			Top 9 	元 	
+
+Sequence	9
+	Epcho 10 Origin:	[177 192   0] 	xinxi 	信	息	
+	Epcho 10 Decoded: 			Top 0 	小 	
+			Top 1 	下 	
+			Top 2 	想 	
+			Top 3 	新 	
+			Top 4 	心 	
+			Top 5 	洗 	
+			Top 6 	学 	
+			Top 7 	行 	
+			Top 8 	笑 	
+			Top 9 	写 	
+
+Sequence	10
+	Epcho 10 Origin:	[324 145   3] 	pzn 	陪	着	你	
+	Epcho 10 Decoded: 			Top 0 	平 	
+			Top 1 	陪 	
+			Top 2 	骗 	
+			Top 3 	跑 	
+			Top 4 	拍 	
+			Top 5 	平 	子 	
+			Top 6 	怕 	
+			Top 7 	陪 	子 	
+			Top 8 	排 	
+			Top 9 	骗 	子 	
+
+Sequence	11
+	Epcho 10 Origin:	[73 42 43] 	yongsm 	用	什	么	
+	Epcho 10 Decoded: 			Top 0 	一 	死 	
+			Top 1 	一 	
+			Top 2 	一 	上 	
+			Top 3 	一 	事 	
+			Top 4 	一 	时 	
+			Top 5 	一 	死 	么 	
+			Top 6 	一 	是 	
+			Top 7 	一 	色 	
+			Top 8 	一 	手 	
+			Top 9 	一 	么 	
+
+Sequence	12
+	Epcho 10 Origin:	[ 636 2119    0] 	qiangjie 	抢	劫	
+	Epcho 10 Decoded: 			Top 0 	去 	奸 	
+			Top 1 	起 	奸 	
+			Top 2 	全 	奸 	
+			Top 3 	去 	
+			Top 4 	我 	奸 	
+			Top 5 	去 	家 	
+			Top 6 	去 	金 	
+			Top 7 	起 	
+			Top 8 	亲 	奸 	
+			Top 9 	情 	奸 	
+
+Sequence	13
+	Epcho 10 Origin:	[788 500   0] 	yali 	压	力	
+	Epcho 10 Decoded: 			Top 0 	一 	
+			Top 1 	有 	
+			Top 2 	要 	
+			Top 3 	一 	了 	
+			Top 4 	也 	
+			Top 5 	一 	力 	
+			Top 6 	一 	来 	
+			Top 7 	有 	了 	
+			Top 8 	一 	里 	
+			Top 9 	又 	
+
+Sequence	14
+	Epcho 10 Origin:	[ 10 159   0] 	bxiang 	不	像	
+	Epcho 10 Decoded: 			Top 0 	不 	
+			Top 1 	不 	想 	
+			Top 2 	不 	行 	
+			Top 3 	不 	喜 	
+			Top 4 	不 	信 	
+			Top 5 	不 	心 	
+			Top 6 	不 	下 	
+			Top 7 	别 	
+			Top 8 	不 	须 	
+			Top 9 	不 	小 	
+
+Sequence	15
+	Epcho 10 Origin:	[26 18  0] 	laishuo 	来	说	
+	Epcho 10 Decoded: 			Top 0 	老 	
+			Top 1 	来 	
+			Top 2 	两 	
+			Top 3 	老 	是 	
+			Top 4 	老 	死 	
+			Top 5 	老 	说 	
+			Top 6 	来 	是 	
+			Top 7 	来 	死 	
+			Top 8 	两 	是 	
+			Top 9 	两 	死 	
+
+Sequence	16
+	Epcho 10 Origin:	[1752    0    0] 	mei 	眉	
+	Epcho 10 Decoded: 			Top 0 	没 	
+			Top 1 	明 	
+			Top 2 	买 	
+			Top 3 	美 	
+			Top 4 	每 	
+			Top 5 	马 	
+			Top 6 	麻 	
+			Top 7 	满 	
+			Top 8 	
+			Top 9 	妹 	
+
+Sequence	17
+	Epcho 10 Origin:	[223 223   0] 	bangb 	帮	帮	
+	Epcho 10 Decoded: 			Top 0 	不 	
+			Top 1 	不 	
+			Top 2 	不 	吧 	
+			Top 3 	不 	便 	
+			Top 4 	不 	白 	
+			Top 5 	别 	
+			Top 6 	不 	我 	
+			Top 7 	不 	包 	
+			Top 8 	不 	你 	
+			Top 9 	不 	棒 	
+
+Sequence	18
+	Epcho 10 Origin:	[ 175 1411    0] 	zhengg 	正	规	
+	Epcho 10 Decoded: 			Top 0 	这 	个 	
+			Top 1 	这 	高 	
+			Top 2 	在 	个 	
+			Top 3 	这 	
+			Top 4 	这 	功 	
+			Top 5 	真 	个 	
+			Top 6 	怎 	个 	
+			Top 7 	再 	个 	
+			Top 8 	找 	个 	
+			Top 9 	做 	个 	
+
+Sequence	19
+	Epcho 10 Origin:	[ 14 519   0] 	youb 	有	病	
+	Epcho 10 Decoded: 			Top 0 	一 	不 	
+			Top 1 	有 	不 	
+			Top 2 	一 	
+			Top 3 	要 	不 	
+			Top 4 	有 	
+			Top 5 	也 	不 	
+			Top 6 	要 	
+			Top 7 	一 	病 	
+			Top 8 	一 	吧 	
+			Top 9 	一 	本 	
+
+Sequence	20
+	Epcho 10 Origin:	[ 1  7 28] 	wojiuxiang 	我	就	想	
+	Epcho 10 Decoded: 			Top 0 	我 	想 	
+			Top 1 	我 	就 	想 	
+			Top 2 	我 	
+			Top 3 	我 	行 	
+			Top 4 	我 	觉 	想 	
+			Top 5 	我 	喜 	
+			Top 6 	我 	是 	
+			Top 7 	我 	家 	想 	
+			Top 8 	我 	像 	
+			Top 9 	我 	知 	
+
+Sequence	21
+	Epcho 10 Origin:	[116  33  17] 	syn 	所	以	呢	
+	Epcho 10 Decoded: 			Top 0 	是 	
+			Top 1 	上 	
+			Top 2 	说 	
+			Top 3 	睡 	
+			Top 4 	什 	
+			Top 5 	三 	
+			Top 6 	生 	
+			Top 7 	十 	
+			Top 8 	谁 	
+			Top 9 	手 	
+
+Sequence	22
+	Epcho 10 Origin:	[29 75 18] 	kxs 	看	小	说	
+	Epcho 10 Decoded: 			Top 0 	看 	是 	
+			Top 1 	看 	
+			Top 2 	看 	说 	
+			Top 3 	可 	是 	
+			Top 4 	快 	是 	
+			Top 5 	可 	
+			Top 6 	快 	
+			Top 7 	看 	睡 	
+			Top 8 	开 	是 	
+			Top 9 	开 	
+
+Sequence	23
+	Epcho 10 Origin:	[ 497 1215    0] 	huowu 	火	舞	
+	Epcho 10 Decoded: 			Top 0 	好 	
+			Top 1 	好 	我 	
+			Top 2 	还 	
+			Top 3 	好 	玩 	
+			Top 4 	还 	我 	
+			Top 5 	好 	舞 	
+			Top 6 	好 	晚 	
+			Top 7 	很 	
+			Top 8 	好 	为 	
+			Top 9 	还 	玩 	
+
+Sequence	24
+	Epcho 10 Origin:	[1366 1367    0] 	shanl 	善	良	
+	Epcho 10 Decoded: 			Top 0 	是 	了 	
+			Top 1 	是 	
+			Top 2 	上 	了 	
+			Top 3 	上 	
+			Top 4 	说 	了 	
+			Top 5 	说 	
+			Top 6 	睡 	了 	
+			Top 7 	睡 	
+			Top 8 	什 	了 	
+			Top 9 	什 	
+
+Sequence	25
+	Epcho 10 Origin:	[1769  158    0] 	huijie 	慧	姐	
+	Epcho 10 Decoded: 			Top 0 	好 	
+			Top 1 	好 	家 	
+			Top 2 	还 	
+			Top 3 	还 	家 	
+			Top 4 	很 	
+			Top 5 	很 	家 	
+			Top 6 	回 	
+			Top 7 	回 	家 	
+			Top 8 	好 	久 	
+			Top 9 	会 	
+
+Sequence	26
+	Epcho 10 Origin:	[ 74 489  93] 	bieguaji 	别	挂	机	
+	Epcho 10 Decoded: 			Top 0 	不 	
+			Top 1 	别 	
+			Top 2 	不 	个 	
+			Top 3 	不 	了 	
+			Top 4 	比 	
+			Top 5 	帮 	
+			Top 6 	表 	
+			Top 7 	白 	
+			Top 8 	保 	
+			Top 9 	不 	
+
+Sequence	27
+	Epcho 10 Origin:	[ 300 1163    0] 	sg 	傻	瓜	
+	Epcho 10 Decoded: 			Top 0 	是 	
+			Top 1 	上 	
+			Top 2 	说 	
+			Top 3 	睡 	
+			Top 4 	什 	
+			Top 5 	三 	
+			Top 6 	生 	
+			Top 7 	十 	
+			Top 8 	谁 	
+			Top 9 	手 	
+
+Sequence	28
+	Epcho 10 Origin:	[824 620  39] 	rhr 	任	何	人	
+	Epcho 10 Decoded: 			Top 0 	人 	
+			Top 1 	日 	
+			Top 2 	让 	
+			Top 3 	认 	
+			Top 4 	然 	
+			Top 5 	如 	
+			Top 6 	我 	
+			Top 7 	任 	
+			Top 8 	
+			Top 9 	热 	
+
+Sequence	29
+	Epcho 10 Origin:	[68 13  0] 	guoq 	过	去	
+	Epcho 10 Decoded: 			Top 0 	给 	去 	
+			Top 1 	过 	去 	
+			Top 2 	搞 	去 	
+			Top 3 	干 	去 	
+			Top 4 	刚 	去 	
+			Top 5 	高 	去 	
+			Top 6 	给 	
+			Top 7 	感 	去 	
+			Top 8 	跟 	去 	
+			Top 9 	关 	去 	
+
+Sequence	30
+	Epcho 10 Origin:	[134  35   3] 	daigeini 	带	给	你	
+	Epcho 10 Decoded: 			Top 0 	大 	你 	
+			Top 1 	打 	你 	
+			Top 2 	都 	你 	
+			Top 3 	等 	你 	
+			Top 4 	对 	你 	
+			Top 5 	多 	你 	
+			Top 6 	到 	你 	
+			Top 7 	第 	你 	
+			Top 8 	的 	你 	
+			Top 9 	大 	个 	你 	
+
+Sequence	31
+	Epcho 10 Origin:	[135 923   0] 	wuc 	午	餐	
+	Epcho 10 Decoded: 			Top 0 	我 	
+			Top 1 	我 	出 	
+			Top 2 	我 	草 	
+			Top 3 	我 	槽 	
+			Top 4 	我 	吃 	
+			Top 5 	我 	餐 	
+			Top 6 	我 	次 	
+			Top 7 	我 	错 	
+			Top 8 	我 	车 	
+			Top 9 	我 	耻 	
+
+valid is finished in 18.5568768978 seconds
+Epoch: 10 Valid loss: 266.21 Valid ler: 28.50 Valid time:18.5568768978.sec
+Train step: 313000 Train loss: 331.659484863 Train ler: 28.42 Train time: 115.344047546.sec
+Train step: 314000 Train loss: 336.81237793 Train ler: 28.33 Train time: 100.759029388.sec
+Train step: 315000 Train loss: 331.114440918 Train ler: 26.92 Train time: 121.145009995.sec
+Train step: 316000 Train loss: 336.089355469 Train ler: 29.83 Train time: 116.592168808.sec
+Train step: 317000 Train loss: 367.494689941 Train ler: 29.50 Train time: 122.189044952.sec
+Train step: 318000 Train loss: 375.305450439 Train ler: 29.83 Train time: 119.682073593.sec
+Train step: 319000 Train loss: 292.393615723 Train ler: 26.92 Train time: 106.415987015.sec
+Train step: 320000 Train loss: 346.202026367 Train ler: 29.08 Train time: 107.102870941.sec
+Train step: 321000 Train loss: 328.59173584 Train ler: 29.25 Train time: 115.171909332.sec
+Train step: 322000 Train loss: 371.182250977 Train ler: 27.92 Train time: 107.478141785.sec
+Train step: 323000 Train loss: 324.419006348 Train ler: 28.67 Train time: 105.844974518.sec
+Train step: 324000 Train loss: 318.776000977 Train ler: 26.42 Train time: 104.593992233.sec
+Train step: 325000 Train loss: 309.952270508 Train ler: 28.33 Train time: 128.159046173.sec
+Train step: 326000 Train loss: 365.829559326 Train ler: 29.67 Train time: 132.616996765.sec
+Train step: 327000 Train loss: 295.358520508 Train ler: 26.83 Train time: 103.032827377.sec
+Train step: 328000 Train loss: 348.684356689 Train ler: 28.83 Train time: 124.4161129.sec
+Train step: 329000 Train loss: 324.562744141 Train ler: 27.08 Train time: 114.811897278.sec
+Train step: 330000 Train loss: 326.993530273 Train ler: 29.17 Train time: 124.570131302.sec
+Train step: 331000 Train loss: 307.078186035 Train ler: 25.83 Train time: 126.028060913.sec
+Train step: 332000 Train loss: 322.647857666 Train ler: 25.83 Train time: 131.024122238.sec
+Train step: 333000 Train loss: 329.381896973 Train ler: 28.83 Train time: 123.467922211.sec
+Train step: 334000 Train loss: 284.561035156 Train ler: 28.00 Train time: 119.794130325.sec
+Train step: 335000 Train loss: 359.145751953 Train ler: 29.00 Train time: 118.669986725.sec
+Train step: 336000 Train loss: 366.520355225 Train ler: 29.25 Train time: 97.8181362152.sec
+Train step: 337000 Train loss: 390.571594238 Train ler: 29.83 Train time: 125.071048737.sec
+Train step: 338000 Train loss: 296.365936279 Train ler: 28.75 Train time: 120.110988617.sec
+Train step: 339000 Train loss: 301.810058594 Train ler: 27.75 Train time: 106.444120407.sec
+Train step: 340000 Train loss: 375.980285645 Train ler: 30.00 Train time: 120.630025864.sec
+Train step: 341000 Train loss: 341.660522461 Train ler: 29.33 Train time: 128.827095032.sec
+Train step: 342000 Train loss: 335.30480957 Train ler: 27.83 Train time: 111.788988113.sec
+Train step: 343000 Train loss: 322.372558594 Train ler: 28.17 Train time: 114.499092102.sec
+One epoch data is finished
+Saving model...
+start validation
+Variables initialized ...
+Read model parameters from ./model/dbg_ctc_343739
+valid is finished in 17.8647179604 seconds
+Epoch: 11 Valid loss: 268.00 Valid ler: 28.67 Valid time:17.8647179604.sec
+Train step: 344000 Train loss: 333.647888184 Train ler: 28.75 Train time: 118.782043457.sec
+Train step: 345000 Train loss: 320.099609375 Train ler: 29.33 Train time: 115.504026413.sec
+Train step: 346000 Train loss: 325.30456543 Train ler: 29.50 Train time: 113.313913345.sec
+Train step: 347000 Train loss: 293.655090332 Train ler: 25.17 Train time: 95.3590869904.sec
+Train step: 348000 Train loss: 363.898742676 Train ler: 28.83 Train time: 124.191045761.sec
+Train step: 349000 Train loss: 326.877319336 Train ler: 27.33 Train time: 105.56101799.sec
+Train step: 350000 Train loss: 368.338378906 Train ler: 27.67 Train time: 130.964040756.sec
+Train step: 351000 Train loss: 355.165863037 Train ler: 28.08 Train time: 111.809015274.sec
+Train step: 352000 Train loss: 322.024719238 Train ler: 28.50 Train time: 124.557971954.sec
+Train step: 353000 Train loss: 348.256164551 Train ler: 29.75 Train time: 128.224134445.sec
+Train step: 354000 Train loss: 310.961730957 Train ler: 27.17 Train time: 116.058826447.sec
+Train step: 355000 Train loss: 306.349639893 Train ler: 25.00 Train time: 128.615856171.sec
+Train step: 356000 Train loss: 346.410919189 Train ler: 24.08 Train time: 124.397039413.sec
+Train step: 357000 Train loss: 337.213531494 Train ler: 27.42 Train time: 133.371114731.sec
+Train step: 358000 Train loss: 318.002563477 Train ler: 25.58 Train time: 128.506183624.sec
+Train step: 359000 Train loss: 314.367645264 Train ler: 29.17 Train time: 109.928846359.sec
+Train step: 360000 Train loss: 333.08996582 Train ler: 29.33 Train time: 122.076034546.sec
+Train step: 361000 Train loss: 323.22668457 Train ler: 28.67 Train time: 111.86504364.sec
+Train step: 362000 Train loss: 321.312316895 Train ler: 27.50 Train time: 117.835044861.sec
+Train step: 363000 Train loss: 377.938049316 Train ler: 29.02 Train time: 114.754915237.sec
+Train step: 364000 Train loss: 274.813293457 Train ler: 26.00 Train time: 98.8030433655.sec
+Train step: 365000 Train loss: 299.935058594 Train ler: 28.25 Train time: 119.3151474.sec
+Train step: 366000 Train loss: 353.041137695 Train ler: 28.42 Train time: 135.620117188.sec
+Train step: 367000 Train loss: 344.547058105 Train ler: 28.58 Train time: 93.2459831238.sec
+Train step: 368000 Train loss: 331.738555908 Train ler: 28.25 Train time: 124.262809753.sec
+Train step: 369000 Train loss: 348.116729736 Train ler: 27.58 Train time: 127.002000809.sec
+Train step: 370000 Train loss: 333.049072266 Train ler: 28.08 Train time: 116.95599556.sec
+Train step: 371000 Train loss: 374.389892578 Train ler: 28.42 Train time: 124.312877655.sec
+Train step: 372000 Train loss: 364.411132812 Train ler: 31.33 Train time: 131.008863449.sec
+Train step: 373000 Train loss: 297.624084473 Train ler: 27.00 Train time: 112.885951996.sec
+Train step: 374000 Train loss: 320.147521973 Train ler: 24.42 Train time: 119.078874588.sec
+One epoch data is finished
+Saving model...
+start validation
+Variables initialized ...
+Read model parameters from ./model/dbg_ctc_374988
+valid is finished in 18.0152039528 seconds
+Epoch: 12 Valid loss: 266.75 Valid ler: 28.17 Valid time:18.0152039528.sec
+Train step: 375000 Train loss: 312.154846191 Train ler: 26.25 Train time: 105.787992477.sec
+Train step: 376000 Train loss: 317.234130859 Train ler: 26.50 Train time: 120.414018631.sec
+Train step: 377000 Train loss: 297.047912598 Train ler: 25.37 Train time: 140.449047089.sec
+Train step: 378000 Train loss: 303.317993164 Train ler: 27.83 Train time: 124.008178711.sec
+Train step: 379000 Train loss: 331.177886963 Train ler: 29.42 Train time: 102.725982666.sec
+Train step: 380000 Train loss: 318.744476318 Train ler: 27.50 Train time: 116.765022278.sec
+Train step: 381000 Train loss: 346.588439941 Train ler: 26.67 Train time: 119.607925415.sec
+Train step: 382000 Train loss: 323.998840332 Train ler: 28.92 Train time: 111.77611351.sec
+Train step: 383000 Train loss: 305.368164062 Train ler: 27.00 Train time: 115.529060364.sec
+Train step: 384000 Train loss: 328.238647461 Train ler: 28.17 Train time: 109.632968903.sec
+Train step: 385000 Train loss: 359.614868164 Train ler: 29.33 Train time: 125.494003296.sec
+Train step: 386000 Train loss: 320.75302124 Train ler: 26.00 Train time: 120.407819748.sec
+Train step: 387000 Train loss: 335.554321289 Train ler: 26.17 Train time: 125.869035721.sec
+Train step: 388000 Train loss: 278.816467285 Train ler: 28.33 Train time: 120.939016342.sec
+Train step: 389000 Train loss: 350.454711914 Train ler: 27.08 Train time: 112.920045853.sec
+Train step: 390000 Train loss: 339.929748535 Train ler: 27.83 Train time: 112.150907516.sec
+Train step: 391000 Train loss: 306.892822266 Train ler: 25.50 Train time: 107.306957245.sec
+Train step: 392000 Train loss: 277.597686768 Train ler: 26.33 Train time: 111.665964127.sec
+Train step: 393000 Train loss: 320.166900635 Train ler: 28.83 Train time: 123.925924301.sec
+Train step: 394000 Train loss: 284.469085693 Train ler: 27.67 Train time: 119.302034378.sec
+Train step: 395000 Train loss: 342.251159668 Train ler: 27.67 Train time: 103.417158127.sec
+Train step: 396000 Train loss: 289.626373291 Train ler: 26.00 Train time: 122.225046158.sec
+Train step: 397000 Train loss: 329.242523193 Train ler: 29.17 Train time: 122.06196785.sec
+Train step: 398000 Train loss: 350.53338623 Train ler: 29.83 Train time: 115.697860718.sec
+Train step: 399000 Train loss: 328.511871338 Train ler: 28.17 Train time: 113.768100739.sec
+Train step: 400000 Train loss: 374.439208984 Train ler: 30.67 Train time: 110.612869263.sec
+Train step: 401000 Train loss: 326.926330566 Train ler: 28.33 Train time: 116.235017776.sec
+Train step: 402000 Train loss: 299.805053711 Train ler: 25.92 Train time: 130.584955215.sec
+Train step: 403000 Train loss: 321.84588623 Train ler: 28.67 Train time: 112.421035767.sec
+Train step: 404000 Train loss: 324.002197266 Train ler: 28.83 Train time: 117.938995361.sec
+Train step: 405000 Train loss: 309.763580322 Train ler: 28.58 Train time: 116.529226303.sec
+Train step: 406000 Train loss: 335.684204102 Train ler: 27.65 Train time: 109.202861786.sec
+One epoch data is finished
+Saving model...
+start validation
+Variables initialized ...
+Read model parameters from ./model/dbg_ctc_406237
+valid is finished in 17.9804570675 seconds
+Epoch: 13 Valid loss: 267.54 Valid ler: 28.17 Valid time:17.9804570675.sec
+Train step: 407000 Train loss: 334.214111328 Train ler: 29.83 Train time: 129.137039185.sec
+Train step: 408000 Train loss: 328.550292969 Train ler: 27.50 Train time: 128.795862198.sec
+Train step: 409000 Train loss: 337.876525879 Train ler: 27.50 Train time: 119.682073593.sec
+Train step: 410000 Train loss: 327.826629639 Train ler: 28.57 Train time: 143.986940384.sec
+Train step: 411000 Train loss: 298.76171875 Train ler: 28.67 Train time: 126.120090485.sec
+Train step: 412000 Train loss: 311.99786377 Train ler: 26.67 Train time: 113.883972168.sec
+Train step: 413000 Train loss: 322.1847229 Train ler: 29.00 Train time: 100.321054459.sec
+Train step: 414000 Train loss: 354.45501709 Train ler: 29.93 Train time: 90.1081562042.sec
+Train step: 415000 Train loss: 306.172973633 Train ler: 28.40 Train time: 146.601915359.sec
+Train step: 416000 Train loss: 322.452819824 Train ler: 26.92 Train time: 109.498023987.sec
+Train step: 417000 Train loss: 343.293701172 Train ler: 30.00 Train time: 107.099056244.sec
+Train step: 418000 Train loss: 349.839904785 Train ler: 30.50 Train time: 127.161979675.sec
+Train step: 419000 Train loss: 320.355285645 Train ler: 28.50 Train time: 120.516061783.sec
+Train step: 420000 Train loss: 297.961853027 Train ler: 28.33 Train time: 127.686977386.sec
+Train step: 421000 Train loss: 342.312591553 Train ler: 28.50 Train time: 108.13999176.sec
+Train step: 422000 Train loss: 332.63269043 Train ler: 26.75 Train time: 128.595113754.sec
+Train step: 423000 Train loss: 283.612579346 Train ler: 25.33 Train time: 116.315841675.sec
+Train step: 424000 Train loss: 281.133239746 Train ler: 27.42 Train time: 106.215953827.sec
+Train step: 425000 Train loss: 386.129486084 Train ler: 28.83 Train time: 134.802103043.sec
+Train step: 426000 Train loss: 310.729492188 Train ler: 25.58 Train time: 105.190038681.sec
+Train step: 427000 Train loss: 334.978515625 Train ler: 27.58 Train time: 138.834953308.sec
+Train step: 428000 Train loss: 287.133728027 Train ler: 26.33 Train time: 105.346918106.sec
+Train step: 429000 Train loss: 331.690795898 Train ler: 28.50 Train time: 138.710021973.sec
+Train step: 430000 Train loss: 303.174987793 Train ler: 27.25 Train time: 110.462903976.sec
+Train step: 431000 Train loss: 327.255859375 Train ler: 28.92 Train time: 122.867822647.sec
+Train step: 432000 Train loss: 349.463439941 Train ler: 29.25 Train time: 131.423950195.sec
+Train step: 433000 Train loss: 313.065490723 Train ler: 26.33 Train time: 141.493082047.sec
+Train step: 434000 Train loss: 310.782470703 Train ler: 27.42 Train time: 113.18397522.sec
+Train step: 435000 Train loss: 318.875183105 Train ler: 26.92 Train time: 116.212129593.sec
+Train step: 436000 Train loss: 273.585083008 Train ler: 28.50 Train time: 107.342004776.sec
+Train step: 437000 Train loss: 339.802490234 Train ler: 27.83 Train time: 129.441022873.sec
+One epoch data is finished
+Saving model...
+start validation
+Variables initialized ...
+Read model parameters from ./model/dbg_ctc_437486
+valid is finished in 18.1169118881 seconds
+Epoch: 14 Valid loss: 268.37 Valid ler: 28.67 Valid time:18.1169118881.sec
+Train step: 438000 Train loss: 334.654998779 Train ler: 27.00 Train time: 113.386869431.sec
+Train step: 439000 Train loss: 337.33416748 Train ler: 29.17 Train time: 121.904850006.sec
+Train step: 440000 Train loss: 317.196807861 Train ler: 27.50 Train time: 128.380060196.sec
+Train step: 441000 Train loss: 404.936950684 Train ler: 28.58 Train time: 140.242099762.sec
+Train step: 442000 Train loss: 347.622344971 Train ler: 30.17 Train time: 117.589950562.sec
+Train step: 443000 Train loss: 319.204772949 Train ler: 27.42 Train time: 107.402086258.sec
+Train step: 444000 Train loss: 356.179168701 Train ler: 28.75 Train time: 117.063045502.sec
+Train step: 445000 Train loss: 336.399047852 Train ler: 27.50 Train time: 129.764080048.sec
+Train step: 446000 Train loss: 358.040740967 Train ler: 28.58 Train time: 118.69597435.sec
+Train step: 447000 Train loss: 311.341674805 Train ler: 26.00 Train time: 122.253894806.sec
+Train step: 448000 Train loss: 327.814453125 Train ler: 28.67 Train time: 112.520933151.sec
+Train step: 449000 Train loss: 327.748413086 Train ler: 28.67 Train time: 119.99297142.sec
+Train step: 450000 Train loss: 316.43170166 Train ler: 27.17 Train time: 112.48087883.sec
+Train step: 451000 Train loss: 324.364868164 Train ler: 27.83 Train time: 112.020015717.sec
+Train step: 452000 Train loss: 333.559204102 Train ler: 26.97 Train time: 119.983911514.sec
+Train step: 453000 Train loss: 340.708496094 Train ler: 28.08 Train time: 116.054058075.sec
+Train step: 454000 Train loss: 329.100219727 Train ler: 28.92 Train time: 110.210895538.sec
+Train step: 455000 Train loss: 304.071777344 Train ler: 26.00 Train time: 118.022918701.sec
+Train step: 456000 Train loss: 313.419799805 Train ler: 27.33 Train time: 123.44789505.sec
+Train step: 457000 Train loss: 319.450897217 Train ler: 28.67 Train time: 108.967781067.sec
+Train step: 458000 Train loss: 319.268859863 Train ler: 27.67 Train time: 127.295970917.sec
+Train step: 459000 Train loss: 346.257995605 Train ler: 30.17 Train time: 106.911182404.sec
+Train step: 460000 Train loss: 294.667633057 Train ler: 28.83 Train time: 120.335102081.sec
+Train step: 461000 Train loss: 324.703857422 Train ler: 30.17 Train time: 108.388900757.sec
+Train step: 462000 Train loss: 371.745727539 Train ler: 28.30 Train time: 132.097959518.sec
+Train step: 463000 Train loss: 297.028259277 Train ler: 26.50 Train time: 116.480112076.sec
+Train step: 464000 Train loss: 293.469818115 Train ler: 27.47 Train time: 108.470916748.sec
+Train step: 465000 Train loss: 320.791137695 Train ler: 29.00 Train time: 126.626968384.sec
+Train step: 466000 Train loss: 305.473632812 Train ler: 28.67 Train time: 121.202945709.sec
+Train step: 467000 Train loss: 305.903930664 Train ler: 30.33 Train time: 103.575944901.sec
+Train step: 468000 Train loss: 288.408447266 Train ler: 27.33 Train time: 125.411987305.sec
+One epoch data is finished
+Saving model...
+start validation
+Variables initialized ...
+Read model parameters from ./model/dbg_ctc_468735
+Sequence	0
+	Epcho 15 Origin:	[26 64  0] 	lma 	来	嘛	
+	Epcho 15 Decoded: 			Top 0 	老 	
+			Top 1 	两 	
+			Top 2 	来 	
+			Top 3 	老 	么 	
+			Top 4 	了 	
+			Top 5 	你 	
+			Top 6 	两 	么 	
+			Top 7 	来 	么 	
+			Top 8 	聊 	
+			Top 9 	留 	
+
+Sequence	1
+	Epcho 15 Origin:	[1221 2533    0] 	shat 	沙	滩	
+	Epcho 15 Decoded: 			Top 0 	是 	
+			Top 1 	上 	
+			Top 2 	说 	
+			Top 3 	什 	
+			Top 4 	睡 	
+			Top 5 	三 	
+			Top 6 	生 	
+			Top 7 	十 	
+			Top 8 	谁 	
+			Top 9 	四 	
+
+Sequence	2
+	Epcho 15 Origin:	[1116 1047    0] 	jiwei 	纪	委	
+	Epcho 15 Decoded: 			Top 0 	就 	
+			Top 1 	几 	
+			Top 2 	加 	
+			Top 3 	进 	
+			Top 4 	就 	我 	
+			Top 5 	今 	
+			Top 6 	接 	
+			Top 7 	叫 	
+			Top 8 	家 	
+			Top 9 	
+
+Sequence	3
+	Epcho 15 Origin:	[197   0   0] 	nia 	年	
+	Epcho 15 Decoded: 			Top 0 	你 	
+			Top 1 	那 	
+			Top 2 	哪 	
+			Top 3 	能 	
+			Top 4 	女 	
+			Top 5 	拿 	
+			Top 6 	男 	
+			Top 7 	年 	
+			Top 8 	难 	
+			Top 9 	不 	
+
+Sequence	4
+	Epcho 15 Origin:	[10  8 70] 	bzj 	不	在	家	
+	Epcho 15 Decoded: 			Top 0 	不 	
+			Top 1 	不 	子 	
+			Top 2 	不 	知 	
+			Top 3 	不 	在 	
+			Top 4 	不 	着 	
+			Top 5 	不 	家 	
+			Top 6 	不 	怎 	
+			Top 7 	不 	急 	
+			Top 8 	不 	就 	
+			Top 9 	不 	这 	
+
+Sequence	5
+	Epcho 15 Origin:	[197   0   0] 	nin 	年	
+	Epcho 15 Decoded: 			Top 0 	你 	
+			Top 1 	那 	
+			Top 2 	哪 	
+			Top 3 	能 	
+			Top 4 	女 	
+			Top 5 	拿 	
+			Top 6 	男 	
+			Top 7 	年 	
+			Top 8 	难 	
+			Top 9 	不 	
+
+Sequence	6
+	Epcho 15 Origin:	[353   4   0] 	fanl 	烦	了	
+	Epcho 15 Decoded: 			Top 0 	发 	
+			Top 1 	发 	了 	
+			Top 2 	放 	
+			Top 3 	放 	了 	
+			Top 4 	分 	
+			Top 5 	分 	了 	
+			Top 6 	反 	
+			Top 7 	反 	了 	
+			Top 8 	方 	
+			Top 9 	非 	
+
+Sequence	7
+	Epcho 15 Origin:	[1017 1018    0] 	peix 	培	训	
+	Epcho 15 Decoded: 			Top 0 	陪 	
+			Top 1 	平 	
+			Top 2 	骗 	
+			Top 3 	
+			Top 4 	我 	
+			Top 5 	怕 	
+			Top 6 	你 	
+			Top 7 	跑 	
+			Top 8 	拍 	
+			Top 9 	排 	
+
+Sequence	8
+	Epcho 15 Origin:	[740 212   0] 	yuj 	遇	见	
+	Epcho 15 Decoded: 			Top 0 	一 	
+			Top 1 	有 	
+			Top 2 	要 	
+			Top 3 	也 	
+			Top 4 	又 	
+			Top 5 	元 	
+			Top 6 	一 	见 	
+			Top 7 	原 	
+			Top 8 	用 	
+			Top 9 	
+
+Sequence	9
+	Epcho 15 Origin:	[177 192   0] 	xinxi 	信	息	
+	Epcho 15 Decoded: 			Top 0 	小 	
+			Top 1 	想 	
+			Top 2 	下 	
+			Top 3 	新 	
+			Top 4 	心 	
+			Top 5 	洗 	
+			Top 6 	学 	
+			Top 7 	写 	
+			Top 8 	行 	
+			Top 9 	这 	
+
+Sequence	10
+	Epcho 15 Origin:	[324 145   3] 	pzn 	陪	着	你	
+	Epcho 15 Decoded: 			Top 0 	陪 	
+			Top 1 	平 	
+			Top 2 	骗 	
+			Top 3 	陪 	子 	
+			Top 4 	平 	子 	
+			Top 5 	
+			Top 6 	骗 	子 	
+			Top 7 	怕 	
+			Top 8 	我 	
+			Top 9 	跑 	
+
+Sequence	11
+	Epcho 15 Origin:	[73 42 43] 	yongsm 	用	什	么	
+	Epcho 15 Decoded: 			Top 0 	一 	
+			Top 1 	一 	是 	
+			Top 2 	一 	事 	
+			Top 3 	一 	上 	
+			Top 4 	一 	死 	
+			Top 5 	一 	什 	
+			Top 6 	一 	手 	
+			Top 7 	一 	色 	
+			Top 8 	一 	时 	
+			Top 9 	一 	么 	
+
+Sequence	12
+	Epcho 15 Origin:	[ 636 2119    0] 	qiangjie 	抢	劫	
+	Epcho 15 Decoded: 			Top 0 	去 	奸 	
+			Top 1 	去 	
+			Top 2 	我 	奸 	
+			Top 3 	全 	奸 	
+			Top 4 	起 	奸 	
+			Top 5 	我 	
+			Top 6 	全 	
+			Top 7 	起 	
+			Top 8 	亲 	奸 	
+			Top 9 	前 	奸 	
+
+Sequence	13
+	Epcho 15 Origin:	[788 500   0] 	yali 	压	力	
+	Epcho 15 Decoded: 			Top 0 	一 	
+			Top 1 	有 	
+			Top 2 	一 	了 	
+			Top 3 	要 	
+			Top 4 	也 	
+			Top 5 	有 	了 	
+			Top 6 	要 	了 	
+			Top 7 	一 	来 	
+			Top 8 	一 	力 	
+			Top 9 	又 	
+
+Sequence	14
+	Epcho 15 Origin:	[ 10 159   0] 	bxiang 	不	像	
+	Epcho 15 Decoded: 			Top 0 	不 	
+			Top 1 	不 	想 	
+			Top 2 	不 	行 	
+			Top 3 	不 	喜 	
+			Top 4 	不 	信 	
+			Top 5 	不 	小 	
+			Top 6 	不 	心 	
+			Top 7 	别 	
+			Top 8 	不 	下 	
+			Top 9 	不 	须 	
+
+Sequence	15
+	Epcho 15 Origin:	[26 18  0] 	laishuo 	来	说	
+	Epcho 15 Decoded: 			Top 0 	老 	
+			Top 1 	两 	
+			Top 2 	来 	
+			Top 3 	老 	说 	
+			Top 4 	两 	说 	
+			Top 5 	老 	是 	
+			Top 6 	来 	说 	
+			Top 7 	老 	上 	
+			Top 8 	老 	死 	
+			Top 9 	两 	是 	
+
+Sequence	16
+	Epcho 15 Origin:	[1752    0    0] 	mei 	眉	
+	Epcho 15 Decoded: 			Top 0 	没 	
+			Top 1 	买 	
+			Top 2 	明 	
+			Top 3 	美 	
+			Top 4 	每 	
+			Top 5 	
+			Top 6 	马 	
+			Top 7 	麻 	
+			Top 8 	你 	
+			Top 9 	妈 	
+
+Sequence	17
+	Epcho 15 Origin:	[223 223   0] 	bangb 	帮	帮	
+	Epcho 15 Decoded: 			Top 0 	不 	
+			Top 1 	不 	
+			Top 2 	不 	吧 	
+			Top 3 	别 	
+			Top 4 	不 	便 	
+			Top 5 	不 	你 	
+			Top 6 	不 	我 	
+			Top 7 	不 	白 	
+			Top 8 	不 	个 	
+			Top 9 	不 	包 	
+
+Sequence	18
+	Epcho 15 Origin:	[ 175 1411    0] 	zhengg 	正	规	
+	Epcho 15 Decoded: 			Top 0 	这 	个 	
+			Top 1 	在 	个 	
+			Top 2 	这 	高 	
+			Top 3 	这 	
+			Top 4 	真 	个 	
+			Top 5 	再 	个 	
+			Top 6 	怎 	个 	
+			Top 7 	早 	个 	
+			Top 8 	做 	个 	
+			Top 9 	找 	个 	
+
+Sequence	19
+	Epcho 15 Origin:	[ 14 519   0] 	youb 	有	病	
+	Epcho 15 Decoded: 			Top 0 	一 	不 	
+			Top 1 	一 	
+			Top 2 	有 	不 	
+			Top 3 	有 	
+			Top 4 	要 	不 	
+			Top 5 	要 	
+			Top 6 	也 	不 	
+			Top 7 	也 	
+			Top 8 	一 	吧 	
+			Top 9 	一 	病 	
+
+Sequence	20
+	Epcho 15 Origin:	[ 1  7 28] 	wojiuxiang 	我	就	想	
+	Epcho 15 Decoded: 			Top 0 	我 	想 	
+			Top 1 	我 	就 	想 	
+			Top 2 	我 	
+			Top 3 	我 	喜 	
+			Top 4 	我 	家 	想 	
+			Top 5 	我 	觉 	想 	
+			Top 6 	我 	就 	
+			Top 7 	我 	像 	
+			Top 8 	我 	是 	
+			Top 9 	我 	行 	
+
+Sequence	21
+	Epcho 15 Origin:	[116  33  17] 	syn 	所	以	呢	
+	Epcho 15 Decoded: 			Top 0 	是 	
+			Top 1 	上 	
+			Top 2 	说 	
+			Top 3 	什 	
+			Top 4 	睡 	
+			Top 5 	三 	
+			Top 6 	生 	
+			Top 7 	十 	
+			Top 8 	谁 	
+			Top 9 	四 	
+
+Sequence	22
+	Epcho 15 Origin:	[29 75 18] 	kxs 	看	小	说	
+	Epcho 15 Decoded: 			Top 0 	看 	
+			Top 1 	看 	说 	
+			Top 2 	可 	
+			Top 3 	快 	
+			Top 4 	开 	
+			Top 5 	看 	是 	
+			Top 6 	看 	睡 	
+			Top 7 	可 	说 	
+			Top 8 	快 	说 	
+			Top 9 	看 	心 	
+
+Sequence	23
+	Epcho 15 Origin:	[ 497 1215    0] 	huowu 	火	舞	
+	Epcho 15 Decoded: 			Top 0 	好 	我 	
+			Top 1 	好 	
+			Top 2 	还 	我 	
+			Top 3 	好 	玩 	
+			Top 4 	还 	
+			Top 5 	还 	玩 	
+			Top 6 	好 	为 	
+			Top 7 	很 	我 	
+			Top 8 	好 	舞 	
+			Top 9 	回 	我 	
+
+Sequence	24
+	Epcho 15 Origin:	[1366 1367    0] 	shanl 	善	良	
+	Epcho 15 Decoded: 			Top 0 	是 	了 	
+			Top 1 	是 	
+			Top 2 	上 	了 	
+			Top 3 	上 	
+			Top 4 	说 	了 	
+			Top 5 	说 	
+			Top 6 	什 	了 	
+			Top 7 	什 	
+			Top 8 	睡 	了 	
+			Top 9 	睡 	
+
+Sequence	25
+	Epcho 15 Origin:	[1769  158    0] 	huijie 	慧	姐	
+	Epcho 15 Decoded: 			Top 0 	好 	
+			Top 1 	好 	家 	
+			Top 2 	还 	
+			Top 3 	还 	家 	
+			Top 4 	很 	
+			Top 5 	回 	
+			Top 6 	很 	家 	
+			Top 7 	回 	家 	
+			Top 8 	会 	
+			Top 9 	会 	家 	
+
+Sequence	26
+	Epcho 15 Origin:	[ 74 489  93] 	bieguaji 	别	挂	机	
+	Epcho 15 Decoded: 			Top 0 	不 	
+			Top 1 	别 	
+			Top 2 	不 	个 	
+			Top 3 	不 	家 	
+			Top 4 	不 	了 	
+			Top 5 	比 	
+			Top 6 	保 	
+			Top 7 	不 	你 	
+			Top 8 	
+			Top 9 	表 	
+
+Sequence	27
+	Epcho 15 Origin:	[ 300 1163    0] 	sg 	傻	瓜	
+	Epcho 15 Decoded: 			Top 0 	是 	
+			Top 1 	上 	
+			Top 2 	说 	
+			Top 3 	什 	
+			Top 4 	睡 	
+			Top 5 	三 	
+			Top 6 	生 	
+			Top 7 	十 	
+			Top 8 	谁 	
+			Top 9 	四 	
+
+Sequence	28
+	Epcho 15 Origin:	[824 620  39] 	rhr 	任	何	人	
+	Epcho 15 Decoded: 			Top 0 	人 	
+			Top 1 	让 	
+			Top 2 	认 	
+			Top 3 	日 	
+			Top 4 	我 	
+			Top 5 	然 	
+			Top 6 	如 	
+			Top 7 	任 	
+			Top 8 	
+			Top 9 	热 	
+
+Sequence	29
+	Epcho 15 Origin:	[68 13  0] 	guoq 	过	去	
+	Epcho 15 Decoded: 			Top 0 	给 	去 	
+			Top 1 	过 	去 	
+			Top 2 	干 	去 	
+			Top 3 	给 	
+			Top 4 	搞 	去 	
+			Top 5 	高 	去 	
+			Top 6 	跟 	去 	
+			Top 7 	刚 	去 	
+			Top 8 	感 	去 	
+			Top 9 	过 	
+
+Sequence	30
+	Epcho 15 Origin:	[134  35   3] 	daigeini 	带	给	你	
+	Epcho 15 Decoded: 			Top 0 	大 	个 	你 	
+			Top 1 	大 	你 	
+			Top 2 	打 	个 	你 	
+			Top 3 	都 	个 	你 	
+			Top 4 	打 	你 	
+			Top 5 	都 	你 	
+			Top 6 	大 	给 	你 	
+			Top 7 	对 	个 	你 	
+			Top 8 	等 	个 	你 	
+			Top 9 	多 	个 	你 	
+
+Sequence	31
+	Epcho 15 Origin:	[135 923   0] 	wuc 	午	餐	
+	Epcho 15 Decoded: 			Top 0 	我 	
+			Top 1 	我 	出 	
+			Top 2 	我 	餐 	
+			Top 3 	我 	草 	
+			Top 4 	我 	吃 	
+			Top 5 	我 	错 	
+			Top 6 	我 	槽 	
+			Top 7 	我 	次 	
+			Top 8 	玩 	
+			Top 9 	我 	车 	
+
+valid is finished in 18.623996973 seconds
+Epoch: 15 Valid loss: 270.00 Valid ler: 28.67 Valid time:18.623996973.sec
+Train step: 469000 Train loss: 335.010192871 Train ler: 28.17 Train time: 120.620012283.sec
+Train step: 470000 Train loss: 348.526489258 Train ler: 28.33 Train time: 110.871076584.sec
+Train step: 471000 Train loss: 328.24899292 Train ler: 27.50 Train time: 136.15489006.sec
+Train step: 472000 Train loss: 353.970611572 Train ler: 29.33 Train time: 131.82091713.sec
+Train step: 473000 Train loss: 332.054870605 Train ler: 28.67 Train time: 129.541158676.sec
+Train step: 474000 Train loss: 315.264923096 Train ler: 27.25 Train time: 122.699022293.sec
+Train step: 475000 Train loss: 360.67565918 Train ler: 28.00 Train time: 113.759994507.sec
+Train step: 476000 Train loss: 306.230041504 Train ler: 24.92 Train time: 129.545211792.sec
+Train step: 477000 Train loss: 285.806549072 Train ler: 28.33 Train time: 107.157230377.sec
+Train step: 478000 Train loss: 344.864379883 Train ler: 27.58 Train time: 119.673013687.sec
+Train step: 479000 Train loss: 349.060913086 Train ler: 28.00 Train time: 119.533061981.sec
+Train step: 480000 Train loss: 329.991516113 Train ler: 28.25 Train time: 117.799043655.sec
+Train step: 481000 Train loss: 368.672668457 Train ler: 29.25 Train time: 122.003078461.sec
+Train step: 482000 Train loss: 357.088043213 Train ler: 29.25 Train time: 127.749919891.sec
+Train step: 483000 Train loss: 363.870452881 Train ler: 30.00 Train time: 128.731966019.sec
+Train step: 484000 Train loss: 333.35357666 Train ler: 29.00 Train time: 109.351158142.sec
+Train step: 485000 Train loss: 305.437072754 Train ler: 25.83 Train time: 118.641138077.sec
+Train step: 486000 Train loss: 312.271179199 Train ler: 26.83 Train time: 108.538150787.sec
+Train step: 487000 Train loss: 349.273254395 Train ler: 29.58 Train time: 122.951030731.sec
+Train step: 488000 Train loss: 307.56427002 Train ler: 26.25 Train time: 114.016056061.sec
+Train step: 489000 Train loss: 362.705566406 Train ler: 29.67 Train time: 120.03993988.sec
+Train step: 490000 Train loss: 344.721557617 Train ler: 27.00 Train time: 110.74090004.sec
+Train step: 491000 Train loss: 355.530792236 Train ler: 28.25 Train time: 116.044998169.sec
+Train step: 492000 Train loss: 367.476196289 Train ler: 28.33 Train time: 109.843015671.sec
+Train step: 493000 Train loss: 303.70111084 Train ler: 30.00 Train time: 121.792078018.sec
+Train step: 494000 Train loss: 358.515991211 Train ler: 27.50 Train time: 120.999097824.sec
+Train step: 495000 Train loss: 316.671234131 Train ler: 27.83 Train time: 114.072084427.sec
+Train step: 496000 Train loss: 330.321411133 Train ler: 26.83 Train time: 117.254972458.sec
+Train step: 497000 Train loss: 316.864501953 Train ler: 25.50 Train time: 105.936050415.sec
+Train step: 498000 Train loss: 295.137237549 Train ler: 27.83 Train time: 136.94691658.sec
+Train step: 499000 Train loss: 338.511138916 Train ler: 26.25 Train time: 106.133937836.sec
+One epoch data is finished
+Saving model...
+start validation
+Variables initialized ...
+Read model parameters from ./model/dbg_ctc_499984
+valid is finished in 17.8784179688 seconds
+Epoch: 16 Valid loss: 269.23 Valid ler: 28.67 Valid time:17.8784179688.sec
+Train step: 500000 Train loss: 317.459503174 Train ler: 28.17 Train time: 115.515947342.sec
+Train step: 501000 Train loss: 336.476593018 Train ler: 26.83 Train time: 109.290122986.sec
+Train step: 502000 Train loss: 310.488891602 Train ler: 28.17 Train time: 121.773004532.sec
+Train step: 503000 Train loss: 354.778747559 Train ler: 30.00 Train time: 113.617897034.sec
+Train step: 504000 Train loss: 338.556518555 Train ler: 28.00 Train time: 116.657972336.sec
+Train step: 505000 Train loss: 317.996887207 Train ler: 28.42 Train time: 104.920864105.sec
+Train step: 506000 Train loss: 285.718231201 Train ler: 28.25 Train time: 122.945070267.sec
+Train step: 507000 Train loss: 310.501861572 Train ler: 28.25 Train time: 134.891033173.sec
+Train step: 508000 Train loss: 347.459411621 Train ler: 26.92 Train time: 123.065948486.sec
+Train step: 509000 Train loss: 327.187866211 Train ler: 26.17 Train time: 113.672971725.sec
+Train step: 510000 Train loss: 343.880249023 Train ler: 28.25 Train time: 138.926029205.sec
+Train step: 511000 Train loss: 341.860595703 Train ler: 27.67 Train time: 121.959924698.sec
+Train step: 512000 Train loss: 346.656738281 Train ler: 30.67 Train time: 99.1389751434.sec
+Train step: 513000 Train loss: 293.329589844 Train ler: 25.83 Train time: 104.046106339.sec
+Train step: 514000 Train loss: 318.477996826 Train ler: 28.50 Train time: 122.279882431.sec
+Train step: 515000 Train loss: 345.143493652 Train ler: 29.00 Train time: 121.833086014.sec
+Train step: 516000 Train loss: 309.075683594 Train ler: 25.83 Train time: 117.403030396.sec
+Train step: 517000 Train loss: 317.898498535 Train ler: 29.33 Train time: 101.631879807.sec
+Train step: 518000 Train loss: 343.459228516 Train ler: 26.83 Train time: 130.629062653.sec
+Train step: 519000 Train loss: 335.228118896 Train ler: 27.08 Train time: 104.277133942.sec
+Train step: 520000 Train loss: 328.830963135 Train ler: 28.83 Train time: 134.927988052.sec
+Train step: 521000 Train loss: 362.389587402 Train ler: 30.08 Train time: 120.70608139.sec
+Train step: 522000 Train loss: 320.646453857 Train ler: 28.00 Train time: 121.829032898.sec
+Train step: 523000 Train loss: 312.641174316 Train ler: 27.17 Train time: 107.016086578.sec
+Train step: 524000 Train loss: 325.18347168 Train ler: 27.00 Train time: 131.66809082.sec
+Train step: 525000 Train loss: 328.059051514 Train ler: 25.83 Train time: 104.350090027.sec
+Train step: 526000 Train loss: 316.58883667 Train ler: 29.17 Train time: 103.536128998.sec
+Train step: 527000 Train loss: 311.112487793 Train ler: 27.00 Train time: 117.678165436.sec
+Train step: 528000 Train loss: 316.608184814 Train ler: 31.00 Train time: 101.596832275.sec
+Train step: 529000 Train loss: 288.024536133 Train ler: 27.00 Train time: 100.394010544.sec
+Train step: 530000 Train loss: 323.726501465 Train ler: 29.83 Train time: 109.994888306.sec
+Train step: 531000 Train loss: 357.799316406 Train ler: 29.92 Train time: 108.578920364.sec
+One epoch data is finished
+Saving model...
+start validation
+Variables initialized ...
+Read model parameters from ./model/dbg_ctc_531233
+valid is finished in 18.0326938629 seconds
+Epoch: 17 Valid loss: 275.84 Valid ler: 29.00 Valid time:18.0326938629.sec
+Train step: 532000 Train loss: 338.116333008 Train ler: 30.67 Train time: 92.649936676.sec
+Train step: 533000 Train loss: 330.460693359 Train ler: 25.17 Train time: 86.375951767.sec
+Train step: 534000 Train loss: 331.883911133 Train ler: 29.50 Train time: 113.003015518.sec
+Train step: 535000 Train loss: 389.223571777 Train ler: 28.92 Train time: 127.141952515.sec
+Train step: 536000 Train loss: 324.022369385 Train ler: 29.33 Train time: 129.981040955.sec
+Train step: 537000 Train loss: 329.134124756 Train ler: 29.67 Train time: 121.331930161.sec
+Train step: 538000 Train loss: 339.128295898 Train ler: 27.33 Train time: 104.182958603.sec
+Train step: 539000 Train loss: 327.395690918 Train ler: 28.83 Train time: 130.448102951.sec
+Train step: 540000 Train loss: 307.050354004 Train ler: 27.17 Train time: 129.304885864.sec
+Train step: 541000 Train loss: 335.302185059 Train ler: 26.67 Train time: 124.753952026.sec
+Train step: 542000 Train loss: 313.036621094 Train ler: 27.75 Train time: 132.853031158.sec
+Train step: 543000 Train loss: 339.84664917 Train ler: 29.00 Train time: 115.370035172.sec
+Train step: 544000 Train loss: 337.892059326 Train ler: 27.00 Train time: 126.087903976.sec
+Train step: 545000 Train loss: 331.785430908 Train ler: 28.50 Train time: 122.363805771.sec
+Train step: 546000 Train loss: 340.71270752 Train ler: 28.83 Train time: 107.354879379.sec
+Train step: 547000 Train loss: 332.621826172 Train ler: 27.92 Train time: 126.952886581.sec
+Train step: 548000 Train loss: 336.125213623 Train ler: 28.17 Train time: 119.351863861.sec
+Train step: 549000 Train loss: 291.051696777 Train ler: 26.00 Train time: 119.482040405.sec
+Train step: 550000 Train loss: 349.49786377 Train ler: 30.08 Train time: 130.323886871.sec
+Train step: 551000 Train loss: 302.524902344 Train ler: 26.63 Train time: 128.149986267.sec
+Train step: 552000 Train loss: 320.958984375 Train ler: 26.67 Train time: 119.921922684.sec
+Train step: 553000 Train loss: 334.889160156 Train ler: 27.33 Train time: 105.030059814.sec
+Train step: 554000 Train loss: 345.568786621 Train ler: 28.33 Train time: 115.139961243.sec
+Train step: 555000 Train loss: 328.499389648 Train ler: 27.67 Train time: 117.148160934.sec
+Train step: 556000 Train loss: 269.688323975 Train ler: 28.17 Train time: 129.145860672.sec
+Train step: 557000 Train loss: 346.5418396 Train ler: 28.33 Train time: 116.396188736.sec
+Train step: 558000 Train loss: 353.024291992 Train ler: 26.92 Train time: 133.663892746.sec
+Train step: 559000 Train loss: 378.748046875 Train ler: 31.33 Train time: 113.394021988.sec
+Train step: 560000 Train loss: 339.908294678 Train ler: 29.00 Train time: 125.09393692.sec
+Train step: 561000 Train loss: 324.200927734 Train ler: 28.92 Train time: 131.118059158.sec
+Train step: 562000 Train loss: 311.550018311 Train ler: 26.50 Train time: 125.211000443.sec
+One epoch data is finished
+Saving model...
+start validation
+Variables initialized ...
+Read model parameters from ./model/dbg_ctc_562482
+valid is finished in 17.9891219139 seconds
+Epoch: 18 Valid loss: 271.53 Valid ler: 29.00 Valid time:17.9891219139.sec
+Train step: 563000 Train loss: 349.046234131 Train ler: 29.58 Train time: 122.878074646.sec
+Train step: 564000 Train loss: 308.111663818 Train ler: 28.67 Train time: 125.509977341.sec
+Train step: 565000 Train loss: 355.473907471 Train ler: 29.67 Train time: 123.389005661.sec
+Train step: 566000 Train loss: 292.853973389 Train ler: 28.17 Train time: 116.996049881.sec
+Train step: 567000 Train loss: 349.264648438 Train ler: 30.17 Train time: 134.599924088.sec
+Train step: 568000 Train loss: 328.131134033 Train ler: 27.92 Train time: 99.5390415192.sec
+Train step: 569000 Train loss: 301.365570068 Train ler: 27.83 Train time: 100.278139114.sec
+Train step: 570000 Train loss: 350.756103516 Train ler: 28.67 Train time: 118.587017059.sec
+Train step: 571000 Train loss: 354.13394165 Train ler: 29.17 Train time: 110.800981522.sec
+Train step: 572000 Train loss: 308.472045898 Train ler: 28.33 Train time: 135.64491272.sec
+Train step: 573000 Train loss: 319.52947998 Train ler: 26.50 Train time: 120.842933655.sec
+Train step: 574000 Train loss: 323.452758789 Train ler: 28.08 Train time: 113.740921021.sec
+Train step: 575000 Train loss: 288.260192871 Train ler: 26.72 Train time: 116.478919983.sec
+Train step: 576000 Train loss: 345.074707031 Train ler: 28.42 Train time: 111.740112305.sec
+Train step: 577000 Train loss: 294.065643311 Train ler: 26.17 Train time: 118.453025818.sec
+Train step: 578000 Train loss: 335.286987305 Train ler: 25.83 Train time: 128.7150383.sec
+Train step: 579000 Train loss: 328.536621094 Train ler: 27.00 Train time: 122.991085052.sec
+Train step: 580000 Train loss: 299.064147949 Train ler: 30.1

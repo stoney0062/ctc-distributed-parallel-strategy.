@@ -1,0 +1,415 @@
+Sequence	0
+	Epcho 10 Origin:	[26 64  0] 	lma 	来	嘛	
+	Epcho 10 Decoded: 			Top 0 	老 	
+			Top 1 	来 	
+			Top 2 	两 	
+			Top 3 	老 	么 	
+			Top 4 	了 	
+			Top 5 	来 	么 	
+			Top 6 	拉 	
+			Top 7 	两 	么 	
+			Top 8 	理 	
+			Top 9 	聊 	
+
+Sequence	1
+	Epcho 10 Origin:	[1221 2533    0] 	shat 	沙	滩	
+	Epcho 10 Decoded: 			Top 0 	是 	
+			Top 1 	上 	
+			Top 2 	说 	
+			Top 3 	睡 	
+			Top 4 	什 	
+			Top 5 	三 	
+			Top 6 	生 	
+			Top 7 	十 	
+			Top 8 	谁 	
+			Top 9 	手 	
+
+Sequence	2
+	Epcho 10 Origin:	[1116 1047    0] 	jiwei 	纪	委	
+	Epcho 10 Decoded: 			Top 0 	就 	
+			Top 1 	几 	
+			Top 2 	加 	
+			Top 3 	进 	
+			Top 4 	叫 	
+			Top 5 	今 	
+			Top 6 	接 	
+			Top 7 	家 	
+			Top 8 	结 	
+			Top 9 	经 	
+
+Sequence	3
+	Epcho 10 Origin:	[197   0   0] 	nia 	年	
+	Epcho 10 Decoded: 			Top 0 	你 	
+			Top 1 	那 	
+			Top 2 	哪 	
+			Top 3 	拿 	
+			Top 4 	男 	
+			Top 5 	女 	
+			Top 6 	年 	
+			Top 7 	能 	
+			Top 8 	难 	
+			Top 9 	内 	
+
+Sequence	4
+	Epcho 10 Origin:	[10  8 70] 	bzj 	不	在	家	
+	Epcho 10 Decoded: 			Top 0 	不 	
+			Top 1 	不 	子 	
+			Top 2 	不 	知 	
+			Top 3 	不 	在 	
+			Top 4 	不 	急 	
+			Top 5 	不 	着 	
+			Top 6 	不 	家 	
+			Top 7 	不 	怎 	
+			Top 8 	不 	己 	
+			Top 9 	不 	就 	
+
+Sequence	5
+	Epcho 10 Origin:	[197   0   0] 	nin 	年	
+	Epcho 10 Decoded: 			Top 0 	你 	
+			Top 1 	那 	
+			Top 2 	哪 	
+			Top 3 	拿 	
+			Top 4 	男 	
+			Top 5 	女 	
+			Top 6 	能 	
+			Top 7 	年 	
+			Top 8 	难 	
+			Top 9 	内 	
+
+Sequence	6
+	Epcho 10 Origin:	[353   4   0] 	fanl 	烦	了	
+	Epcho 10 Decoded: 			Top 0 	发 	了 	
+			Top 1 	发 	
+			Top 2 	放 	了 	
+			Top 3 	放 	
+			Top 4 	分 	了 	
+			Top 5 	反 	了 	
+			Top 6 	方 	了 	
+			Top 7 	分 	
+			Top 8 	非 	了 	
+			Top 9 	飞 	了 	
+
+Sequence	7
+	Epcho 10 Origin:	[1017 1018    0] 	peix 	培	训	
+	Epcho 10 Decoded: 			Top 0 	平 	
+			Top 1 	陪 	
+			Top 2 	骗 	
+			Top 3 	跑 	
+			Top 4 	拍 	
+			Top 5 	怕 	
+			Top 6 	排 	
+			Top 7 	胖 	
+			Top 8 	我 	
+			Top 9 	配 	
+
+Sequence	8
+	Epcho 10 Origin:	[740 212   0] 	yuj 	遇	见	
+	Epcho 10 Decoded: 			Top 0 	一 	
+			Top 1 	有 	
+			Top 2 	要 	
+			Top 3 	也 	
+			Top 4 	一 	见 	
+			Top 5 	又 	
+			Top 6 	原 	
+			Top 7 	用 	
+			Top 8 	有 	见 	
+			Top 9 	元 	
+
+Sequence	9
+	Epcho 10 Origin:	[177 192   0] 	xinxi 	信	息	
+	Epcho 10 Decoded: 			Top 0 	小 	
+			Top 1 	下 	
+			Top 2 	想 	
+			Top 3 	新 	
+			Top 4 	心 	
+			Top 5 	洗 	
+			Top 6 	学 	
+			Top 7 	行 	
+			Top 8 	笑 	
+			Top 9 	写 	
+
+Sequence	10
+	Epcho 10 Origin:	[324 145   3] 	pzn 	陪	着	你	
+	Epcho 10 Decoded: 			Top 0 	平 	
+			Top 1 	陪 	
+			Top 2 	骗 	
+			Top 3 	跑 	
+			Top 4 	拍 	
+			Top 5 	平 	子 	
+			Top 6 	怕 	
+			Top 7 	陪 	子 	
+			Top 8 	排 	
+			Top 9 	骗 	子 	
+
+Sequence	11
+	Epcho 10 Origin:	[73 42 43] 	yongsm 	用	什	么	
+	Epcho 10 Decoded: 			Top 0 	一 	死 	
+			Top 1 	一 	
+			Top 2 	一 	上 	
+			Top 3 	一 	事 	
+			Top 4 	一 	时 	
+			Top 5 	一 	死 	么 	
+			Top 6 	一 	是 	
+			Top 7 	一 	色 	
+			Top 8 	一 	手 	
+			Top 9 	一 	么 	
+
+Sequence	12
+	Epcho 10 Origin:	[ 636 2119    0] 	qiangjie 	抢	劫	
+	Epcho 10 Decoded: 			Top 0 	去 	奸 	
+			Top 1 	起 	奸 	
+			Top 2 	全 	奸 	
+			Top 3 	去 	
+			Top 4 	我 	奸 	
+			Top 5 	去 	家 	
+			Top 6 	去 	金 	
+			Top 7 	起 	
+			Top 8 	亲 	奸 	
+			Top 9 	情 	奸 	
+
+Sequence	13
+	Epcho 10 Origin:	[788 500   0] 	yali 	压	力	
+	Epcho 10 Decoded: 			Top 0 	一 	
+			Top 1 	有 	
+			Top 2 	要 	
+			Top 3 	一 	了 	
+			Top 4 	也 	
+			Top 5 	一 	力 	
+			Top 6 	一 	来 	
+			Top 7 	有 	了 	
+			Top 8 	一 	里 	
+			Top 9 	又 	
+
+Sequence	14
+	Epcho 10 Origin:	[ 10 159   0] 	bxiang 	不	像	
+	Epcho 10 Decoded: 			Top 0 	不 	
+			Top 1 	不 	想 	
+			Top 2 	不 	行 	
+			Top 3 	不 	喜 	
+			Top 4 	不 	信 	
+			Top 5 	不 	心 	
+			Top 6 	不 	下 	
+			Top 7 	别 	
+			Top 8 	不 	须 	
+			Top 9 	不 	小 	
+
+Sequence	15
+	Epcho 10 Origin:	[26 18  0] 	laishuo 	来	说	
+	Epcho 10 Decoded: 			Top 0 	老 	
+			Top 1 	来 	
+			Top 2 	两 	
+			Top 3 	老 	是 	
+			Top 4 	老 	死 	
+			Top 5 	老 	说 	
+			Top 6 	来 	是 	
+			Top 7 	来 	死 	
+			Top 8 	两 	是 	
+			Top 9 	两 	死 	
+
+Sequence	16
+	Epcho 10 Origin:	[1752    0    0] 	mei 	眉	
+	Epcho 10 Decoded: 			Top 0 	没 	
+			Top 1 	明 	
+			Top 2 	买 	
+			Top 3 	美 	
+			Top 4 	每 	
+			Top 5 	马 	
+			Top 6 	麻 	
+			Top 7 	满 	
+			Top 8 	
+			Top 9 	妹 	
+
+Sequence	17
+	Epcho 10 Origin:	[223 223   0] 	bangb 	帮	帮	
+	Epcho 10 Decoded: 			Top 0 	不 	
+			Top 1 	不 	
+			Top 2 	不 	吧 	
+			Top 3 	不 	便 	
+			Top 4 	不 	白 	
+			Top 5 	别 	
+			Top 6 	不 	我 	
+			Top 7 	不 	包 	
+			Top 8 	不 	你 	
+			Top 9 	不 	棒 	
+
+Sequence	18
+	Epcho 10 Origin:	[ 175 1411    0] 	zhengg 	正	规	
+	Epcho 10 Decoded: 			Top 0 	这 	个 	
+			Top 1 	这 	高 	
+			Top 2 	在 	个 	
+			Top 3 	这 	
+			Top 4 	这 	功 	
+			Top 5 	真 	个 	
+			Top 6 	怎 	个 	
+			Top 7 	再 	个 	
+			Top 8 	找 	个 	
+			Top 9 	做 	个 	
+
+Sequence	19
+	Epcho 10 Origin:	[ 14 519   0] 	youb 	有	病	
+	Epcho 10 Decoded: 			Top 0 	一 	不 	
+			Top 1 	有 	不 	
+			Top 2 	一 	
+			Top 3 	要 	不 	
+			Top 4 	有 	
+			Top 5 	也 	不 	
+			Top 6 	要 	
+			Top 7 	一 	病 	
+			Top 8 	一 	吧 	
+			Top 9 	一 	本 	
+
+Sequence	20
+	Epcho 10 Origin:	[ 1  7 28] 	wojiuxiang 	我	就	想	
+	Epcho 10 Decoded: 			Top 0 	我 	想 	
+			Top 1 	我 	就 	想 	
+			Top 2 	我 	
+			Top 3 	我 	行 	
+			Top 4 	我 	觉 	想 	
+			Top 5 	我 	喜 	
+			Top 6 	我 	是 	
+			Top 7 	我 	家 	想 	
+			Top 8 	我 	像 	
+			Top 9 	我 	知 	
+
+Sequence	21
+	Epcho 10 Origin:	[116  33  17] 	syn 	所	以	呢	
+	Epcho 10 Decoded: 			Top 0 	是 	
+			Top 1 	上 	
+			Top 2 	说 	
+			Top 3 	睡 	
+			Top 4 	什 	
+			Top 5 	三 	
+			Top 6 	生 	
+			Top 7 	十 	
+			Top 8 	谁 	
+			Top 9 	手 	
+
+Sequence	22
+	Epcho 10 Origin:	[29 75 18] 	kxs 	看	小	说	
+	Epcho 10 Decoded: 			Top 0 	看 	是 	
+			Top 1 	看 	
+			Top 2 	看 	说 	
+			Top 3 	可 	是 	
+			Top 4 	快 	是 	
+			Top 5 	可 	
+			Top 6 	快 	
+			Top 7 	看 	睡 	
+			Top 8 	开 	是 	
+			Top 9 	开 	
+
+Sequence	23
+	Epcho 10 Origin:	[ 497 1215    0] 	huowu 	火	舞	
+	Epcho 10 Decoded: 			Top 0 	好 	
+			Top 1 	好 	我 	
+			Top 2 	还 	
+			Top 3 	好 	玩 	
+			Top 4 	还 	我 	
+			Top 5 	好 	舞 	
+			Top 6 	好 	晚 	
+			Top 7 	很 	
+			Top 8 	好 	为 	
+			Top 9 	还 	玩 	
+
+Sequence	24
+	Epcho 10 Origin:	[1366 1367    0] 	shanl 	善	良	
+	Epcho 10 Decoded: 			Top 0 	是 	了 	
+			Top 1 	是 	
+			Top 2 	上 	了 	
+			Top 3 	上 	
+			Top 4 	说 	了 	
+			Top 5 	说 	
+			Top 6 	睡 	了 	
+			Top 7 	睡 	
+			Top 8 	什 	了 	
+			Top 9 	什 	
+
+Sequence	25
+	Epcho 10 Origin:	[1769  158    0] 	huijie 	慧	姐	
+	Epcho 10 Decoded: 			Top 0 	好 	
+			Top 1 	好 	家 	
+			Top 2 	还 	
+			Top 3 	还 	家 	
+			Top 4 	很 	
+			Top 5 	很 	家 	
+			Top 6 	回 	
+			Top 7 	回 	家 	
+			Top 8 	好 	久 	
+			Top 9 	会 	
+
+Sequence	26
+	Epcho 10 Origin:	[ 74 489  93] 	bieguaji 	别	挂	机	
+	Epcho 10 Decoded: 			Top 0 	不 	
+			Top 1 	别 	
+			Top 2 	不 	个 	
+			Top 3 	不 	了 	
+			Top 4 	比 	
+			Top 5 	帮 	
+			Top 6 	表 	
+			Top 7 	白 	
+			Top 8 	保 	
+			Top 9 	不 	
+
+Sequence	27
+	Epcho 10 Origin:	[ 300 1163    0] 	sg 	傻	瓜	
+	Epcho 10 Decoded: 			Top 0 	是 	
+			Top 1 	上 	
+			Top 2 	说 	
+			Top 3 	睡 	
+			Top 4 	什 	
+			Top 5 	三 	
+			Top 6 	生 	
+			Top 7 	十 	
+			Top 8 	谁 	
+			Top 9 	手 	
+
+Sequence	28
+	Epcho 10 Origin:	[824 620  39] 	rhr 	任	何	人	
+	Epcho 10 Decoded: 			Top 0 	人 	
+			Top 1 	日 	
+			Top 2 	让 	
+			Top 3 	认 	
+			Top 4 	然 	
+			Top 5 	如 	
+			Top 6 	我 	
+			Top 7 	任 	
+			Top 8 	
+			Top 9 	热 	
+
+Sequence	29
+	Epcho 10 Origin:	[68 13  0] 	guoq 	过	去	
+	Epcho 10 Decoded: 			Top 0 	给 	去 	
+			Top 1 	过 	去 	
+			Top 2 	搞 	去 	
+			Top 3 	干 	去 	
+			Top 4 	刚 	去 	
+			Top 5 	高 	去 	
+			Top 6 	给 	
+			Top 7 	感 	去 	
+			Top 8 	跟 	去 	
+			Top 9 	关 	去 	
+
+Sequence	30
+	Epcho 10 Origin:	[134  35   3] 	daigeini 	带	给	你	
+	Epcho 10 Decoded: 			Top 0 	大 	你 	
+			Top 1 	打 	你 	
+			Top 2 	都 	你 	
+			Top 3 	等 	你 	
+			Top 4 	对 	你 	
+			Top 5 	多 	你 	
+			Top 6 	到 	你 	
+			Top 7 	第 	你 	
+			Top 8 	的 	你 	
+			Top 9 	大 	个 	你 	
+
+Sequence	31
+	Epcho 10 Origin:	[135 923   0] 	wuc 	午	餐	
+	Epcho 10 Decoded: 			Top 0 	我 	
+			Top 1 	我 	出 	
+			Top 2 	我 	草 	
+			Top 3 	我 	槽 	
+			Top 4 	我 	吃 	
+			Top 5 	我 	餐 	
+			Top 6 	我 	次 	
+			Top 7 	我 	错 	
+			Top 8 	我 	车 	
+			Top 9 	我 	耻 	
